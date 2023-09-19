@@ -1,0 +1,562 @@
+[
+    {
+        "instruction": "What is the most common reason for a lot of authentication failures?",
+        "input": "Disconnecting: Too many authentication failures for admin [preauth]",
+        "output": "Disconnecting"
+    },
+    {
+        "instruction": "What program failed to pass the password?",
+        "input": "Failed password for uucp from 103.207.39.16 port 42435 ssh2",
+        "output": "uucp"
+    },
+    {
+        "instruction": "Who resets the connection?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "peer"
+    },
+    {
+        "instruction": "What port did the user butter fail to use?",
+        "input": "Failed password for invalid user butter from 187.141.143.180 port 48369 ssh2",
+        "output": "48369"
+    },
+    {
+        "instruction": "What is the status of the user postgres?",
+        "input": "Invalid user postgres from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What port did the password fail on?",
+        "input": "Failed password for root from 183.62.140.253 port 53630 ssh2",
+        "output": "53630"
+    },
+    {
+        "instruction": "What is the port number of the invalid user test?",
+        "input": "Failed password for invalid user test from 103.99.0.122 port 51592 ssh2",
+        "output": "51592"
+    },
+    {
+        "instruction": "What is closed for user fztu?",
+        "input": "pam_unix(sshd:session): session closed for user fztu",
+        "output": "session"
+    },
+    {
+        "instruction": "What was the result of the connection reset?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "failed"
+    },
+    {
+        "instruction": "What is the name of the function that returns an invalid user ted?",
+        "input": "input_userauth_request: invalid user ted [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What is the status of the user chen?",
+        "input": "Invalid user chen from 202.100.179.208",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the location of the invalid user butter?",
+        "input": "Invalid user butter from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the status of the user FILTER?",
+        "input": "Invalid user FILTER from 104.192.3.34",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the status of user pgadmin?",
+        "input": "Invalid user pgadmin from 112.95.230.3",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What did the webmaster fail to provide?",
+        "input": "Failed password for invalid user webmaster from 173.234.31.186 port 39257 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the location of the user vnc?",
+        "input": "Invalid user vnc from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the status of user utsims from 112.95.230.3?",
+        "input": "Invalid user utsims from 112.95.230.3",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the name of the peer who resets the connection?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "[preauth]"
+    },
+    {
+        "instruction": "What is the status of the user abc from 187.141.143.180?",
+        "input": "Invalid user abc from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "Did you receive an identification string from 195.154.37.122?",
+        "input": "Did not receive identification string from 195.154.37.122",
+        "output": "not"
+    },
+    {
+        "instruction": "What is the location of the user postgres from?",
+        "input": "Invalid user postgres from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the result of a peer's failure to reset the connection?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "fatal:"
+    },
+    {
+        "instruction": "What is the location of the user nagios1?",
+        "input": "Invalid user nagios1 from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the name of the function that is used to determine if a user default is invalid?",
+        "input": "input_userauth_request: invalid user default [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What is the status of user test9?",
+        "input": "Invalid user test9 from 52.80.34.196",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the status of the user eoor?",
+        "input": "Invalid user eoor from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What was closed by 60.2.12.12?",
+        "input": "Connection closed by 60.2.12.12 [preauth]",
+        "output": "Connection"
+    },
+    {
+        "instruction": "What is the location of the user redhat?",
+        "input": "Invalid user redhat from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the username of the user that fails to authenticate?",
+        "input": "PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root",
+        "output": "root"
+    },
+    {
+        "instruction": "Did I receive an identification string from 103.207.39.212?",
+        "input": "Did not receive identification string from 103.207.39.212",
+        "output": "not"
+    },
+    {
+        "instruction": "What is the status of the user operator?",
+        "input": "Invalid user operator from 103.99.0.122",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the status of user management?",
+        "input": "Invalid user Management from 103.99.0.122",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What did nagios1 fail to get?",
+        "input": "Failed password for invalid user nagios1 from 187.141.143.180 port 43647 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the IP address of the invalid user test?",
+        "input": "Invalid user test from 52.80.34.196",
+        "output": "52.80.34.196"
+    },
+    {
+        "instruction": "What port did matlab fail to use?",
+        "input": "Failed password for invalid user matlab from 52.80.34.196 port 46199 ssh2",
+        "output": "46199"
+    },
+    {
+        "instruction": "What is the status of the user cheng?",
+        "input": "Invalid user cheng from 202.100.179.208",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What was the status of the invalid user admin?",
+        "input": "Failed none for invalid user admin from 5.188.10.180 port 52631 ssh2",
+        "output": "Failed"
+    },
+    {
+        "instruction": "What did the port 50719 ssh2 fail to send?",
+        "input": "message repeated 5 times: [ Failed password for root from 106.5.5.195 port 50719 ssh2]",
+        "output": "password"
+    },
+    {
+        "instruction": "What did the port 40862 ssh2 fail to send?",
+        "input": "Failed password for root from 183.62.140.253 port 40862 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What did the peer reset?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "Connection"
+    },
+    {
+        "instruction": "Did I receive an identification string from 195.154.37.122?",
+        "input": "Did not receive identification string from 195.154.37.122",
+        "output": "not"
+    },
+    {
+        "instruction": "What was the possible cause of the failure of the reverse mapping check?",
+        "input": "reverse mapping checking getaddrinfo for 191-210-223-172.user.vivozap.com.br [191.210.223.172] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "BREAK-IN"
+    },
+    {
+        "instruction": "What database did not receive a password?",
+        "input": "Failed password for mysql from 187.141.143.180 port 52586 ssh2",
+        "output": "mysql"
+    },
+    {
+        "instruction": "What is the name of the function that is used to identify an invalid user postgres?",
+        "input": "input_userauth_request: invalid user postgres [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What is the location of the user bssh?",
+        "input": "Invalid user bssh from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the status of the session for user fztu?",
+        "input": "pam_unix(sshd:session): session closed for user fztu",
+        "output": "closed"
+    },
+    {
+        "instruction": "What was closed by 212.47.254.145?",
+        "input": "Connection closed by 212.47.254.145 [preauth]",
+        "output": "Connection"
+    },
+    {
+        "instruction": "Who is responsible for too many authentication failures?",
+        "input": "Disconnecting: Too many authentication failures for admin [preauth]",
+        "output": "admin"
+    },
+    {
+        "instruction": "What did the port 33310 ssh2 fail to provide?",
+        "input": "Failed password for invalid user support from 103.207.39.16 port 33310 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the status of the user bssh?",
+        "input": "Invalid user bssh from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What port did a user ubnt fail to connect to?",
+        "input": "Failed password for invalid user ubnt from 103.99.0.122 port 64908 ssh2",
+        "output": "64908"
+    },
+    {
+        "instruction": "What is the IP address of the user sandeep?",
+        "input": "Invalid user sandeep from 88.147.143.242",
+        "output": "88.147.143.242"
+    },
+    {
+        "instruction": "What did the port 52644 ssh2 fail to provide?",
+        "input": "Failed password for invalid user support from 103.207.39.212 port 52644 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What port did the password fail?",
+        "input": "Failed password for root from 183.62.140.253 port 41860 ssh2",
+        "output": "41860"
+    },
+    {
+        "instruction": "What failures do PAM 5 more have?",
+        "input": "PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root",
+        "output": "authentication"
+    },
+    {
+        "instruction": "What is the current location of the user nagios?",
+        "input": "Invalid user nagios from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the name of the device that caused an invalid user boot?",
+        "input": "Invalid user boot from 183.62.140.253",
+        "output": "183.62.140.253"
+    },
+    {
+        "instruction": "What user is closed for?",
+        "input": "pam_unix(sshd:session): session closed for user fztu",
+        "output": "fztu"
+    },
+    {
+        "instruction": "What port did the user have to enter a password?",
+        "input": "Failed password for invalid user user from 103.99.0.122 port 61269 ssh2",
+        "output": "61269"
+    },
+    {
+        "instruction": "What did the invalid user user have to enter to get the password?",
+        "input": "Failed password for invalid user user from 103.99.0.122 port 62581 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the current location of the user cyrus?",
+        "input": "Invalid user cyrus from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What did the port 53550 ssh2 fail to provide?",
+        "input": "Failed password for invalid user oracle from 187.141.143.180 port 53550 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the port number of the failed user test9?",
+        "input": "Failed password for invalid user test9 from 52.80.34.196 port 36060 ssh2",
+        "output": "36060"
+    },
+    {
+        "instruction": "What program failed to connect to the port 51528?",
+        "input": "Failed password for uucp from 103.207.39.212 port 51528 ssh2",
+        "output": "uucp"
+    },
+    {
+        "instruction": "What port did the root password fail on?",
+        "input": "Failed password for root from 112.95.230.3 port 52660 ssh2",
+        "output": "52660"
+    },
+    {
+        "instruction": "Did I receive an identification string from 103.207.39.165?",
+        "input": "Did not receive identification string from 103.207.39.165",
+        "output": "not"
+    },
+    {
+        "instruction": "What is the name of the function that is used to determine if a user test2 is valid?",
+        "input": "input_userauth_request: invalid user test2 [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What is the IP address of the user cheng?",
+        "input": "Invalid user cheng from 202.100.179.208",
+        "output": "202.100.179.208"
+    },
+    {
+        "instruction": "What is the name of the function that is used to determine if a user test is invalid?",
+        "input": "input_userauth_request: invalid user test1 [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What port does the user 123 come from?",
+        "input": "Failed password for invalid user 123 from 185.190.58.151 port 48700 ssh2",
+        "output": "48700"
+    },
+    {
+        "instruction": "What is the IP address of the user pgadmin?",
+        "input": "Invalid user pgadmin from 112.95.230.3",
+        "output": "112.95.230.3"
+    },
+    {
+        "instruction": "What did sandeep have a failed to enter?",
+        "input": "Failed password for invalid user sandeep from 88.147.143.242 port 49316 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the status of the user dff?",
+        "input": "Invalid user dff from 183.62.140.253",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What did the port 35013 ssh2 fail to send?",
+        "input": "Failed password for root from 183.62.140.253 port 35013 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What did the peer do to the connection?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "reset"
+    },
+    {
+        "instruction": "Did you receive an identification string from 123.235.32.19?",
+        "input": "Did not receive identification string from 123.235.32.19",
+        "output": "not"
+    },
+    {
+        "instruction": "What is the name of the session opened for user fztu?",
+        "input": "pam_unix(sshd:session): session opened for user fztu by (uid=0)",
+        "output": "pam_unix(sshd:session):"
+    },
+    {
+        "instruction": "What is the IP address of the user that is not a PlcmSpIp?",
+        "input": "Invalid user PlcmSpIp from 103.99.0.122",
+        "output": "103.99.0.122"
+    },
+    {
+        "instruction": "What port did the error occur on?",
+        "input": "Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2",
+        "output": "49811"
+    },
+    {
+        "instruction": "How many times was the error message repeated?",
+        "input": "message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2]",
+        "output": "5"
+    },
+    {
+        "instruction": "What port does the user 1234 come from?",
+        "input": "Failed password for invalid user 1234 from 103.99.0.122 port 53950 ssh2",
+        "output": "53950"
+    },
+    {
+        "instruction": "What is the status of the user guest from 5.188.10.180?",
+        "input": "Invalid user guest from 5.188.10.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What program failed to connect to the port 64009?",
+        "input": "Failed password for uucp from 103.99.0.122 port 64009 ssh2",
+        "output": "uucp"
+    },
+    {
+        "instruction": "How many authentication failures for admin?",
+        "input": "Disconnecting: Too many authentication failures for admin [preauth]",
+        "output": "Too many authentication"
+    },
+    {
+        "instruction": "What is the status of the user zhangyan?",
+        "input": "Invalid user zhangyan from 183.62.140.253",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the status of the user jay?",
+        "input": "Invalid user jay from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the name of the function that is used to manage invalid user accounts?",
+        "input": "input_userauth_request: invalid user Management [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "Did I receive an identification string from 177.79.82.136?",
+        "input": "Did not receive identification string from 177.79.82.136",
+        "output": "not"
+    },
+    {
+        "instruction": "What port did cisco not find?",
+        "input": "Failed password for invalid user cisco from 103.99.0.122 port 58309 ssh2",
+        "output": "58309"
+    },
+    {
+        "instruction": "What is the name of the function that is used to determine if a user test9 is valid?",
+        "input": "input_userauth_request: invalid user test9 [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What port is the password for fztu?",
+        "input": "Accepted password for fztu from 119.137.62.142 port 49116 ssh2",
+        "output": "49116"
+    },
+    {
+        "instruction": "What is the name of the invalid user test9?",
+        "input": "input_userauth_request: invalid user test9 [preauth]",
+        "output": "[preauth]"
+    },
+    {
+        "instruction": "What is the name of the function that is used to determine if a user test9 is valid?",
+        "input": "input_userauth_request: invalid user test9 [preauth]",
+        "output": "input_userauth_request:"
+    },
+    {
+        "instruction": "What is the name of the function that detects an invalid user?",
+        "input": "input_userauth_request: invalid user FILTER [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What did pgadmin fail to provide?",
+        "input": "Failed password for invalid user pgadmin from 112.95.230.3 port 54087 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the status of the user oralce?",
+        "input": "Invalid user oralce from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What failed to reset the connection?",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "Write"
+    },
+    {
+        "instruction": "What is the port number of the failed user test?",
+        "input": "Failed password for invalid user test from 52.80.34.196 port 36060 ssh2",
+        "output": "36060"
+    },
+    {
+        "instruction": "What is the user name of the PAM 5 user?",
+        "input": "PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root",
+        "output": "root"
+    },
+    {
+        "instruction": "What is the IP address of the user 123?",
+        "input": "Invalid user 123 from 185.190.58.151",
+        "output": "185.190.58.151"
+    },
+    {
+        "instruction": "What is the status of the user test1?",
+        "input": "Invalid user test1 from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the address of the device that was disconnected?",
+        "input": "Received disconnect from 119.137.62.142: 11: disconnected by user",
+        "output": "119.137.62.142:"
+    },
+    {
+        "instruction": "What did ftp not receive?",
+        "input": "Failed password for ftp from 187.141.143.180 port 36704 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What did nagios fail to send to the server?",
+        "input": "Failed password for invalid user nagios from 187.141.143.180 port 55761 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the port number of the invalid user operator?",
+        "input": "Failed password for invalid user operator from 103.99.0.122 port 53492 ssh2",
+        "output": "53492"
+    },
+    {
+        "instruction": "What is the status of user postgres1?",
+        "input": "Invalid user postgres1 from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the status of user ubuntu?",
+        "input": "Invalid user ubuntu from 183.62.140.253",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What port did the user 123456 come from?",
+        "input": "Failed password for invalid user 123456 from 183.62.140.253 port 49425 ssh2",
+        "output": "49425"
+    },
+    {
+        "instruction": "What is the status of user 123456?",
+        "input": "Invalid user 123456 from 183.62.140.253",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the port number used to access the webmaster?",
+        "input": "Failed password for invalid user webmaster from 173.234.31.186 port 39257 ssh2",
+        "output": "39257"
+    },
+    {
+        "instruction": "What is the status of the user vnc?",
+        "input": "Invalid user vnc from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What did the webmaster fail to give to the user?",
+        "input": "Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2",
+        "output": "password"
+    }
+]

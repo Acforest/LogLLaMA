@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:60750",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Closed socket connection for client /10.10.34.24:45152 which had sessionid 0x24edfaa8717001a",
+        "output": "Closed socket connection for client <*>:<*> which had sessionid <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "******* GOODBYE /10.10.34.11:52844 ********",
+        "output": "******* GOODBYE <*>:<*> ********"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177",
+        "output": "Established session <*> with negotiated timeout <*> for client <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Client attempting to establish new session at /10.10.34.13:54387",
+        "output": "Client attempting to establish new session at <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Accepted socket connection from /10.10.34.13:54649",
+        "output": "Accepted socket connection from <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expiring session 0x24ed9311942008e, timeout of 10000ms exceeded",
+        "output": "Expiring session <*>, timeout of <*> exceeded"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Closed socket connection for client /10.10.34.37:32918 which had sessionid 0x24edfaa8717000c",
+        "output": "Closed socket connection for client <*>:<*> which had sessionid <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:49076",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 2 at election address /10.10.34.12:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:46360",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Processed session termination for sessionid: 0x34ed9ac1c1e0080",
+        "output": "Processed session termination for sessionid: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:45439",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expiring session 0x14edfaa86f60031, timeout of 10000ms exceeded",
+        "output": "Expiring session <*>, timeout of <*> exceeded"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:50526",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:59706",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Accepted socket connection from /10.10.34.12:59235",
+        "output": "Accepted socket connection from <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 3 at election address /10.10.34.13:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 2 at election address /10.10.34.12:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:57965",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expiring session 0x24edfaa87170002, timeout of 10000ms exceeded",
+        "output": "Expiring session <*>, timeout of <*> exceeded"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Processed session termination for sessionid: 0x14ed93111f20050",
+        "output": "Processed session termination for sessionid: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Closed socket connection for client /10.10.34.12:36401 (no session established for client)",
+        "output": "Closed socket connection for client <*>:<*> (no session established for client)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:45695",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "caught end of stream exception",
+        "output": "caught end of stream exception"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "caught end of stream exception",
+        "output": "caught end of stream exception"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:56644",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:45651",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running",
+        "output": "Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:44989",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Accepted socket connection from /10.10.34.13:54310",
+        "output": "Accepted socket connection from <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:47540",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 3 at election address /10.10.34.13:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection request from old client /10.10.34.16:40418; will be dropped if server is in r-o mode",
+        "output": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:44590",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 2 at election address /10.10.34.12:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Client attempting to establish new session at /10.10.34.39:45022",
+        "output": "Client attempting to establish new session at <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 3 at election address /10.10.34.13:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:47300",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:57904",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 2 at election address /10.10.34.12:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "tickTime set to 2000",
+        "output": "tickTime set to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:47571",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:44879",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expiring session 0x34ede65503f005c, timeout of 10000ms exceeded",
+        "output": "Expiring session <*>, timeout of <*> exceeded"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection request from old client /10.10.34.12:54126; will be dropped if server is in r-o mode",
+        "output": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:46410",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expiring session 0x14f3fdae8ba0017, timeout of 10000ms exceeded",
+        "output": "Expiring session <*>, timeout of <*> exceeded"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 3 at election address /10.10.34.13:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 2 at election address /10.10.34.12:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "autopurge.purgeInterval set to 0",
+        "output": "autopurge.purgeInterval set to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "caught end of stream exception",
+        "output": "caught end of stream exception"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection request from old client /10.10.34.11:37116; will be dropped if server is in r-o mode",
+        "output": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:46170",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection request from old client /10.10.34.13:37229; will be dropped if server is in r-o mode",
+        "output": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Server environment:user.name=zookeeper",
+        "output": "Server environment:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Processed session termination for sessionid: 0x24ee30a54f50019",
+        "output": "Processed session termination for sessionid: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Processed session termination for sessionid: 0x24ed93119420073",
+        "output": "Processed session termination for sessionid: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Accepted socket connection from /10.10.34.11:37021",
+        "output": "Accepted socket connection from <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",
+        "output": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Processed session termination for sessionid: 0x14edfaa86f60047",
+        "output": "Processed session termination for sessionid: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:53230",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Client attempting to establish new session at /10.10.34.11:50301",
+        "output": "Client attempting to establish new session at <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Established session 0x34ee30a5c53002b with negotiated timeout 10000 for client /10.10.34.42:37429",
+        "output": "Established session <*> with negotiated timeout <*> for client <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 1, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Closed socket connection for client /10.10.34.11:59186 which had sessionid 0x34ee30a5c530018",
+        "output": "Closed socket connection for client <*>:<*> which had sessionid <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:49786",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "******* GOODBYE /10.10.34.13:57502 ********",
+        "output": "******* GOODBYE <*>:<*> ********"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:59489",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "minSessionTimeout set to -1",
+        "output": "minSessionTimeout set to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:48502",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.13:42813",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.12:49316",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:47390",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:49957",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expiring session 0x24f4a631df90002, timeout of 10000ms exceeded",
+        "output": "Expiring session <*>, timeout of <*> exceeded"
+    }
+]

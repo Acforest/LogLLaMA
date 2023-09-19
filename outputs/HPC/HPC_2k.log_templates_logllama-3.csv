@@ -1,0 +1,66 @@
+EventTemplate,Occurrences
+Linkerror event interval expired,394
+"ambient <*>,",292
+normal,206
+warning,205
+running,162
+configured out,91
+Fan speeds <*> <*> <*> <*> <*>,69
+boot (command <*>),67
+not responding,60
+link errors remain current,56
+wait (command <*>),51
+NIFF: node <*> has detected an available network connection on network <*> via interface <*>,38
+"ClusterFileSystem: There is no server for <*>, storage <*>",32
+"NIFF: node <*>, has detected an available network connection on network <*>, via interface <*>",31
+critical,20
+blocked,15
+"NIFF: node <*> has detected an available network connection on network <*>, via interface <*>",15
+"ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>,",14
+Link error,13
+Link ok,13
+ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>,13
+"Component State Change: Component <*>, is in the unavailable state (HWID=<*>)",12
+ServerFileSystem: ServerFileSystem domain <*> is full,12
+"wait <*>,",10
+Command has completed successfully,10
+Fan speeds <*> <*> <*> <*> <*> <*>,10
+Link in reset,9
+"ClusterFileSystem: ServerFileSystem domain <*>, is no longer served by node <*>",9
+"psu failure\ <*>,",5
+Fan speeds <*>,5
+active,5
+"wait <*>, (command <*>)",4
+"Targeting domains:node-<*> and nodes:node-<*>, child of command <*>",4
+"Fan speeds (<*>, <*>, <*>, <*>, <*>, <*>)",4
+Link error on broadcast tree Interconnect-<*>,3
+"NIFF: node <*>, has detected an available network connection on network <*> via interface <*>",3
+"clusterAddMember <*>, at <*>",2
+"bootGenvmunix <*>,",2
+halt (command <*>),2
+Targeting domains:node-<*> and nodes:node-<*>,2
+Temperature <*> exceeds warning threshold,2
+"NIFF: node <*> detected a failed network connection on network <*>, via <*>",2
+Fan speeds (<*>),2
+"inconsistent nodesets node-<*>, at <*>, mask <*>",2
+NIFF: node <node-<*> > has detected an available network connection on network <network-<*> > via interface <interface-<*> >,2
+risBoot (command <*>),1
+"halt <*>,",1
+wait <*> (command <*>),1
+Targeting domains:node-<*> and nodes:node-[<*>] child of command <*>,1
+Targeting domains <*> and <*>,1
+Targeting domains <*> and nodes <*>,1
+ServerFileSystem: An domain panic has occurred on <*>,1
+Command has been aborted,1
+power/control problem <*>,1
+"Link error on broadcast tree Interconnect-<*>,",1
+"inconsistent nodesets <*>, <*>, <*> <*>, <*>, <*> <*>, <*>, <*> <*>, <*>, <*>",1
+"inconsistent nodesets <*>, <*>, <*> <*>, <*>, <*>",1
+not-responding,1
+starting,1
+closing,1
+"risBoot (command <*>, Error: Timed out while waiting for SRM prompt: <*>",1
+boot (command <*>) Error: <*> cannot continue,1
+"Failed subcommands <*>,",1
+NIFF: node <node-<*> > has detected an available network connection on network <net-<*> > via interface <if-<*> >,1
+"NIFF: node <*>, has detected an available network connection on <*>, via <*>",1

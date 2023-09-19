@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.4675",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005",
+        "output": "Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=M <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.45245",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "8 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data store interrupt caused by icbi.........0",
+        "output": "data store interrupt caused by icbi.........<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.5009",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data TLB error interrupt",
+        "output": "data TLB error interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 001061e8 dear 0247015c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10644 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "1146800 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.46655",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10650 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.9784",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 001061e8 dear 0247015c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "1146800 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "199680 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106704 dear 0245b83c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "floating point instr. enabled.....1",
+        "output": "floating point instr. enabled.....<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.17526",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 8, at 0x0a2ae600, mask 0x10",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7",
+        "output": "<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.245",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Received signal 15, code=0, errno=0, address=0x0000044d",
+        "output": "ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.4592",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes",
+        "output": "ciod: Error creating node map from file <*>: No child processes"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10668 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.62637",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "28 ddr error(s) detected and corrected on rank 0, symbol 21 over 11562 seconds",
+        "output": "<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.23119",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.4246",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.22807",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error",
+        "output": "ciod: LOGIN chdir(<*>) failed: Input/output error"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected",
+        "output": "<*> L3 EDRAM error(s) (dcr <*>) detected and corrected"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106228 dear 0244c21c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi",
+        "output": "ciod: generated <*> core files for program <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "auxiliary processor.........................0",
+        "output": "auxiliary processor.........................<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Lustre mount FAILED : bglio388 : point /p/gb1",
+        "output": "Lustre mount FAILED : <*> : point <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "2201500 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106228 dear 0244c1ec",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm",
+        "output": "ciod: generated <*> core files for program <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 003a9260 dear 00efe838",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "458720 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.42",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 25, at 0x155e28e0, mask 0x08",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.42109",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "5 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3292",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.27051",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.50988",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3343",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "5 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+        "output": "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 28, at 0x110067e0, mask 0x02",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data TLB error interrupt",
+        "output": "data TLB error interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3401",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data TLB error interrupt",
+        "output": "data TLB error interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "458720 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.62507",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.40250",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data storage interrupt",
+        "output": "data storage interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 003a929c dear 0136b2d8",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "program interrupt: imprecise exception......0",
+        "output": "program interrupt: imprecise exception......<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "5 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "458720 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Exec format error"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",
+        "output": "idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/TomAndJeff/bin/tested_copro/tested_copro.rts",
+        "output": "ciod: generated <*> core files for program <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.7151",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 001061d4 dear 024696cc",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 0014a150 dear 009829b8",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "suppressing further interrupts of same type",
+        "output": "suppressing further interrupts of same type"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106228 dear 0244c21c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "instruction cache parity error corrected",
+        "output": "instruction cache parity error corrected"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "instruction cache parity error corrected",
+        "output": "instruction cache parity error corrected"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.15753",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.26059",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 20, at 0x180462c0, mask 0x02",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "1146800 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data storage interrupt",
+        "output": "data storage interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data address: 0x00000002",
+        "output": "data address: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data TLB error interrupt",
+        "output": "data TLB error interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.6698",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.9051",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data TLB error interrupt",
+        "output": "data TLB error interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data address: 0x00000002",
+        "output": "data address: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "instruction cache parity error corrected",
+        "output": "instruction cache parity error corrected"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106580 dear 02494c2c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10616 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "instruction address: 0x00004ed8",
+        "output": "instruction address: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.2233",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Received signal 15, code=0, errno=0, address=0x000001f2",
+        "output": "ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.11244",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.2790",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.1521",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "15 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310",
+        "output": "PrepareForService shutting down NodeCard(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.8089",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106580 dear 02494bcc",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.38143",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106568 dear 02494bbc",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data cache search parity error detected. attempting to correct",
+        "output": "data cache search parity error detected. attempting to correct"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "23768676 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.2112",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "458720 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Permission denied"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "259822751 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 2, at 0x0fa3d060, mask 0x08",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.775",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.23259",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.5785",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3488",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "total of 1 ddr error(s) detected and corrected",
+        "output": "total of <*> ddr error(s) detected and corrected"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.42",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.20392",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.33163",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52839, Connection reset by peer",
+        "output": "ciod: Error reading message prefix on CioStream socket to <*>, Connection reset by peer"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.42833",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data store interrupt caused by icbi.........0",
+        "output": "data store interrupt caused by icbi.........<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.47256",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.16904",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "155918940 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+        "output": "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+        "output": "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.27577",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.11357",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",
+        "output": "Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.9315",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "disable store gathering..................0",
+        "output": "disable store gathering..................<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 0, at 0x1b8594e0, mask 0x40",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.24634",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Permission denied"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Exec format error"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3265",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.2971",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "program interrupt: privileged instruction...0",
+        "output": "program interrupt: privileged instruction...<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.7205",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "15 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "8 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41554, Connection timed out",
+        "output": "ciod: Error reading message prefix on CioStream socket to <*>, Connection timed out"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.16095",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.52403",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 21, at 0x04d64dc0, mask 0x80",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.15193",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "program interrupt: illegal instruction......0",
+        "output": "program interrupt: illegal instruction......<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory",
+        "output": "ciod: LOGIN chdir(<*>) failed: No such file or directory"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "program interrupt: trap instruction.........0",
+        "output": "program interrupt: trap instruction.........<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 9, at 0x0021d9c0, mask 0x20",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.14418",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.4505",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+        "output": "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "5 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.179",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.7205",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "112762744 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.15063",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.1711",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Permission denied"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Received signal 15, code=0, errno=0, address=0x00001a12",
+        "output": "ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.26735",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.28329",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data store interrupt caused by dcbf.........0",
+        "output": "data store interrupt caused by dcbf.........<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Permission denied"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.28918",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.6711",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.6682",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "disable store gathering..................0",
+        "output": "disable store gathering..................<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 6",
+        "output": "<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data TLB error interrupt",
+        "output": "data TLB error interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "118661512 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.1524",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.50841",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106580 dear 045e148c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.18514",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "total of 12 ddr error(s) detected and corrected",
+        "output": "total of <*> ddr error(s) detected and corrected"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 0, at 0x1b858280, mask 0x40",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106448 dear 0246dbec",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.449",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "program interrupt: unimplemented operation..0",
+        "output": "program interrupt: unimplemented operation..<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "floating pt ex mode 1 enable......0",
+        "output": "floating pt ex mode <*> enable......<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 001061e4 dear 0245a09c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3055",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 34, at 0x11e7ed80, mask 0x80",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.15",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data storage interrupt",
+        "output": "data storage interrupt"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.22273",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3093",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.20015",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.29025",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "23431872 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "5302707 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 33, at 0x00dbd200, mask 0x80",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.17853",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.5781",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.23873",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.17851",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied",
+        "output": "ciod: Error loading <*>: invalid or missing program image, Permission denied"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.36904",
+        "output": "generating core.<*>"
+    }
+]

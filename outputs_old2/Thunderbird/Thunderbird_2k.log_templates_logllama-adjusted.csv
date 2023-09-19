@@ -1,0 +1,180 @@
+EventTemplate,Occurrences
+data_thread() got not answer from any <*> datasource,637
+synchronized to <*> stratum <*>,566
+ib_sm_sweep.c:<*> NEW SWEEP <*>,62
+No topology change,62
+No configuration change required,62
+PacketResponder <*> for block <*> terminating,54
+data_thread() got not answer from any [Thunderbird_B4] terminating,31
+data_thread() got not answer from any [Thunderbird_B6] terminating,31
+data_thread() got not answer from any [Thunderbird_B3] terminating,30
+data_thread() got not answer from any [Thunderbird_C2] terminating,30
+data_thread() got not answer from any [Thunderbird_B1] terminating,30
+data_thread() got not answer from any [Thunderbird_B2] terminating,30
+session closed for user <*>,24
+session opened for user <*> by (uid=<*>).,19
+Reading included configuration file: <*> [file=<*>] [line=<*>],17
+DHCPDISCOVER from <*> via <*> network <*> no free leases,15
+CMD <*> run-parts <*> <*>,14
+RRD_update <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),10
+PCI Interrupt Routing Table <*> for block <*> terminating,10
+"PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>",10
+DHCPREQUEST for <*> (<*>) from <*> via <*> unknown lease <*>.,9
+unable to qualify <*> -- using short name,8
+Wait for ready failed before probe !,6
+DHCPDISCOVER from <*> via <*>,5
+DHCPOFFER on <*> to <*> via <*>,5
+My unqualified host name (<*>) unknown; sleeping for retry,5
+"PCI Interrupt Link <*> (IRQs <*>) *0, disabled.",5
+L2 cache: <*>,5
+Physical Processor ID: <*>,5
+"Trace cache: <*> uops, L1 D cache: <*>",5
+Registered protocol family <*>,5
+LAPIC (acpi_id[*] lapic_id[*] enabled),4
+LAPIC_NMI (acpi_id <*> high edge lint <*>).,4
+Processor <*> (supports C1),4
+C <*>-<*> Netfilter core team,4
+registered new driver <*>,4
+removing <*>,4
+Local disconnected: Connection closed.,3
+connection lost: <*> Connection closed.,3
+DHCPACK on <*> to <*> via <*>,3
+DHCPREQUEST for <*> (<*>) from <*> via <*>,3
+IOAPIC <*> (id[*] address[*] gsi_base[*]),3
+mounted filesystem with ordered data mode.,3
+apic_id <*> version <*> address <*> GSI <*>,3
+unable to qualify my own domain name (eadmin1) -- using short name,2
+allocating divert_blk for <*>,2
+not allocating divert_blk for non-ethernet device <*>,2
+autorun DONE.,2
+Autodetecting RAID arrays.,2
+autorun ...,2
+connection from <*>,2
+User <*> coming from <*> authenticated.,2
+Now running on <*>#,2
+succeeded,2
+Chargen <*> removing,2
+removing echo,2
+removing time,2
+START: tftp pid=<*> from=<*>,1
+kernel time sync disabled <*>,1
+time reset +<*> s,1
+Received SNMP packet(s) from <*>,1
+"synchronized to LOCAL(<*>), stratum <*>",1
+kernel time sync enabled <*>,1
+"synchronized to <*>, stratum <*>",1
+CMD <*> for block <*> terminating,1
+get_temps b,1
+get_temps c,1
+get_temps d,1
+get_temps e,1
+CentOS-<*> (Kernel Module GPG key),1
+supports <*> <*> <*>,1
+DSDT <*> @ <*>,1
+FADT <*> @ <*>,1
+HPET <*> @ <*>,1
+HPET id: <*> base: <*>,1
+INT_SRC_OVR for block <*> terminating,1
+INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level),1
+IRQ0 used by <*> override.,1
+IRQ2 used by <*> override.,1
+IRQ9 used by <*> override.,1
+Interpreter enabled,1
+Local APIC address <*>,1
+MADT <*> @ <*>,1
+MCFG <*> @ <*>,1
+PCI Interrupt Link [LNKA] (IRQs <*> <*>),1
+PCI Interrupt Link [LNKB] (IRQs <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> *<,1
+PCI Interrupt Link [LNKC] (IRQs <*> <*>) <*>,1
+PCI <*> Bridge <*> (<*>).,1
+PCI interrupt <*> -> GSI <*> -> IRQ <*>,1
+Power Button (FF) [PWRF],1
+RSDP (v000 DELL ) @ <*>,1
+RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,1
+SPCR <*> for block <*> terminating,1
+Subsystem <*> revision <*>,1
+Using IOAPIC for interrupt routing,1
+Intel(R) Xeon(TM) CPU <*> stepping <*>,1
+colour VGA+ <*>,1
+"sys_ia32.c,v <*> 2002/03/24 <*> ak Exp $",1
+"routing cache hash table of <*> buckets, <*>",1
+PCI Hot Plug PCI Core version: <*>,1
+Using software bounce buffering for IO (SWIOTLB),1
+Probing PCI hardware (bus <*>),1
+Transparent bridge - <*> terminating,1
+Using ACPI for IRQ routing,1
+Using MMCONFIG at <*>,1
+Using configuration type <*>,1
+Compressed image found at block <*>,1
+Disabled at runtime.,1
+Initializing.,1
+Registering netfilter hooks,1
+Starting in permissive mode,1
+Unregistering netfilter hooks,1
+Hash tables configured (established <*> bind <*> terminating),1
+Direct-Access ANSI SCSI revision: <*>,1
+Processor ANSI SCSI revision: <*>,1
+Disk quotas <*> <*>,1
+Mounted <*> (ext2 filesystem),1
+MegaRAID Model: <*> RAID1 <*> Rev: <*>,1
+PE/PV Model: <*> SCSI BP Rev: <*>,1
+Initialized <*>,1
+initializing netlink socket (disabled),1
+passed.,1
+<*>-ioctl (<*>) initialised: <*>@<*>,1
+USB HID core driver,1
+eth0: e1000_probe: Intel(R) PRO/1000 Network Connection,1
+eth0: e1000_watchdog: NIC Link is Up <*> Full Duplex,1
+eth1: e1000_probe: Intel(R) PRO/1000 Network Connection,1
+no floppy controllers found,1
+RNG not detected,1
+Assuming <*> system bus speed for PIO modes; override with <*>,1
+Unknown cmd <*> cmd <*> arg <*> on <*>,1
+Installing public key data,1
+"md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>",1
+Release Date: <*> EST <*>,1
+Release Date: <*>,1
+fw version:[<*>] bios version:[<*>],1
+Probe <*> new device <*> bus <*> slot <*> func <*>,1
+PS/2 mouse device common for all mice,1
+v2.<*> (<*>),1
+rpc.statd startup succeeded,1
+portmap startup succeeded,1
+Starting ts_fixup: succeeded,1
+Version <*> Starting,1
+LSI Logic MegaRAID driver,1
+scanning scsi channel <*> for non-raid devices,1
+scanning scsi channel <*> for logical drives,1
+asking for cache data failed,1
+assuming drive cache: write through,1
+sda1 sda2 sda3 sda4,1
+Registering secondary module capability,1
+i8042 AUX port at <*> irq <*>,1
+KBD port at <*> irq <*>,1
+syslog-ng <*> startup succeeded,1
+syslog-ng <*> version <*> starting,1
+Detected <*> MHz processor,1
+Using <*> MHz HPET timer.,1
+Using HPET based timekeeping.,1
+Creating Topspin <*> entries: <*>,1
+probe of <*> failed with error -<*>,1
+Mounting <*> filesystems: succeeded,1
+Mounting other filesystems: <*> failed,1
+Warning: we failed to resolve data source name <*>,1
+RRD_update <*> for block <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),1
+Warning: we failed to resolve trusted host name <*>,1
+gmetad startup succeeded,1
+Server listening on :: port <*>,1
+error: Bind to port <*> on <*> failed: Address already in use.,1
+Cannot open file <*> for writing (No such file or directory),1
+Changing permissions on special file <*> terminating,1
+xinetd <*> startup succeeded,1
+Started working: <*> available service,1
+removing ftp,1
+kshell <*> removing,1
+removing ntalk,1
+removing printer,1
+removing rsync,1
+removing telnet,1
+xinetd Version <*> started with libwrap loadavg options compiled in,1
+"Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report",1

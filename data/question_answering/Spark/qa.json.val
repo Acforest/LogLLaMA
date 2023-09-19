@@ -1,0 +1,20 @@
+{"Question": "How many kb is rdd_16_4 free?", "Answer": "386.4", "RawLog": "Block rdd_16_4 stored as bytes in memory (estimated size 263.0 B, free 386.4 KB)"}
+{"Question": "Is partition rdd_42_17 found?", "Answer": "not", "RawLog": "Partition rdd_42_17 not found, computing it"}
+{"Question": "What stage was the task 25.0 completed in?", "Answer": "29.0", "RawLog": "Finished task 25.0 in stage 29.0 (TID 1345). 2128 bytes result sent to driver"}
+{"Question": "How many kb is the block rdd_26_4 free?", "Answer": "419.6", "RawLog": "Block rdd_26_4 stored as bytes in memory (estimated size 16.0 B, free 419.6 KB)"}
+{"Question": "How long did it take to read broadcast variable 39?", "Answer": "716 ms", "RawLog": "Reading broadcast variable 39 took 716 ms"}
+{"Question": "How many ms did it take to read broadcast variable 33?", "Answer": "9", "RawLog": "Reading broadcast variable 33 took 9 ms"}
+{"Question": "What is the ID number for task 84.0?", "Answer": "1141", "RawLog": "Running task 84.0 in stage 24.0 (TID 1141)"}
+{"Question": "How large is the block rdd_42_29?", "Answer": "901.0 B", "RawLog": "Block rdd_42_29 stored as bytes in memory (estimated size 901.0 B, free 829.4 KB)"}
+{"Question": "How many bytes did the task 0.0 contain?", "Answer": "2099 bytes", "RawLog": "Finished task 0.0 in stage 4.0 (TID 171). 2099 bytes result sent to driver"}
+{"Question": "How many bytes did the task 1.0 take?", "Answer": "2241 bytes", "RawLog": "Finished task 1.0 in stage 13.0 (TID 542). 2241 bytes result sent to driver"}
+{"Question": "Is partition rdd_2_0 found?", "Answer": "not", "RawLog": "Partition rdd_2_0 not found, computing it"}
+{"Question": "How many kb is broadcast_32_piece0 free?", "Answer": "406.3", "RawLog": "Block broadcast_32_piece0 stored as bytes in memory (estimated size 5.7 KB, free 406.3 KB)"}
+{"Question": "How many ms did it take to read the variable 30?", "Answer": "8", "RawLog": "Reading broadcast variable 30 took 8 ms"}
+{"Question": "How many bytes is rdd_42_37 free?", "Answer": "835.5 KB", "RawLog": "Block rdd_42_37 stored as bytes in memory (estimated size 939.0 B, free 835.5 KB)"}
+{"Question": "How many kb is broadcast_38_piece0 free?", "Answer": "844.0", "RawLog": "Block broadcast_38_piece0 stored as bytes in memory (estimated size 5.8 KB, free 844.0 KB)"}
+{"Question": "How many kb is broadcast_3_piece0?", "Answer": "free", "RawLog": "Block broadcast_3_piece0 stored as bytes in memory (estimated size 152.0 B, free 318.1 KB)"}
+{"Question": "What is the estimated size of the block rdd_21_1?", "Answer": "162.0", "RawLog": "Block rdd_21_1 stored as bytes in memory (estimated size 162.0 B, free 403.0 KB)"}
+{"Question": "How many ms did it take to read broadcast variable 10?", "Answer": "17", "RawLog": "Reading broadcast variable 10 took 17 ms"}
+{"Question": "What is the estimated size of the block rdd_2_4?", "Answer": "890.0", "RawLog": "Block rdd_2_4 stored as bytes in memory (estimated size 890.0 B, free 323.8 KB)"}
+{"Question": "How many ms did it take to read the broadcast variable 36?", "Answer": "11", "RawLog": "Reading broadcast variable 36 took 11 ms"}

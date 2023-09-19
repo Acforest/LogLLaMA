@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "### Instruction: You will be provided with a log message delimited by backticks. Remain its common structure and replace variables with <*> to extract the corresponding template. Print the input log's template delimited by backticks.\n### Input: Log message: `{input}`\n### Output: The template is",
+    "response_split": "### Output:"
+}

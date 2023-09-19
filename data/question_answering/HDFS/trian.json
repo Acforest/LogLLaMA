@@ -1,0 +1,742 @@
+[
+    {
+        "instruction": "What is the status of the block blk_-6369730481066968769?",
+        "input": "PacketResponder 1 for block blk_-6369730481066968769 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What did I do with the block blk_-3276232266876914214?",
+        "input": "Received block blk_-3276232266876914214 of size 67108864 from /10.250.7.146",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where is the block blk_-1492402439215451727 located?",
+        "input": "Deleting block blk_-1492402439215451727 file /mnt/hadoop/dfs/data/current/subdir25/blk_-1492402439215451727",
+        "output": "/mnt/hadoop/dfs/data/current/subdir25/blk_-1492402439215451727"
+    },
+    {
+        "instruction": "What was the size of blk_3587508140051953248?",
+        "input": "Received block blk_3587508140051953248 of size 67108864 from /10.251.42.84",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What is the name of the component that terminates block blk_4886940526690879848?",
+        "input": "PacketResponder 1 for block blk_4886940526690879848 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_-3802183646922512795 terminating?",
+        "input": "PacketResponder 1 for block blk_-3802183646922512795 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What is the name of the component that is used to terminate a block blk_38865049064139660?",
+        "input": "PacketResponder 1 for block blk_38865049064139660 terminating",
+        "output": "PacketResponder 1"
+    },
+    {
+        "instruction": "Where was the block blk_7679838117000095334 received from?",
+        "input": "Received block blk_7679838117000095334 of size 67108864 from /10.251.30.85",
+        "output": "/10.251.30.85"
+    },
+    {
+        "instruction": "What succeeded for blk_-4980916519894289629?",
+        "input": "Verification succeeded for blk_-4980916519894289629",
+        "output": "Verification"
+    },
+    {
+        "instruction": "What is the status of the packet response 2 for block blk_8229193803249955061?",
+        "input": "PacketResponder 2 for block blk_8229193803249955061 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What is the status of the packet response 2?",
+        "input": "PacketResponder 2 for block blk_-1148756466197125339 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "Where is the block blk_826351419727053015 located?",
+        "input": "Deleting block blk_826351419727053015 file /mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015",
+        "output": "/mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015"
+    },
+    {
+        "instruction": "What was the size of blk_-5704899712662113150?",
+        "input": "Received block blk_-5704899712662113150 of size 67108864 from /10.251.91.229",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What is the starting thread to transfer block blk_4292382298896622412 to?",
+        "input": "10.250.15.198:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010",
+        "output": "10.250.15.198:50010"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_5912213716795619450 terminating?",
+        "input": "PacketResponder 1 for block blk_5912213716795619450 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "Where was the block blk_9212264480425680329 received?",
+        "input": "Received block blk_9212264480425680329 of size 67108864 from /10.251.123.1",
+        "output": "/10.251.123.1"
+    },
+    {
+        "instruction": "What is the block blk_-3384560576963801177 Served to?",
+        "input": "10.250.6.214:50010 Served block blk_-3384560576963801177 to /10.250.6.214",
+        "output": "/10.250.6.214"
+    },
+    {
+        "instruction": "Where was the block blk_6730979070070986233 received from?",
+        "input": "Received block blk_6730979070070986233 of size 67108864 from /10.251.90.239",
+        "output": "/10.251.90.239"
+    },
+    {
+        "instruction": "What is the name of the function that terminates block blk_-4229375751333894621?",
+        "input": "PacketResponder 0 for block blk_-4229375751333894621 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_-5852844080027817147 terminating?",
+        "input": "PacketResponder 0 for block blk_-5852844080027817147 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What is the result of the block blk_3958940914408609637?",
+        "input": "PacketResponder 0 for block blk_3958940914408609637 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What happened to block blk_120277101968534224?",
+        "input": "Received block blk_120277101968534224 of size 67108864 from /10.251.122.65",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where is the block blk_1781953582842324563 located?",
+        "input": "Deleting block blk_1781953582842324563 file /mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563",
+        "output": "/mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563"
+    },
+    {
+        "instruction": "Where was the block blk_-5195432543794777448 from?",
+        "input": "Received block blk_-5195432543794777448 of size 67108864 from /10.250.10.6",
+        "output": "/10.250.10.6"
+    },
+    {
+        "instruction": "What happened to block blk_8302956190102508375?",
+        "input": "Received block blk_8302956190102508375 of size 67108864 from /10.251.109.236",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the name of the packet that terminates block blk_-6766351519628312408?",
+        "input": "PacketResponder 2 for block blk_-6766351519628312408 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What did I do with the block blk_-71429470616906355?",
+        "input": "Received block blk_-71429470616906355 of size 67108864 from /10.250.19.16",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_3160319368100972992 terminating?",
+        "input": "PacketResponder 0 for block blk_3160319368100972992 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What was the block blk_8591104451552720112 Served to?",
+        "input": "10.250.11.194:50010 Served block blk_8591104451552720112 to /10.250.11.194",
+        "output": "/10.250.11.194"
+    },
+    {
+        "instruction": "What block is deleting?",
+        "input": "Deleting block blk_1781953582842324563 file /mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563",
+        "output": "blk_1781953582842324563"
+    },
+    {
+        "instruction": "What is the blockMap updated to?",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.11.85:50010 is added to blk_2377150260128098806 size 67108864",
+        "output": "10.250.11.85:50010"
+    },
+    {
+        "instruction": "What is the result of the block blk_679168189072909208?",
+        "input": "PacketResponder 0 for block blk_679168189072909208 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What is the name of the packet that terminates block blk_-2466006073687914843?",
+        "input": "PacketResponder 2 for block blk_-2466006073687914843 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_3278280638950561822 terminating?",
+        "input": "PacketResponder 1 for block blk_3278280638950561822 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What is the action of deleting a block of a file?",
+        "input": "Deleting block blk_-8383503596684323017 file /mnt/hadoop/dfs/data/current/subdir26/blk_-8383503596684323017",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What block was received from 10.251.214.112?",
+        "input": "Received block blk_5402003568334525940 of size 67108864 from /10.251.214.112",
+        "output": "blk_5402003568334525940"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_9173199815015538212?",
+        "input": "Deleting block blk_9173199815015538212 file /mnt/hadoop/dfs/data/current/subdir24/blk_9173199815015538212",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What block was Served to 10.250.19.227:50010?",
+        "input": "10.250.19.227:50010 Served block blk_3979872751691718643 to /10.250.19.227",
+        "output": "blk_3979872751691718643"
+    },
+    {
+        "instruction": "What is the result of the block blk_2089955821703690032?",
+        "input": "PacketResponder 0 for block blk_2089955821703690032 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What is the name of the packet that is used to terminate a block blk_8229193803249955061?",
+        "input": "PacketResponder 2 for block blk_8229193803249955061 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What succeeded for blk_3894335463008345041?",
+        "input": "Verification succeeded for blk_3894335463008345041",
+        "output": "Verification"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_5017373558217225674 terminating?",
+        "input": "PacketResponder 1 for block blk_5017373558217225674 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What is the status of the block blk_1927336911952959118?",
+        "input": "PacketResponder 1 for block blk_1927336911952959118 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What was the block blk_3905759687686730625 to?",
+        "input": "10.251.31.180:50010 Served block blk_3905759687686730625 to /10.251.31.180",
+        "output": "/10.251.31.180"
+    },
+    {
+        "instruction": "Where is the block blk_-8484827087450439270 file located?",
+        "input": "Deleting block blk_-8484827087450439270 file /mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270",
+        "output": "/mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270"
+    },
+    {
+        "instruction": "What is the result of the block blk_165707910410871749?",
+        "input": "PacketResponder 0 for block blk_165707910410871749 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What happened to the block blk_-2452477352812192142?",
+        "input": "Received block blk_-2452477352812192142 of size 67108864 from /10.250.7.244",
+        "output": "Received"
+    },
+    {
+        "instruction": "What was the block blk_-8674089929114017279 to?",
+        "input": "10.250.14.38:50010 Served block blk_-8674089929114017279 to /10.250.14.38",
+        "output": "/10.250.14.38"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_-4229375751333894621 terminating?",
+        "input": "PacketResponder 0 for block blk_-4229375751333894621 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What happened to block blk_-9190864897806028230?",
+        "input": "Received block blk_-9190864897806028230 of size 67108864 from /10.251.214.130",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_5018765878120211503 terminating?",
+        "input": "PacketResponder 0 for block blk_5018765878120211503 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What is the name of the packet that terminates block blk_-5442040196315589272?",
+        "input": "PacketResponder 2 for block blk_-5442040196315589272 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "Where is the block blk_84838473254499625 file located?",
+        "input": "Deleting block blk_8483848473254499625 file /mnt/hadoop/dfs/data/current/subdir51/blk_8483848473254499625",
+        "output": "/mnt/hadoop/dfs/data/current/subdir51/blk_8483848473254499625"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_-3339018122410311668 terminating?",
+        "input": "PacketResponder 1 for block blk_-3339018122410311668 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What did the block blk_-7526945448667194862 do?",
+        "input": "Received block blk_-7526945448667194862 of size 67108864 from /10.251.203.80",
+        "output": "Received"
+    },
+    {
+        "instruction": "NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to what?",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_7128370237687728475 size 67108864",
+        "output": "blk_7128370237687728475"
+    },
+    {
+        "instruction": "What happened to block blk_-5861636720645142679?",
+        "input": "Received block blk_-5861636720645142679 of size 67108864 from /10.251.70.211",
+        "output": "Received"
+    },
+    {
+        "instruction": "What was the result of the verification?",
+        "input": "Verification succeeded for blk_-2827716238972737794",
+        "output": "succeeded"
+    },
+    {
+        "instruction": "What is the blockMap updated to?",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.80:50010 is added to blk_7888946331804732825 size 67108864",
+        "output": "10.251.203.80:50010"
+    },
+    {
+        "instruction": "What is the action of deleting a block of a file?",
+        "input": "Deleting block blk_-8484827087450439270 file /mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What was the status of the verification for blk_-1547954353065580372?",
+        "input": "Verification succeeded for blk_-1547954353065580372",
+        "output": "succeeded"
+    },
+    {
+        "instruction": "What is the status of the block blk_-8108913101671416218?",
+        "input": "PacketResponder 1 for block blk_-8108913101671416218 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What happened to block blk_-5309211894896608429?",
+        "input": "Received block blk_-5309211894896608429 of size 67108864 from /10.251.202.181",
+        "output": "Received"
+    },
+    {
+        "instruction": "What did I do with the block blk_-7029628814943626474?",
+        "input": "Received block blk_-7029628814943626474 of size 67108864 from /10.250.7.230",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the result of the block blk_-1387034299358896632?",
+        "input": "PacketResponder 0 for block blk_-1387034299358896632 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What is the status of the packet response for block blk_-5073870177832699716?",
+        "input": "PacketResponder 1 for block blk_-5073870177832699716 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What happened to the block blk_-518701095493827363?",
+        "input": "Received block blk_-518701095493827363 of size 67108864 from /10.251.214.67",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where was the block blk_-6811519872198278365 from?",
+        "input": "Received block blk_-6811519872198278365 of size 67108864 from /10.250.6.4",
+        "output": "/10.250.6.4"
+    },
+    {
+        "instruction": "What is the blockMap address to blk_-476906696485288376?",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.5.237:50010 is added to blk_-476906696485288376 size 67108864",
+        "output": "10.250.5.237:50010"
+    },
+    {
+        "instruction": "What is the name of the packet that terminates block blk_572492839287299681?",
+        "input": "PacketResponder 2 for block blk_572492839287299681 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What was the block blk_5454332143498402824 to?",
+        "input": "10.251.71.97:50010 Served block blk_5454332143498402824 to /10.250.15.67",
+        "output": "/10.250.15.67"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_3070718541088657475 terminating?",
+        "input": "PacketResponder 0 for block blk_3070718541088657475 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "Where is the block blk_8303413189200230139 located?",
+        "input": "Deleting block blk_8303413189200230139 file /mnt/hadoop/dfs/data/current/subdir32/blk_8303413189200230139",
+        "output": "/mnt/hadoop/dfs/data/current/subdir32/blk_8303413189200230139"
+    },
+    {
+        "instruction": "What did I do with the block blk_-1846853350696018836?",
+        "input": "Received block blk_-1846853350696018836 of size 67108864 from /10.250.15.67",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where was the block blk_8829027411458566099 from?",
+        "input": "Received block blk_8829027411458566099 of size 67108864 from /10.251.38.214",
+        "output": "/10.251.38.214"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_-5073870177832699716 terminating?",
+        "input": "PacketResponder 1 for block blk_-5073870177832699716 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What succeeded for blk_6996194389878584395?",
+        "input": "Verification succeeded for blk_6996194389878584395",
+        "output": "Verification"
+    },
+    {
+        "instruction": "What happened to block blk_-3455521536483250153?",
+        "input": "Received block blk_-3455521536483250153 of size 67108864 from /10.251.106.37",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where was the block blk_6746178639682808096 from?",
+        "input": "Received block blk_6746178639682808096 of size 67108864 from /10.251.125.174",
+        "output": "/10.251.125.174"
+    },
+    {
+        "instruction": "What was the size of blk_-8241093737585222406?",
+        "input": "Received block blk_-8241093737585222406 of size 67108864 from /10.250.5.161",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What did you get while serving blk_8466246428293623262?",
+        "input": "10.251.199.19:50010:Got exception while serving blk_8466246428293623262 to /10.251.106.37:",
+        "output": "exception"
+    },
+    {
+        "instruction": "Where was the block blk_-1440254020029439248 from?",
+        "input": "Received block blk_-1440254020029439248 of size 67108864 from /10.251.30.85",
+        "output": "/10.251.30.85"
+    },
+    {
+        "instruction": "What is the result of the block blk_3160319368100972992?",
+        "input": "PacketResponder 0 for block blk_3160319368100972992 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_3755116621101133849 terminating?",
+        "input": "PacketResponder 1 for block blk_3755116621101133849 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What did I do with the block blk_3304535870056962597?",
+        "input": "Received block blk_3304535870056962597 of size 67108864 from /10.251.203.166",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the size of the block blk_-5704899712662113150?",
+        "input": "Received block blk_-5704899712662113150 of size 67108864 from /10.251.91.229",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What did I do with the block blk_-4067446915270471579?",
+        "input": "Received block blk_-4067446915270471579 of size 25933924 from /10.251.110.8",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where is the block blk_-8775602795571523802 located?",
+        "input": "Deleting block blk_-8775602795571523802 file /mnt/hadoop/dfs/data/current/subdir41/blk_-8775602795571523802",
+        "output": "/mnt/hadoop/dfs/data/current/subdir41/blk_-8775602795571523802"
+    },
+    {
+        "instruction": "What did the block blk_-967145856473901804 do?",
+        "input": "Received block blk_-967145856473901804 of size 67108864 from /10.250.6.191",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_-6952295868487656571 terminating?",
+        "input": "PacketResponder 0 for block blk_-6952295868487656571 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What block was Served to 10.251.194.213:50010?",
+        "input": "10.251.194.213:50010 Served block blk_-7724713468912166542 to /10.251.203.80",
+        "output": "blk_-7724713468912166542"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_7206839389762980382?",
+        "input": "Deleting block blk_7206839389762980382 file /mnt/hadoop/dfs/data/current/subdir61/blk_7206839389762980382",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What is the size of the blockMap?",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_7128370237687728475 size 67108864",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What is the action that is done to block blk_5905689738251144455?",
+        "input": "Deleting block blk_5905689738251144455 file /mnt/hadoop/dfs/data/current/blk_5905689738251144455",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_-1527267659500322006 terminating?",
+        "input": "PacketResponder 1 for block blk_-1527267659500322006 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What happened to block blk_-5974833545991408899?",
+        "input": "Received block blk_-5974833545991408899 of size 67108864 from /10.251.31.180",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_-9132218772786220159 terminating?",
+        "input": "PacketResponder 0 for block blk_-9132218772786220159 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What was the status of the verification for blk_774612454978154966?",
+        "input": "Verification succeeded for blk_774612454978154966",
+        "output": "succeeded"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_-8108913101671416218 terminating?",
+        "input": "PacketResponder 1 for block blk_-8108913101671416218 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_-1754204887541031211?",
+        "input": "Deleting block blk_-1754204887541031211 file /mnt/hadoop/dfs/data/current/subdir58/blk_-1754204887541031211",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What is used to terminate block blk_2111886617384066018?",
+        "input": "PacketResponder 2 for block blk_2111886617384066018 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_5806397523737304814?",
+        "input": "Deleting block blk_5806397523737304814 file /mnt/hadoop/dfs/data/current/subdir34/blk_5806397523737304814",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What block was Served to 10.250.13.240?",
+        "input": "10.250.13.240:50010 Served block blk_-3134225108208373949 to /10.250.13.240",
+        "output": "blk_-3134225108208373949"
+    },
+    {
+        "instruction": "What is the result of the block blk_-6952295868487656571?",
+        "input": "PacketResponder 0 for block blk_-6952295868487656571 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What is the status of the block blk_-2680500627064966252?",
+        "input": "PacketResponder 1 for block blk_-2680500627064966252 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What succeeded for blk_3141363517520802396?",
+        "input": "Verification succeeded for blk_3141363517520802396",
+        "output": "Verification"
+    },
+    {
+        "instruction": "What did I do with block blk_1064470652608359218?",
+        "input": "Received block blk_1064470652608359218 of size 67108864 from /10.251.39.242",
+        "output": "Received"
+    },
+    {
+        "instruction": "What did I do with the block blk_-684595390732854503?",
+        "input": "Received block blk_-684595390732854503 of size 67108864 from /10.250.6.191",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_561417755647618727?",
+        "input": "Deleting block blk_561417755647618727 file /mnt/hadoop/dfs/data/current/subdir4/blk_561417755647618727",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What did I do with block blk_7016884347337429710?",
+        "input": "Received block blk_7016884347337429710 of size 67108864 from /10.251.194.129",
+        "output": "Received"
+    },
+    {
+        "instruction": "What happened to block blk_5402003568334525940?",
+        "input": "Received block blk_5402003568334525940 of size 67108864 from /10.251.214.112",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where is the block blk_-8898274302731129139 file located?",
+        "input": "Deleting block blk_-8898274302731129139 file /mnt/hadoop/dfs/data/current/subdir18/blk_-8898274302731129139",
+        "output": "/mnt/hadoop/dfs/data/current/subdir18/blk_-8898274302731129139"
+    },
+    {
+        "instruction": "What is the result of the block blk_-8093500164295459838?",
+        "input": "PacketResponder 0 for block blk_-8093500164295459838 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What succeeded for blk_-2827716238972737794?",
+        "input": "Verification succeeded for blk_-2827716238972737794",
+        "output": "Verification"
+    },
+    {
+        "instruction": "What did I do with the block blk_6730979070070986233?",
+        "input": "Received block blk_6730979070070986233 of size 67108864 from /10.251.90.239",
+        "output": "Received"
+    },
+    {
+        "instruction": "What did I do with block blk_4755566011267050000?",
+        "input": "Received block blk_4755566011267050000 of size 67108864 from /10.251.75.79",
+        "output": "Received"
+    },
+    {
+        "instruction": "What was the status of the verification for blk_1150231966878829887?",
+        "input": "Verification succeeded for blk_1150231966878829887",
+        "output": "succeeded"
+    },
+    {
+        "instruction": "What is the action of deleting a block of a file?",
+        "input": "Deleting block blk_-8144387882075572886 file /mnt/hadoop/dfs/data/current/subdir42/blk_-8144387882075572886",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_7360639743953947587?",
+        "input": "Deleting block blk_7360639743953947587 file /mnt/hadoop/dfs/data/current/subdir35/blk_7360639743953947587",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "What is the blockMap updated to?",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.110.8:50010 is added to blk_8015913224713045110 size 67108864",
+        "output": "10.251.110.8:50010"
+    },
+    {
+        "instruction": "What did I do with the block blk_-8523968015014407246?",
+        "input": "Received block blk_-8523968015014407246 of size 67108864 from /10.251.214.225",
+        "output": "Received"
+    },
+    {
+        "instruction": "What succeeded for blk_-8050165297538775793?",
+        "input": "Verification succeeded for blk_-8050165297538775793",
+        "output": "Verification"
+    },
+    {
+        "instruction": "What did I do with block blk_3463540868626173125?",
+        "input": "Received block blk_3463540868626173125 of size 67108864 from /10.251.30.134",
+        "output": "Received"
+    },
+    {
+        "instruction": "Where was the block blk_-6464892000340112134 received from?",
+        "input": "Received block blk_-6464892000340112134 of size 67108864 from /10.250.5.161",
+        "output": "/10.250.5.161"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_8060713381303305129 terminating?",
+        "input": "PacketResponder 1 for block blk_8060713381303305129 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What is the result of the block blk_-6500549130351529113?",
+        "input": "PacketResponder 0 for block blk_-6500549130351529113 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What happened to the block blk_-2094397855762091248?",
+        "input": "Received block blk_-2094397855762091248 of size 67108864 from /10.251.126.83",
+        "output": "Received"
+    },
+    {
+        "instruction": "What was the block blk_-2901225370888235702 to?",
+        "input": "10.251.67.4:50010 Served block blk_-2901225370888235702 to /10.251.91.84",
+        "output": "/10.251.91.84"
+    },
+    {
+        "instruction": "What is the name of the packet that terminates block blk_-8745453424063341007?",
+        "input": "PacketResponder 1 for block blk_-8745453424063341007 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_6809155287484296510 terminating?",
+        "input": "PacketResponder 0 for block blk_6809155287484296510 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What is the status of the packet response 2?",
+        "input": "PacketResponder 2 for block blk_-6766351519628312408 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What was the result of the verification for blk_-4980916519894289629?",
+        "input": "Verification succeeded for blk_-4980916519894289629",
+        "output": "succeeded"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_679168189072909208 terminating?",
+        "input": "PacketResponder 0 for block blk_679168189072909208 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_-8848810702648406400?",
+        "input": "Deleting block blk_-8848810702648406400 file /mnt/hadoop/dfs/data/current/subdir11/blk_-8848810702648406400",
+        "output": "Deleting"
+    },
+    {
+        "instruction": "Where is the block blk_-1082541280306680938 located?",
+        "input": "Deleting block blk_-1082541280306680938 file /mnt/hadoop/dfs/data/current/subdir38/blk_-1082541280306680938",
+        "output": "/mnt/hadoop/dfs/data/current/subdir38/blk_-1082541280306680938"
+    },
+    {
+        "instruction": "What happened to block blk_-265588615173040885?",
+        "input": "Received block blk_-265588615173040885 of size 67108864 from /10.251.215.70",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the number of PacketResponder for block blk_-26568864070436835 terminating?",
+        "input": "PacketResponder 1 for block blk_-26568864070436835 terminating",
+        "output": "1"
+    },
+    {
+        "instruction": "What was the size of blk_9212264480425680329?",
+        "input": "Received block blk_9212264480425680329 of size 67108864 from /10.251.123.1",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What is the name of the function that terminates block blk_-7436749154361133879?",
+        "input": "PacketResponder 0 for block blk_-7436749154361133879 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What happened to block blk_-3457731723401426942?",
+        "input": "10.251.74.79:50010 Served block blk_-3457731723401426942 to /10.251.74.79",
+        "output": "Served"
+    },
+    {
+        "instruction": "What happened to block blk_6329639726609402522?",
+        "input": "Received block blk_6329639726609402522 of size 67108864 from /10.251.107.19",
+        "output": "Received"
+    },
+    {
+        "instruction": "What did the block blk_-8241093737585222406 do?",
+        "input": "Received block blk_-8241093737585222406 of size 67108864 from /10.250.5.161",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the number of the PacketResponder for block blk_7791237942696729620 terminating?",
+        "input": "PacketResponder 0 for block blk_7791237942696729620 terminating",
+        "output": "0"
+    },
+    {
+        "instruction": "What was the size of blk_-2094397855762091248?",
+        "input": "Received block blk_-2094397855762091248 of size 67108864 from /10.251.126.83",
+        "output": "67108864"
+    },
+    {
+        "instruction": "What is the name of the function that is used to terminate a block blk_-6952295868487656571?",
+        "input": "PacketResponder 0 for block blk_-6952295868487656571 terminating",
+        "output": "PacketResponder"
+    },
+    {
+        "instruction": "What is the status of the packet response 2 for block blk_-6670958622368987959?",
+        "input": "PacketResponder 2 for block blk_-6670958622368987959 terminating",
+        "output": "terminating"
+    },
+    {
+        "instruction": "What happened to block blk_-3845286823494684378?",
+        "input": "Received block blk_-3845286823494684378 of size 67108864 from /10.251.107.196",
+        "output": "Received"
+    },
+    {
+        "instruction": "What is the action that will delete the block blk_5075966182561035053?",
+        "input": "Deleting block blk_5075966182561035053 file /mnt/hadoop/dfs/data/current/subdir53/blk_5075966182561035053",
+        "output": "Deleting"
+    }
+]

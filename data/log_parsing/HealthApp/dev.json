@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514040956000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7189 5132 153988 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038440000##7041##548365##8661##15496##27194480",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038939000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=127225",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=131208",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=0",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038560000##7107##548584##8661##16256##27321969",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514044806000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "uploadStaticsToDB() onResult  type = 4 obj=true",
+        "output": "uploadStaticsToDB() onResult type = <*> obj=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514044485000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038644000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33041763",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514042086000 3 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reStartStepCounter",
+        "output": "reStartStepCounter"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7124 5086 152596 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=127996",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34053757",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130673",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130630",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "startTimer start autoSync",
+        "output": "startTimer start autoSync"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=131208",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "initUserPrivacy the userPrivacy is true",
+        "output": "initUserPrivacy the userPrivacy is <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270764",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3656",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3780",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30314585",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7189 5132 153988 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038560000##7106##548583##8661##16256##27320969",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038641000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130673",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038680000##7132##548895##8661##16256##27395468",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onReceive action: android.intent.action.SCREEN_ON",
+        "output": "onReceive action: android.intent.action.SCREEN_ON"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038799000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3760",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514039340000##7189##549659##8661##16256##28068666",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038740000##7189##549608##8661##16256##27457484",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=0",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038440000##7017##548365##8661##13216##27179417",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038440000##7018##548365##8661##13311##27179732",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7027 5017 150518 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7106 5073 152210 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038750000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038548000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514041842000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038440000##7045##548365##8661##15781##27196970",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038678000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514041980000##7214##549659##8661##16256##30736730",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514042262000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=128553",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=131208",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514042280000##7214##549659##8661##16256##31004759",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "startListenerChange subscribeList = [1]",
+        "output": "startListenerChange subscribeList = [<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130608",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038560000##7105##548582##8661##16256##27319968",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038440000##7027##548365##8661##14166##27185467",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038560000##7101##548578##8661##16256##27316470",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038680000##7130##548890##8661##16256##27394969",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038440000##7024##548365##8661##13881##27183469",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3609",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514043967000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3786",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=127268",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130159",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 0 0 0 0",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3632",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038544000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130673",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON",
+        "output": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7064 5043 151310 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514043540000##7214##549659##8661##16256##32258759",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514042520000##7214##549659##8661##16256##31239760",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130673",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038670000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=128895",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514042360000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038560000##7071##548561##8661##16256##27288973",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3786",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038530000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "saveHealthDetailData() deviceID = 2,clientID=1,id=1",
+        "output": "saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038999000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038533000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7205 5144 154331 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038500000##7054##548458##8661##16256##27204469",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038620000##7111##548640##8661##16256##27324478",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "new date =20171223, type=40004,5112.0,old=4985.0",
+        "output": "new date =<*>, type=<*>,<*>,old=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "initEnviroument",
+        "output": "initEnviroument"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514039412000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=128403",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=0",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33884757",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onReceive action: android.intent.action.SCREEN_ON",
+        "output": "onReceive action: android.intent.action.SCREEN_ON"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29353602",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038440000##7053##548365##8661##16256##27202475",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038669000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514046240000##0##549659##8661##16256##34961757",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514041026000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038800000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33138759",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514045100000##0##549659##8661##16256##33821183",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3732",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130673",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "theDayChanged 1514044800216",
+        "output": "theDayChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getBinderPackageName packageName = com.huawei.health",
+        "output": "getBinderPackageName packageName = com.huawei.health"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514042085000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038440000##7039##548365##8661##15306##27192971",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON",
+        "output": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038550000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=127953",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3604",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##34018758",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514040766000 0 0 5",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038669000 2 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038740000##7179##549200##8661##16256##27446483",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3786",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setBasicStandardSteps basicStandardStep=3786 restartSteps=0",
+        "output": "setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "initUserPrivacy the userPrivacy switch is open, start push user data!",
+        "output": "initUserPrivacy the userPrivacy switch is open, start push user data!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7086 5059 151782 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514044475000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "new date =20171223, type=40021,135245.88,old=131454.53999999995",
+        "output": "new date =<*>, type=<*>,<*>,old=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514038740000##7173##549047##8661##16256##27444985",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=129452",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038560000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437037",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3598",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7176 5123 153709 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7013 5007 150218 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130052",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514043900000##7214##549659##8661##16256##32618758",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "new date =20171223, type=40003,214445.88000000006,old=210654.54000000004",
+        "output": "new date =<*>, type=<*>,<*>,old=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3671",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33140770",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3584",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038440000##7044##548365##8661##15686##27196480",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514044422000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3581",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33118758",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3786",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3626",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3605",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28136544",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "new date =20171223, type=40024,79200.0,old=79200.0",
+        "output": "new date =<*>, type=<*>,<*>,old=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "initUserPrivacy the userPrivacy switch is open, start push user data!",
+        "output": "initUserPrivacy the userPrivacy switch is open, start push user data!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3643",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=129045",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7135 5094 152831 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onReceive action: android.intent.action.SCREEN_OFF",
+        "output": "onReceive action: android.intent.action.SCREEN_OFF"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=131208",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    }
+]

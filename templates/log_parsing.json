@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "<s>[INST] <<SYS>>\nAs a log parser, you will be given some log messages labeled with serial numbers at the beginning, and you need to substitute their variables including numbers, file paths, IP addresses and so on with placeholders <*> to get the corresponding templates.\n<</SYS>>\n\n[BEGIN] {input} [END] [/INST]",
+    "response_split": "[/INST]"
+}

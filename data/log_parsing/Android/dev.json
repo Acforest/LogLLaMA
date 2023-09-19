@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation running ...",
+        "output": "shouldBlockLocation running ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-270.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261988822, event=0, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false",
+        "output": "flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "acquire lock=155645244, flags=0x1, tag=\"AudioMix\", name=audioserver, ws=null, uid=1041, pid=0",
+        "output": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261988739, event=1, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "playSoundEffect   effectType: 0",
+        "output": "playSoundEffect effectType: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "acquire lock=86152250, flags=0x1, tag=\"handleAudioEvent\", name=android, ws=null, uid=1000, pid=1702",
+        "output": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateNotificationShade: total=0, active=0",
+        "output": "updateNotificationShade: total=<*>, active=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=120758482, flg=0x0, tag=\"RILJ_ACK_WL\", name=com.android.phone\", ws=null, uid=1001, pid=2626",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261973289, event=2, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ApStaDisabledState what=155652",
+        "output": "ApStaDisabledState what=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Start dump, calling from : pid=12782, uid=1000",
+        "output": "Start dump, calling from : pid=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "sending alarm Alarm{2741459 type 3 when 509267844 PendingIntent{f75f81e: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null",
+        "output": "sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation running ...",
+        "output": "shouldBlockLocation running ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRecentTasks: num=20,flags=62,totalTasks=46",
+        "output": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261985554, event=2, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "received broadcast android.intent.action.TIME_TICK",
+        "output": "received broadcast <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=189667585, flg=0x0, tag=\"*launch*\", name=android\", ws=WorkSource{10057}, uid=1000, pid=1702",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelAutohide",
+        "output": "cancelAutohide"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "The change in focus caused us to need to do a layout end",
+        "output": "The change in focus caused us to need to do a layout end"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261963848, event=2, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation running ...",
+        "output": "shouldBlockLocation running ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cleanUpApplicationRecord -- 5769",
+        "output": "cleanUpApplicationRecord -- <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000500 newVal=708 diff=40000208 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelAutohide",
+        "output": "cancelAutohide"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:true, getTopPadding=333.0, Translation=-452.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation  ret:false",
+        "output": "shouldBlockLocation ret:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getDevicesForStream  streamType: 3",
+        "output": "getDevicesForStream streamType: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "logNotificationVisibilityChanges runInThread over",
+        "output": "logNotificationVisibilityChanges runInThread over"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261967011, event=2, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "notifyUiVisibilityChanged:vis=0x508, SystemUiVisibility=0x508",
+        "output": "notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "The change in focus caused us to need to do a layout end",
+        "output": "The change in focus caused us to need to do a layout end"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelNotificationLocked called,tell the app,reason = 8",
+        "output": "cancelNotificationLocked called,tell the app,reason = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261972262, event=0, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "removeNotificationChildren",
+        "output": "removeNotificationChildren"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching",
+        "output": "remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelAutohide",
+        "output": "cancelAutohide"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "overlapAmount:119.0, previousNotificationEnd:0.0, newYTranslation:-119.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-452",
+        "output": "overlapAmount:<*>, previousNotificationEnd:<*>, newYTranslation:<*>, location:<*>, i:<*>, getTopPadding:<*>, getLocationOnScreen():<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onNotificationVisibilityChanged called",
+        "output": "onNotificationVisibilityChanged called"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =135",
+        "output": "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-72.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=191063310, flg=0x0, tag=\"AudioMix\", name=audioserver\", ws=null, uid=1041, pid=0",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "android.util.AndroidRuntimeException: Must execute in UI",
+        "output": "<*>: Must execute in UI"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation running ...",
+        "output": "shouldBlockLocation running ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "isMusicActive...",
+        "output": "isMusicActive..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelNotification,cancelNotificationLocked,callingUid = 10111,callingPid = 28601",
+        "output": "cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=233570404, flg=0x0, tag=\"View Lock\", name=com.android.systemui\", ws=null, uid=10037, pid=2227",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "makeExpandedInvisible: mExpandedVisible=true",
+        "output": "makeExpandedInvisible: mExpandedVisible=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "isMusicActive...",
+        "output": "isMusicActive..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateChargingLocked: charging=false",
+        "output": "updateChargingLocked: charging=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation  ret:false",
+        "output": "shouldBlockLocation ret:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "The change in focus caused us to need to do a layout end",
+        "output": "The change in focus caused us to need to do a layout end"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500",
+        "output": "notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "interceptKeyBeforeQueueing: key 3 , result : 1",
+        "output": "interceptKeyBeforeQueueing: key <*> , result : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> bnds=<*> }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "logNotificationVisibilityChanges runInThread start",
+        "output": "logNotificationVisibilityChanges runInThread start"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token",
+        "output": "<*>: <*> cannot be cast to <*>$Token"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setDataSource(166, 0, 576460752303423487)",
+        "output": "setDataSource(<*>, <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "acquire lock=189667585, flags=0x1, tag=\"*launch*\", name=android, ws=WorkSource{10057}, uid=1000, pid=1702",
+        "output": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false",
+        "output": "interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ACTION_BATTERY_CHANGED AMP: 0; Volt: 0",
+        "output": "ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "scheduleTimeTickEvent triggerAtTime = 509262332",
+        "output": "scheduleTimeTickEvent triggerAtTime = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false",
+        "output": "flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-139.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "instantCollapse",
+        "output": "instantCollapse"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690",
+        "output": "Destroying surface Surface(name=<*>) called by <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-11.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onNotificationExpansionChanged called",
+        "output": "onNotificationExpansionChanged called"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "resumeSuspendedAutohide",
+        "output": "resumeSuspendedAutohide"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-19.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0",
+        "output": "stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation  ret:false",
+        "output": "shouldBlockLocation ret:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "state.clipTopAmount:30, i:0",
+        "output": "state.clipTopAmount:<*>, i:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "shouldBlockLocation  ret:false",
+        "output": "shouldBlockLocation ret:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261977717, event=2, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555",
+        "output": "Destroying surface Surface(name=<*>) called by <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =135",
+        "output": "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "userActivityNoUpdateLocked: eventTime=261867854, event=2, flags=0x0, uid=1000",
+        "output": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getStreamVolume  treamType: 5",
+        "output": "getStreamVolume treamType: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=226887582, flg=0x0, tag=\"SCREEN_FROZEN\", name=android\", ws=null, uid=1000, pid=1702",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "The change in focus caused us to need to do a layout end",
+        "output": "The change in focus caused us to need to do a layout end"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "state.clipTopAmount:79, i:0",
+        "output": "state.clipTopAmount:<*>, i:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=189667585, flg=0x0, tag=\"*launch*\", name=android\", ws=WorkSource{10113}, uid=1000, pid=1702",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "scheduleTimeTickEvent triggerAtTime = 509322332",
+        "output": "scheduleTimeTickEvent triggerAtTime = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105",
+        "output": "Destroying surface Surface(name=<*>) called by <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cleanUpApplicationRecordLocked, pid: 12236, restart: false",
+        "output": "cleanUpApplicationRecordLocked, pid: <*>, restart: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=86152250, flg=0x0, tag=\"handleAudioEvent\", name=android\", ws=null, uid=1000, pid=1702",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }",
+        "output": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "removeNotification:0|com.tencent.mobileqq|121|null|10111",
+        "output": "removeNotification:<*>|<*>|<*>|<*>|<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0",
+        "output": "stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>"
+    }
+]

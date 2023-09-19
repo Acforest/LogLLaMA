@@ -1,0 +1,56 @@
+EventTemplate,Occurrences
+GET <*> HTTP/1.<*>,871
+image <*> at (<*>): checking,82
+"image <*> at (<*>) in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+Active base files: <*>,82
+POST <*> HTTP/1.<*>,64
+PacketResponder <*> for block <*> terminating,49
+VM Resumed (Lifecycle Event),44
+Unknown base file: <*> terminating,30
+Removable base files: <*>,30
+GET <*> HTTP/<*> status: <*> len: <*> time: <*>,24
+VM Started (Lifecycle Event),22
+VM Paused (Lifecycle Event),22
+Took <*> seconds to spawn the instance on the hypervisor.,22
+Took <*> seconds to build instance.,22
+DELETE <*> HTTP/1.<*> status: <*> len: <*> time: <*>,22
+Terminating instance,22
+Instance destroyed successfully.,22
+Deleting instance files <*> terminating,21
+Deletion of <*> complete,21
+Took <*> seconds to destroy the instance on the hypervisor.,21
+Took <*> seconds to deallocate network for instance.,21
+Removing base or swap file: <*> terminating,21
+HTTP exception thrown: No instances found for any event,21
+Total memory: <*> used: <*>,21
+Total disk <*> used <*> GB,21
+"Disk limit not specified, defaulting to unlimited",21
+"[instance: <*>] vcpu limit not specified, defaulting to unlimited",21
+Claim successful,21
+Creating image,21
+VM Stopped (Lifecycle Event),21
+"Attempting claim: <*> MB, <*> GB, <*> CPU",17
+Auditing locally available compute resources for node <*> terminating,15
+"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[],15
+Compute_service record updated for <*>,15
+Instance spawned successfully,14
+Creating event <*> for instance <*> terminating,13
+"[instance: <*>] memory limit: <*> MB, free: <*> MB",13
+"Total vcpu: <*> VCPU, used: <*>",13
+GET /latest/meta-data/ HTTP/1.<*>,12
+GET /latest/meta-data/block-device-mapping/ HTTP/1.<*>,10
+Base or swap file too young to remove: <*>,9
+Instance spawned successfully.,8
+"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU",8
+Creating event <*> network-vif-plugged:<*> for instance <*> terminating,8
+GET /latest/meta-data/placement/ HTTP/1.<*>,7
+[instance: <*>] memory limit: <*> free: <*>,6
+InstanceList <*> for host <*> did not match. Re-created its InstanceList.,5
+Attempting claim: <*>,4
+Successfully synced instances from host <*>,2
+memory limit: <*> free: <*>,2
+Creating event <*> for instance <*>,1
+Running instance usage audit for host <*> from <*> to <*>. <*> instances.,1
+GET <*> HTTP/1.<*> status: <*> len: <*> time: <*>,1
+"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1

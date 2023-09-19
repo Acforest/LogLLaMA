@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "<s>[INST] <<SYS>>\nAs a log parser, you will be provided with a log message, and each token in a log message can be either a constant (common part or keyword) or a variable (dynamic number or parameter). You must abstract the variables with <*> and remain the constants as the same to extract the corresponding template. You must print the results following the format below:\nLog message: [BEGIN] ... [END]\nLog template: [BEGIN] ... [END]\n<</SYS>>\n\nLog message: [BEGIN] CE sym 20, at 0x1438f9e0, mask 0x40 [END] [/INST] Log message: [BEGIN] CE sym 20, at 0x1438f9e0, mask 0x40 [END]\nLog template: [BEGIN] CE sym <num>, at <hex>, mask <hex> [END]\nWhere:\n* <num> is a placeholder for a numerical value (in this case, 20)\n* <hex> is a placeholder for a hexadecimal value (in this case, 0x1438f9e0)\n* <hex> is a placeholder for another hexadecimal value (in this case, 0x40)</s><s>[INST] Log message: [BEGIN] {input} [END] [/INST]",
+    "response_split": "[/INST]"
+}

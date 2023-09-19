@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Creating event network-vif-plugged:a208479c-c0e3-4730-a5a0-d75e8afd0252 for instance 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4",
+        "output": "Creating event network-vif-plugged:<*> for instance <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] vcpu limit not specified, defaulting to unlimited",
+        "output": "[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2643161",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.142,10.11.10.1 \"GET /openstack/2012-08-10/meta_data.json HTTP/1.1\" status: 200 len: 264 time: 0.2294021",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d96a117b-0193-4549-bdcc-63b917273d1d] VM Started (Lifecycle Event)",
+        "output": "[instance: <*>] VM Started (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2581029",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2695961",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Total disk: 15 GB, used: 0.00 GB",
+        "output": "[instance: <*>] Total disk: <*> GB, used: <*> GB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2643571",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 404 len: 296 time: 0.0892961",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2610891",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2639382",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Deleting instance files /var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del",
+        "output": "[instance: <*>] Deleting instance files <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.134,10.11.10.1 \"GET /openstack/2013-10-17/user_data HTTP/1.1\" status: 404 len: 176 time: 0.2255361",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1759 time: 0.2672291",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Took 0.46 seconds to deallocate network for instance.",
+        "output": "[instance: <*>] Took <*> seconds to deallocate network for instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.",
+        "output": "Successfully synced instances from host '<*>'."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 0.45 seconds to deallocate network for instance.",
+        "output": "[instance: <*>] Took <*> seconds to deallocate network for instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2659712",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Deletion of /var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del complete",
+        "output": "[instance: <*>] Deletion of <*> complete"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Total usable vcpus: 16, total allocated vcpus: 1",
+        "output": "Total usable vcpus: <*>, total allocated vcpus: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+        "output": "Compute_service record updated for <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2472031",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2607100",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Deletion of /var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del complete",
+        "output": "[instance: <*>] Deletion of <*> complete"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2692139",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 200 len: 380 time: 0.0926321",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.",
+        "output": "The instance sync for host '<*>' did not match. Re-created its InstanceList."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Deletion of /var/lib/nova/instances/d96a117b-0193-4549-bdcc-63b917273d1d_del complete",
+        "output": "[instance: <*>] Deletion of <*> complete"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Instance spawned successfully.",
+        "output": "[instance: <*>] Instance spawned successfully."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1874 time: 0.2280791",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2724142",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2719719",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.131,10.11.10.1 \"GET /openstack/2013-10-17/vendor_data.json HTTP/1.1\" status: 200 len: 124 time: 0.2301619",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/b9000564-fe1a-409b-b8cc-1e88b294cd1d HTTP/1.1\" status: 204 len: 203 time: 0.2534380",
+        "output": "<*> \"DELETE <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2691431",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1874 time: 0.1977990",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] During sync_power_state the instance has a pending task (spawning). Skip.",
+        "output": "[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.123,10.11.10.1 \"GET /openstack/2012-08-10/meta_data.json HTTP/1.1\" status: 200 len: 264 time: 0.2205780",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Creating event network-vif-plugged:5c0b217a-68a9-46d1-8936-23c5688aa673 for instance bf8c824d-f099-4433-a41e-e3da7578262e",
+        "output": "Creating event network-vif-plugged:<*> for instance <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Creating event network-vif-plugged:b73a8d80-ce9e-49ff-bb0d-a1b8571f5e26 for instance c62f4f25-982c-4ea2-b5e4-93000edfcfbf",
+        "output": "Creating event network-vif-plugged:<*> for instance <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2625270",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d96a117b-0193-4549-bdcc-63b917273d1d HTTP/1.1\" status: 204 len: 203 time: 0.2549498",
+        "output": "<*> \"DELETE <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HTTP exception thrown: No instances found for any event",
+        "output": "HTTP exception thrown: No instances found for any event"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2641511",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Total memory: 64172 MB, used: 512.00 MB",
+        "output": "[instance: <*>] Total memory: <*> MB, used: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/be793e89-2cc3-4f99-9884-9c6a624a84bc HTTP/1.1\" status: 200 len: 1708 time: 0.1866481",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] VM Paused (Lifecycle Event)",
+        "output": "[instance: <*>] VM Paused (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.124,10.11.10.1 \"GET /openstack/2012-08-10/meta_data.json HTTP/1.1\" status: 200 len: 264 time: 0.2212229",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Creating image",
+        "output": "[instance: <*>] Creating image"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Instance spawned successfully.",
+        "output": "[instance: <*>] Instance spawned successfully."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] During sync_power_state the instance has a pending task (spawning). Skip.",
+        "output": "[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2669392",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2685480",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 20.05 seconds to build instance.",
+        "output": "[instance: <*>] Took <*> seconds to build instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2646050",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.3644130",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1\" status: 202 len: 733 time: 0.6913249",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Resumed (Lifecycle Event)",
+        "output": "[instance: <*>] VM Resumed (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.126,10.11.10.1 \"GET /latest/meta-data/block-device-mapping/ami HTTP/1.1\" status: 200 len: 119 time: 0.0029080",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.135,10.11.10.1 \"GET /latest/meta-data/block-device-mapping/ HTTP/1.1\" status: 200 len: 124 time: 0.2319629",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2657661",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 211 time: 0.0968180",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] memory limit: 96258.00 MB, free: 95746.00 MB",
+        "output": "[instance: <*>] memory limit: <*> MB, free: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 211 time: 0.0977290",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2645810",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2626660",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/be793e89-2cc3-4f99-9884-9c6a624a84bc HTTP/1.1\" status: 204 len: 203 time: 0.2519062",
+        "output": "<*> \"DELETE <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking",
+        "output": "image <*> at (<*>): checking"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] VM Resumed (Lifecycle Event)",
+        "output": "[instance: <*>] VM Resumed (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Claim successful",
+        "output": "[instance: <*>] Claim successful"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 200 len: 380 time: 0.1034019",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2679651",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2567871",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2694011",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2691431",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2627070",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 404 len: 296 time: 0.0927291",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.4219470",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Claim successful",
+        "output": "[instance: <*>] Claim successful"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+        "output": "Auditing locally available compute resources for node <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.124,10.11.10.1 \"GET /openstack/2013-10-17/user_data HTTP/1.1\" status: 404 len: 176 time: 0.0010281",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2634561",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2833471",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.05 seconds to spawn the instance on the hypervisor.",
+        "output": "[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] vcpu limit not specified, defaulting to unlimited",
+        "output": "[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Base or swap file too young to remove: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1874 time: 0.2106130",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Removable base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Deleting instance files /var/lib/nova/instances/a015cf14-84bb-4156-a48d-7c4824ac7a9d_del",
+        "output": "[instance: <*>] Deleting instance files <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] memory limit: 96258.00 MB, free: 95746.00 MB",
+        "output": "[instance: <*>] memory limit: <*> MB, free: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2458200",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2665989",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] VM Resumed (Lifecycle Event)",
+        "output": "[instance: <*>] VM Resumed (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Unknown base file: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.4072108",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1583 time: 0.1901591",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.138,10.11.10.1 \"GET /openstack/2013-10-17/meta_data.json HTTP/1.1\" status: 200 len: 967 time: 0.2451930",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] memory limit: 96258.00 MB, free: 95746.00 MB",
+        "output": "[instance: <*>] memory limit: <*> MB, free: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Removable base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2556121",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.129,10.11.10.1 \"GET /latest/meta-data/block-device-mapping/root HTTP/1.1\" status: 200 len: 124 time: 0.2325919",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2555609",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2529991",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Creating image",
+        "output": "[instance: <*>] Creating image"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Total usable vcpus: 16, total allocated vcpus: 1",
+        "output": "Total usable vcpus: <*>, total allocated vcpus: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Total disk: 15 GB, used: 0.00 GB",
+        "output": "[instance: <*>] Total disk: <*> GB, used: <*> GB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] During sync_power_state the instance has a pending task (spawning). Skip.",
+        "output": "[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2663522",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2614441",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Deletion of /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del complete",
+        "output": "[instance: <*>] Deletion of <*> complete"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2716691",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1759 time: 0.2846689",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Instance destroyed successfully.",
+        "output": "[instance: <*>] Instance destroyed successfully."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Unknown base file: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2752299",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2611539",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1583 time: 0.1959479",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking",
+        "output": "image <*> at (<*>): checking"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Deleting instance files /var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del",
+        "output": "[instance: <*>] Deleting instance files <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1\" status: 202 len: 733 time: 0.5130808",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.129,10.11.10.1 \"GET /openstack/2013-10-17/meta_data.json HTTP/1.1\" status: 200 len: 967 time: 0.2376790",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2684422",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking",
+        "output": "image <*> at (<*>): checking"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1575 time: 0.1955159",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Paused (Lifecycle Event)",
+        "output": "[instance: <*>] VM Paused (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Instance spawned successfully.",
+        "output": "[instance: <*>] Instance spawned successfully."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.126,10.11.10.1 \"GET /openstack/2012-08-10/meta_data.json HTTP/1.1\" status: 200 len: 264 time: 0.2225840",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] VM Resumed (Lifecycle Event)",
+        "output": "[instance: <*>] VM Resumed (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2659440",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 200 len: 380 time: 0.0913219",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2672410",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking",
+        "output": "image <*> at (<*>): checking"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2913761",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HTTP exception thrown: No instances found for any event",
+        "output": "HTTP exception thrown: No instances found for any event"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Stopped (Lifecycle Event)",
+        "output": "[instance: <*>] VM Stopped (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Claim successful",
+        "output": "[instance: <*>] Claim successful"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1583 time: 0.2089801",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 21.08 seconds to build instance.",
+        "output": "[instance: <*>] Took <*> seconds to build instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2771690",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking",
+        "output": "image <*> at (<*>): checking"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] vcpu limit not specified, defaulting to unlimited",
+        "output": "[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Total usable vcpus: 16, total allocated vcpus: 1",
+        "output": "Total usable vcpus: <*>, total allocated vcpus: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2652750",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.139,10.11.10.1 \"GET /openstack/2012-08-10/meta_data.json HTTP/1.1\" status: 200 len: 264 time: 0.2261620",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2593911",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1\" status: 202 len: 733 time: 0.4586949",
+        "output": "<*> \"POST <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] VM Resumed (Lifecycle Event)",
+        "output": "[instance: <*>] VM Resumed (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2629149",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2594419",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2618670",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1759 time: 0.2973850",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.",
+        "output": "Running instance usage audit for host <*> from <*> to <*>. <*> instances."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 1.00 seconds to destroy the instance on the hypervisor.",
+        "output": "[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.143,10.11.10.1 \"GET /openstack/2013-10-17/vendor_data.json HTTP/1.1\" status: 200 len: 124 time: 0.2143800",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Total memory: 64172 MB, used: 512.00 MB",
+        "output": "[instance: <*>] Total memory: <*> MB, used: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/78dc1847-8848-49cc-933e-9239b12c9dcf HTTP/1.1\" status: 204 len: 203 time: 0.2560370",
+        "output": "<*> \"DELETE <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Unknown base file: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.132,10.11.10.1 \"GET /latest/meta-data/block-device-mapping/ HTTP/1.1\" status: 200 len: 124 time: 0.2251949",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.143,10.11.10.1 \"GET /latest/meta-data/block-device-mapping/ami HTTP/1.1\" status: 200 len: 119 time: 0.2359550",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.131,10.11.10.1 \"GET /openstack/2013-10-17/vendor_data.json HTTP/1.1\" status: 200 len: 124 time: 0.2361510",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1\" status: 204 len: 203 time: 0.2726481",
+        "output": "<*> \"DELETE <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2576840",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] vcpu limit not specified, defaulting to unlimited",
+        "output": "[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Instance destroyed successfully.",
+        "output": "[instance: <*>] Instance destroyed successfully."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",
+        "output": "[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.143,10.11.10.1 \"GET /latest/meta-data/ HTTP/1.1\" status: 200 len: 328 time: 0.2230601",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[]",
+        "output": "Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total memory: 64172 MB, used: 512.00 MB",
+        "output": "[instance: <*>] Total memory: <*> MB, used: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.132,10.11.10.1 \"GET /openstack/2013-10-17/vendor_data.json HTTP/1.1\" status: 200 len: 124 time: 0.2239330",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.143,10.11.10.1 \"GET /openstack/2013-10-17/user_data HTTP/1.1\" status: 404 len: 176 time: 0.2187860",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Instance destroyed successfully.",
+        "output": "[instance: <*>] Instance destroyed successfully."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2796719",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1910 time: 0.2577119",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2577350",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total vcpu: 16 VCPU, used: 0.00 VCPU",
+        "output": "[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2633300",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] During sync_power_state the instance has a pending task (spawning). Skip.",
+        "output": "[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 0.58 seconds to deallocate network for instance.",
+        "output": "[instance: <*>] Took <*> seconds to deallocate network for instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 0.46 seconds to deallocate network for instance.",
+        "output": "[instance: <*>] Took <*> seconds to deallocate network for instance."
+    }
+]

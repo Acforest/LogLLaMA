@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "<s>[INST] <<SYS>>\nAs a log parser, you will be provided with a log message, and each token in a log message can be either a constant (common part or keyword) or a variable (dynamic number or parameter). You must abstract the variables with <placeholders> and remain the constants as the same to extract the corresponding template. You must print the results following the format below:\nLog template: [BEGIN] ... [END]\n<</SYS>>\n\nGiven log message: [BEGIN] {input} [END] [/INST]",
+    "response_split": "[/INST]"
+}

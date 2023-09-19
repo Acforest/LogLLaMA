@@ -1,0 +1,92 @@
+[
+    {
+        "instruction": "What did the user 123 have a failed to enter?",
+        "input": "Failed password for invalid user 123 from 183.62.140.253 port 49870 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the location of the user postgres1?",
+        "input": "Invalid user postgres1 from 187.141.143.180",
+        "output": "187.141.143.180"
+    },
+    {
+        "instruction": "What is the name of the function that is used to determine if a user is redhat?",
+        "input": "input_userauth_request: invalid user redhat [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What is the main issue with a user?",
+        "input": "Disconnecting: Too many authentication failures for admin [preauth]",
+        "output": "authentication"
+    },
+    {
+        "instruction": "What did the port 52276 ssh2 fail to provide?",
+        "input": "Failed password for invalid user oracle from 187.141.143.180 port 52276 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "Did you receive an identification string from 177.79.82.136?",
+        "input": "Did not receive identification string from 177.79.82.136",
+        "output": "not"
+    },
+    {
+        "instruction": "What is the status of the user redhat?",
+        "input": "Invalid user redhat from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What port does ubuntu use to access a user?",
+        "input": "Failed password for invalid user ubuntu from 187.141.143.180 port 35697 ssh2",
+        "output": "35697"
+    },
+    {
+        "instruction": "What port does the user have to use to get support?",
+        "input": "Failed password for invalid user support from 103.207.39.16 port 33310 ssh2",
+        "output": "33310"
+    },
+    {
+        "instruction": "What is the name of the function that causes an invalid user boot?",
+        "input": "input_userauth_request: invalid user boot [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What is the port number of PlcmSpIp?",
+        "input": "Failed password for invalid user PlcmSpIp from 103.99.0.122 port 51966 ssh2",
+        "output": "51966"
+    },
+    {
+        "instruction": "What is the name of the function that returns an invalid user ingrid?",
+        "input": "input_userauth_request: invalid user ingrid [preauth]",
+        "output": "input_userauth_request"
+    },
+    {
+        "instruction": "What port did the user 0 fail to enter?",
+        "input": "Failed password for invalid user 0 from 5.188.10.180 port 49811 ssh2",
+        "output": "49811"
+    },
+    {
+        "instruction": "What port did the port 52631 fail to connect to?",
+        "input": "Failed none for invalid user admin from 5.188.10.180 port 52631 ssh2",
+        "output": "ssh2"
+    },
+    {
+        "instruction": "What is the main issue with a user?",
+        "input": "Disconnecting: Too many authentication failures for admin [preauth]",
+        "output": "Too many authentication"
+    },
+    {
+        "instruction": "What did the port 37999 ssh2 fail to send?",
+        "input": "Failed password for root from 183.62.140.253 port 37999 ssh2",
+        "output": "password"
+    },
+    {
+        "instruction": "What is the status of the user ghost?",
+        "input": "Invalid user ghost from 187.141.143.180",
+        "output": "Invalid"
+    },
+    {
+        "instruction": "What is the name of the function that returns an invalid user eoor?",
+        "input": "input_userauth_request: invalid user eoor [preauth]",
+        "output": "input_userauth_request"
+    }
+]

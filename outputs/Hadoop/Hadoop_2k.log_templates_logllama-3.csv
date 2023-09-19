@@ -1,0 +1,137 @@
+EventTemplate,Occurrences
+Address change detected. Old: <*>/<*> New: <*>,330
+"Progress of TaskAttempt <*>, at <*>, is : <*>",289
+"Failed to renew lease for <*>, for <*> seconds. Will retry shortly ...",213
+"ERROR <*>,",147
+"Address change detected. Old: <*>/<*>, New: <*>",146
+"Retrying connect to server: <*>, Already tried <*> time(s); retry policy is <*>",146
+Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>,130
+"Recalculating schedule, headroom=<memory:<*>, vCores:<*>",129
+"Failed to renew lease for <*>, for <*>, will retry shortly ...",113
+"Resolved <*>, to <*>",39
+"Opening proxy <*>, port <*>",13
+"<*>, at <*>, Transitioned from <*> to <*>",12
+"Assigned container <*>, to attempt <*>",10
+"<*>, at <*>, Transitioned from UNASSIGNED to ASSIGNED",10
+"CONTAINER_REMOTE_LAUNCH for container <*>, taskAttempt <*>",10
+"Shuffle port returned by ContainerManager for <*>, : <*>",10
+"<*>, at <*>, Transitioned from ASSIGNED to RUNNING",10
+"ATTEMPT_START <*>, at <*>, mask <*>",10
+Auth successful for <*> (auth:SIMPLE),10
+"Registering class <*>, at <*>, mask <*>",9
+<*> Transitioned from NEW to SCHEDULED,9
+"Got allocated containers <*>,",9
+"Launching <*>, at <*>, mask <*>",9
+<*> Transitioned from SCHEDULED to RUNNING,9
+"After Scheduling: PendingReds:<*>, ScheduledMaps:<*>, ScheduledReds:<*>, AssignedMaps:<*>, AssignedReds:<*>, CompletedMaps:<*>, CompletedReds:<*>, ContAlloc:<*>, ContRel:<*>, HostLocal:<*>, RackLocal:<*>",7
+"TaskAttempt: <*>, at <*>, using containerId: <*> on NM: <*>",6
+"JVM with ID : <*>, asked for a task",6
+"getResources() for <*>, ask=<*>, release=<*>, newContainers=<*>, finishedContainers=<*>, resourcelimit=<memory:<*>, vCores:-<*>, knownNMs=<*>",5
+"JVM with ID <*>, given task <*>",5
+"getResources() for <*>, ask=<*>, release=<*>, newContainers=<*>, finishedContainers=<*>, resourcelimit=<*>, knownNMs=<*>",5
+"JVM with ID: <*>, given task: <*>",5
+"After Scheduling: PendingReds:<*>, ScheduledMaps:<*>, AssignedMaps:<*>, CompletedMaps:<*>, CompletedReds:<*>, ContAlloc:<*>, ContRel:<*>, HostLocal:<*>, RackLocal:<*>",4
+"JVM with ID <*>, asked for a task",4
+Before Scheduling: * PendingReds:<*> * ScheduledMaps:<*> * ScheduledReds:<*> * AssignedMaps:<*> * AssignedReds:<*> * CompletedMaps:<*> * CompletedReds:<*> * ContAlloc:<*> * ContRel:<*> * HostLocal:<*> * RackLocal:<*>,4
+"Diagnostics report from <*>, Error: java.net.NoRouteToHostException: No Route to Host from <*>, failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: <http://wiki.apache.org/hadoop/NoRouteToHost>",4
+"Default file system <*>,",3
+"TaskAttempt: <*>, at <*>, using containerId: <*>, on NM: <*>",3
+"CONTAINER_REMOTE_CLEANUP for container <*>, taskAttempt <*>",3
+"KILLING <*>, at <*>, mask <*>",3
+"Using callQueue class <*>,",2
+"Starting Socket Reader #<*> for <*>,",2
+IPC Server Responder: starting <*>,2
+"IPC Server listener on <*>, starting",2
+"adding path spec <*>,",2
+"<*>, transitioned from NEW to SCHEDULED",2
+"Recalculating schedule, headroom=<memory:<*>, vCores:-<*> >",2
+"Received completed container <*>, at <*>, mask <*>",2
+"Task <*>, exited : NoRouteToHostException: No Route to Host from <*>, failed on socket timeout exception: No route to host: no further information; For more details see: <*></s>",2
+"<*>, at <*>, Transitioned from RUNNING to FAIL_CONTAINER_CLEANUP",2
+"Processing the event EventType: <*>,",2
+"Task cleanup failed for attempt <*>, at <*>, mask <*>",2
+"<*>, at <*>, Transitioned from FAIL_TASK_CLEANUP to FAILED",2
+Added <*> to list of failed maps,2
+"Created MRAppMaster for application <*>, at <*>,",1
+Executing with tokens: <*>,1
+"Kind: YARN_AM_RM_TOKEN, Service: <*>, Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>)",1
+Using <*>Committer</api>,1
+OutputCommitter set in config <*>,1
+OutputCommitter is <*>,1
+Job history data is not enabled,1
+loaded properties from <*>,1
+Scheduled snapshot period at <*> second(s).,1
+MRAppMaster metrics system started,1
+"Adding job token for <*>, at <*>, to jobTokenSecretManager",1
+"Not uberizing job <*> because: <*>, <*>, <*>",1
+"Input size <*>, at <*>, Number of splits <*>",1
+"Number of reduces for job <*>, = <*>",1
+"<*>, at <*>, transitioned from <*> to <*>",1
+"MRAppMaster launching normal, non-uberized, multi-container job <*>,",1
+"Adding protocol <*>, at <*>, mask <*>",1
+"Instantiated MRClientService at <*>,<*>",1
+"Logging to <*>, via <*>",1
+"Http request log for <*>, at <*>, mask <*>",1
+"Added global filter '<*>',",1
+"Added filter <*>, to context mapreduce",1
+"Added filter <*>, to context static",1
+"Jetty bound to port <*>,",1
+"jetty-<*>,",1
+"Extract jar:file:<*>, to C:<*>",1
+"Started <*>@<*>,",1
+Web app <*> started at <*>,1
+"Registered webapp guice modules <*>,",1
+"JOB_CREATE <*>, at <*>,",1
+"nodeBlacklistingEnabled:<*>,",1
+"maxTaskFailuresPerNode <*>,",1
+"blacklistDisablePercent <*>, at",1
+Connecting to ResourceManager at <*>[:<*>],1
+"maxContainerCapability <memory:<*>, vCores:<*>",1
+queue: <*>,1
+"Upper limit on the thread pool size is <*>,",1
+"yarn.client.max-cached-nodemanagers-proxies <*>,",1
+"<*>, at <*>, transitioned from INITED to SETUP",1
+"Processing the event <*>,",1
+"<*>, at <*>, transitioned from SETUP to RUNNING",1
+"<*>, at <*>, Transitioned from NEW to UNASSIGNED",1
+"mapResourceRequest:<memory:<*>, vCores:<*>",1
+"Event Writer setup for JobId: <*>, File: <*>",1
+"reduceResourceRequest:<memory:<*>, vCores:<*>",1
+"Before Scheduling: PendingReds:<*>, ScheduledMaps:<*>, ScheduledReds:<*>, AssignedMaps:<*>, AssignedReds:<*>, CompletedMaps:<*>, CompletedReds:<*>, ContAlloc:<*>, ContRel:<*>, HostLocal:<*>, RackLocal:<*>",1
+"getResources() for application <*>, ask=<*>, release=<*>, newContainers=<*>, finishedContainers=<*>, resourcelimit=<memory:<*>, vCores:-1>, knownNMs=<*>",1
+"The job-jar file on the remote FS is <*>,",1
+"The job-conf file on the remote FS is <*>,",1
+Adding #<*> tokens and #<*> secret keys for NM use for launching container,1
+"Size of <*> is <*>,",1
+"Putting shuffle token in serviceData <*>, at <*>, mask <*>",1
+"Launching <*>, at <*>,",1
+"<*>, transitioned from SCHEDULED to RUNNING",1
+"getResources() for <*>, ask=<*>, release=<*>, newContainers=<*>, finishedContainers=<*>, resourcelimit=<memory:<*>, vCores:-20>, knownNMs=<*>",1
+"TaskAttempt: <*>, using containerId: <*> on NM: <*>",1
+"Got allocated containers <*>, at <*>,",1
+"Cannot assign container Container: <*>, Node:",1
+"Container complete event for <*>, at <*>, mask <*>",1
+"Done acknowledgement from <*>, at <*>, mask <*>",1
+"<*>, at <*>, Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP",1
+"<*>, at <*>, transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED",1
+"Task succeeded with attempt <*>, at <*>, mask <*>",1
+<*> Transitioned from RUNNING to SUCCEEDED,1
+Num completed Tasks: <*>,1
+Reduce slow start threshold reached. Scheduling reduces. <*>,1
+"All maps assigned <*>, ramping up all remaining reduces:<*>",1
+After Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,1
+"DefaultSpeculator.addSpeculativeAttempt -- we are speculating <*>, at <*>, mask <*>",1
+We launched <*> speculations. Sleeping <*> milliseconds.,1
+"Scheduling a redundant attempt for task <*>, at <*>,",1
+"Diagnostics report from <*>, killed by ApplicationMaster.",1
+"Slow ReadProcessor read fields took <*> (threshold=<*>); ack: seqno: <*>, status: SUCCESS status: ERROR downstreamAckTimeNanos: <*>, targets: [<placeholder for <*>] ...",1
+DFSOutputStream ResponseProcessor exception for block <BP-<*>-<*>,1
+"Error Recovery for block <*>, in pipeline <*>, from <*>, bad datanode <*>",1
+Exception <END]</s>,1
+"<*>, TaskAttempt Transitioned from FAIL_CONTAINER_CLEANUP to FAIL_TASK_CLEANUP",1
+<*> TaskAttempt Transitioned from NEW to UNASSIGNED,1
+Error writing History Event: TaskAttemptUnsuccessfulCompletionEvent@<*>,1
+"Thread <Thread[eventHandlingThread,<*>,main]> threw an Exception.",1
+"<*> failures on node <*>, at <*>,",1
+"<*>, at <*>, transitioned from FAIL_CONTAINER_CLEANUP to FAIL_TASK_CLEANUP",1
+"<*> failures on <*>,",1

@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "You are a log parser, and you need to extract the log template and log key from the given logs. Below is an example.\n\nRaw Log:\nPacketResponder 1 for block blk_38865049064139660 terminating\n\n### Response:\nLog Template:\nPacketResponder <*> for block <*> terminating\n\nLog Key:\n[1, blk_38865049064139660]\n\nNext, I will input several logs, and you must output according to the example.\n\nRaw Log:\n{input}\n\n### Response:\n",
+    "response_split": "### Response:"    
+}

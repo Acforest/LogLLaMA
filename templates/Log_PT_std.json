@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "### Instruction:\nYou will be provided with a log message delimited by backticks. You must abstract variables with '<*>' to extract the corresponding template.\nFor example:\nThe template of 'PacketResponder 1 for block blk_38865049064139660 terminating' is 'PacketResponder <*> for block blk_<*> terminating'.\nPrint the input log's template delimited by backticks\n### Input:\nLog message:'{input}'\n### Explanation:\nThe template is",
+    "response_split": "### Explanation:"    
+}

@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-8641647081502666269 of size 67108864 from /10.250.10.100",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-6369730481066968769 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.122.65:50010 Served block blk_2866275036574950116 to /10.250.11.53",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-1728983474612515818 src: /10.251.70.211:39459 dest: /10.251.70.211:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_703046261120042821 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.91.32:50010 is added to blk_423916008836295480 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.188:50010 is added to blk_8761786041973172187 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-5309211894896608429 of size 67108864 from /10.251.202.181",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_4471044334742081825 is added to invalidSet of 10.250.15.198:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-5144548163293169177 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.13.240:50010 is added to blk_939695665085237271 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_9014154925388243050 file /mnt/hadoop/dfs/data/current/subdir28/blk_9014154925388243050",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_7901008236334420364 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.66.102:50010 is added to blk_-8022986908643041177 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_703049809255765647 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_1744485040428751334 src: /10.250.5.237:52234 dest: /10.250.5.237:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_9111860234027679206 is added to invalidSet of 10.251.39.209:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-1236077201457689973 of size 67108864 from /10.251.35.1",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-9110604833387121363 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_6686361711974377273 of size 3554889 from /10.251.214.130",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_3274968259628929519 file /mnt/hadoop/dfs/data/current/subdir19/blk_3274968259628929519",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_1188202922232921994 of size 67108864 from /10.250.10.100",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-1490623381339215624 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_9034824096129858680 src: /10.250.6.223:45371 dest: /10.250.6.223:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.195.33:50010 is added to blk_512039711533506696 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-8736461628840265232 is added to invalidSet of 10.251.195.70:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* ask 10.251.126.5:50010 to delete  blk_-9016567407076718172 blk_-8695715290502978219 blk_-7168328752988473716 blk_-4355192005224403537 blk_-3757501769775889193 blk_-154600013573668394 blk_167132135416677587 blk_2654596473569751784 blk_5202581916713319258",
+        "output": "BLOCK* ask <*> to delete <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_3224393364314749254 of size 67108864 from /10.251.37.240",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.13.240:50010 is added to blk_2593937801738981947 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_5729560286355779655 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_5272005015837990021 file /mnt/hadoop/dfs/data/current/subdir0/blk_5272005015837990021",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_4162832865986721185 file /mnt/hadoop/dfs/data/current/subdir4/blk_4162832865986721185",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.71.193:50010 is added to blk_5489815612272797790 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-4380385204018751771 file /mnt/hadoop/dfs/data/current/subdir38/blk_-4380385204018751771",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001554_0/part-01554. blk_5183831565578080242",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_6137960563260046065 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-8796256534683400159 file /mnt/hadoop/dfs/data/current/subdir18/blk_-8796256534683400159",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_352185875883785141 file /mnt/hadoop/dfs/data/current/subdir44/blk_352185875883785141",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-633826175832239328 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.149:50010 is added to blk_-7282356322111075290 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_5256716488526744434 src: /10.251.73.220:42064 dest: /10.251.73.220:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_5115892145206906855 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001353_0/part-01353. blk_5782729236964719738",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.198.33:50010:Got exception while serving blk_-8495670552887053546 to /10.250.10.223:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_3428998332517532825 is added to invalidSet of 10.251.43.192:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-3339018122410311668 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-4269939382058952254 is added to invalidSet of 10.251.203.129:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.14.196:50010:Got exception while serving blk_2967299761311489673 to /10.251.89.155:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_3076992299328673559 file /mnt/hadoop/dfs/data/current/subdir54/blk_3076992299328673559",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-7914996925059840931 src: /10.251.91.15:59714 dest: /10.251.91.15:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.6:50010 is added to blk_3585424189730250601 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.125.237:50010 Served block blk_-309134958179110212 to /10.251.125.237",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-6135061626100136978 src: /10.251.31.180:48900 dest: /10.251.31.180:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.14.196:50010:Got exception while serving blk_-305633040016166849 to /10.251.38.53:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_-7436749154361133879 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.74.79:50010:Got exception while serving blk_2244903517044280975 to /10.251.74.134:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_-6500549130351529113 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_8751697793900992450 of size 67108864 from /10.251.71.16",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.126.83:50010 is added to blk_5176855630425795751 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-3582070652284403613 is added to invalidSet of 10.250.10.213:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001095_0/part-01095. blk_-7413910507260978729",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_-1842096107468319932 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_5250287988089075029 of size 67108864 from /10.251.66.63",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_7197514030988119866 is added to invalidSet of 10.251.75.49:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.66.192:50010 is added to blk_-6068587951382721748 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_5018765878120211503 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.15.101:50010 is added to blk_-5352085087037370841 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_5348548743130215090 of size 67108864 from /10.251.39.179",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-6127741703501838658 file /mnt/hadoop/dfs/data/current/subdir53/blk_-6127741703501838658",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-7380871572601322244 of size 67108864 from /10.251.121.224",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-8351015090014570293 is added to invalidSet of 10.251.199.86:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.127.243:50010 is added to blk_-719178972315562824 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_5580254744888391593 is added to invalidSet of 10.251.201.204:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-1090213273274684471 of size 67108864 from /10.251.214.130",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_4198733391373026104 src: /10.251.106.10:46843 dest: /10.251.106.10:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-3620767662957963389 of size 67108864 from /10.251.203.179",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_1184972950286241114 file /mnt/hadoop/dfs/data/current/subdir39/blk_1184972950286241114",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_2529569087635823495 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.194.213:50010 is added to blk_-7030770677241078854 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_397848436489409658 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_691517018986659607 src: /10.251.195.70:59379 dest: /10.251.195.70:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.6.4:50010 is added to blk_5114010683183383297 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.15.198:50010 is added to blk_8894334107354324777 size 3549832",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_6868050965297613251 src: /10.251.201.204:47734 dest: /10.251.201.204:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-6766351519628312408 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_426381928692704514 of size 67108864 from /10.251.122.38",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.66.102:50010:Got exception while serving blk_6106884317961925960 to /10.251.66.102:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_3862032846413436284 file /mnt/hadoop/dfs/data/current/subdir28/blk_3862032846413436284",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_7872746846750105239 of size 67108864 from /10.251.43.21",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_5963816136267066159 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.71.97:50010 Served block blk_6552418180158772377 to /10.251.39.242",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-808401720390253471 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-7539658633533020967 src: /10.250.5.161:52151 dest: /10.250.5.161:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.126.22:50010 Served block blk_805587860540600864 to /10.251.126.22",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000382_0/part-00382. blk_8935202950442998446",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-6986311820863339652 of size 67108864 from /10.251.71.240",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001281_0/part-01281. blk_2084123600915946046",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-3362838757940877177 is added to invalidSet of 10.250.5.161:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-7423574498760490375 file /mnt/hadoop/dfs/data/current/subdir58/blk_-7423574498760490375",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_4575129504644372394 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-2451769929123196359 is added to invalidSet of 10.251.199.159:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.197.226:50010 is added to blk_7275457888263057111 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-3607860197409267245 of size 28503188 from /10.251.31.180",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_7323287581932922676 file /mnt/hadoop/dfs/data/current/subdir12/blk_7323287581932922676",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001197_0/part-01197. blk_-5255262711039499896",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_-1067234447809438340 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_6324712740029479576 is added to invalidSet of 10.251.30.6:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_2953550760670423417 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-5623176793330377570 src: /10.251.75.228:53725 dest: /10.251.75.228:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_1828089683746536118 of size 67108864 from /10.250.6.223",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.70.211:50010 is added to blk_-5471660287004025096 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-6809181994368905854 src: /10.250.17.225:51754 dest: /10.250.17.225:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_449049393237281194 file /mnt/hadoop/dfs/data/current/subdir18/blk_449049393237281194",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.39.144:50010 Served block blk_-8187008844253719581 to /10.251.91.32",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.123.99:50010 is added to blk_-2600305892036631113 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.27.63:50010 is added to blk_7838843222458775811 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_8487226415276391460 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-966013175018359901 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-8484827087450439270 file /mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_7400944190976416273 is added to invalidSet of 10.251.127.243:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-1111344660779690782 file /mnt/hadoop/dfs/data/current/subdir40/blk_-1111344660779690782",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_4284688617983009262 src: /10.251.91.32:57548 dest: /10.251.91.32:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-6783506473540833076 is added to invalidSet of 10.251.202.209:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-1755309160709170318 is added to invalidSet of 10.251.39.209:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.144:50010 is added to blk_-5542336029922582303 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-1162676743264290624 is added to invalidSet of 10.251.194.213:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.194.102:50010 is added to blk_-7522572236891389139 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.64:50010 is added to blk_207875475387433291 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.19.16:50010 Served block blk_-7837339190764609698 to /10.251.197.161",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-4298255715894292387 file /mnt/hadoop/dfs/data/current/subdir38/blk_-4298255715894292387",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_157913239647511296 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-1082541280306680938 file /mnt/hadoop/dfs/data/current/subdir38/blk_-1082541280306680938",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-2243784245784480521 of size 67108864 from /10.250.6.191",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.90.64:50010:Got exception while serving blk_-4841792440390267307 to /10.251.90.239:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.39.179:50010 Served block blk_798664047382151445 to /10.251.39.179",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_5018797996887008111 is added to invalidSet of 10.251.89.155:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-8969188698416564850 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.70.5:50010:Got exception while serving blk_4581070264530964999 to /10.250.13.188:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.17.225:50010 Served block blk_-2656323385657954732 to /10.250.17.225",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.7.32:50010 is added to blk_3849239820458663566 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_8655748951361667770 of size 67108864 from /10.251.109.236",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_2652444451422301232 of size 67108864 from /10.251.214.225",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-3734839878416656496 of size 67108864 from /10.251.66.102",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-6350492516478706425 file /mnt/hadoop/dfs/data/current/subdir36/blk_-6350492516478706425",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-5534560875087182998 of size 67108864 from /10.250.7.230",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_7229716389774599497 src: /10.251.201.204:38310 dest: /10.251.201.204:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.225:50010 is added to blk_8323519561483823145 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_3084588477220583373 of size 67108864 from /10.251.125.174",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_412956398445037066 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.6.191:50010 Served block blk_5952254363678329024 to /10.250.6.191",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-6979800421545566530 of size 67108864 from /10.250.10.176",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_6791628131402590260 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-5362598472846558076 is added to invalidSet of 10.250.14.143:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-1897524391075610396 file /mnt/hadoop/dfs/data/current/subdir47/blk_-1897524391075610396",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.199.225:50010 is added to blk_-7115635482536854135 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.15.101:50010 Served block blk_-2557432794238860908 to /10.251.74.134",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.195.70:50010 Served block blk_-3696162841836791939 to /10.251.195.70",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-6543889749770222531 src: /10.251.107.98:56224 dest: /10.251.107.98:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-3738901473077208093 src: /10.251.199.150:49679 dest: /10.251.199.150:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_469126362137371425 src: /10.251.199.245:53897 dest: /10.251.199.245:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_3960527526103274525 of size 67108864 from /10.251.30.134",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.202.209:50010 Served block blk_-5086369325828333421 to /10.251.194.213",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-3437475890798229344 file /mnt/hadoop/dfs/data/current/subdir57/blk_-3437475890798229344",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001850_0/part-01850. blk_-4312777901444596370",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.67:50010 is added to blk_4154740411570608045 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-490230821467544285 is added to invalidSet of 10.250.10.6:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.91.32:50010 is added to blk_5272761429354463572 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.111.37:50010 Served block blk_-6050976999174805557 to /10.251.111.37",
+        "output": "<*> Served block <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.67.113:50010 is added to blk_9060964400089016309 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_3160319368100972992 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_7094265091490664593 is added to invalidSet of 10.251.71.68:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.111.228:50010 is added to blk_-2480595760294717232 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.26.177:50010:Got exception while serving blk_3848747149919646864 to /10.251.125.174:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_3336810835691486095 file /mnt/hadoop/dfs/data/current/subdir11/blk_3336810835691486095",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000315_0/part-00315. blk_-463998587096565542",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.106.37:50010 is added to blk_-4510259260131940043 size 3552141",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.49:50010 is added to blk_-3684613761619321001 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_706826531153199550 src: /10.250.5.161:58254 dest: /10.250.5.161:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.6.191:50010 is added to blk_673825774073966710 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001661_0/part-01661. blk_-1674094254141559552",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-01630. blk_-8645365827804358878",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_-2068111211565768713 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-5704899712662113150 of size 67108864 from /10.251.91.229",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-3482997549732691785 of size 67108864 from /10.251.122.79",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_4539833452749813987 of size 67108864 from /10.251.42.16",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.251.26.8:50010:Got exception while serving blk_-8522942048313632858 to /10.251.31.85:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-5124326558394984439 of size 67108864 from /10.251.122.79",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_5379939266348893280 of size 67108864 from /10.251.66.63",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-2989288139685694818 src: /10.250.19.227:60160 dest: /10.250.19.227:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_7572868180557515526 src: /10.251.214.130:38983 dest: /10.251.214.130:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_6542592144596063478 file /mnt/hadoop/dfs/data/current/subdir35/blk_6542592144596063478",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-6477590833521072407 is added to invalidSet of 10.251.39.179:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_6888300867578983331 file /mnt/hadoop/dfs/data/current/subdir46/blk_6888300867578983331",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-7832937837605180330 file /mnt/hadoop/dfs/data/current/subdir49/blk_-7832937837605180330",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-5814328448485070742 of size 67108864 from /10.251.74.134",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-227411387418683230 of size 67108864 from /10.251.194.213",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* ask 10.250.18.114:50010 to delete  blk_-5140072410813878235",
+        "output": "BLOCK* ask <*> to delete <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_4149909442914612270 src: /10.251.195.33:55490 dest: /10.251.195.33:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 1 for block blk_2151150262081352617 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_000115_0/part-00115. blk_-17685631368401548",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    }
+]

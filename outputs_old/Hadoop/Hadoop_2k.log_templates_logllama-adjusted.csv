@@ -1,0 +1,11 @@
+EventTemplate,Occurrences
+MRAppMaster for application <*> terminating,1
+Executing with tokens: <*>,1
+"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId <*> application_id <*> id: <*> cluster_timestamp: <*> attemptId: <*> keyId: <*>)",1
+Using mapred newApiCommitter.,1
+OutputCommitter set in config <*>,1
+OutputCommitter <*> is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter,1
+Registering class <*> for class <*> terminating,1
+JobEventType for class <*> terminating,1
+TaskEventType <*> for class <*> terminating,1
+TaskAttemptEventType for class <*> terminating,1

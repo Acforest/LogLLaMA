@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PCI Interrupt Routing Table [\\_SB_.PCI0.PBLO._PRT]",
+        "output": "PCI Interrupt Routing Table [<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.24.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.28.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1482]: No configuration change required",
+        "output": "[ib_sm_sweep.c:<*>]: No configuration change required"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to LOCAL(0), stratum 10",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.24.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Registered protocol family 1",
+        "output": "Registered protocol family <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Initializing.",
+        "output": "Initializing."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "apic_id 8, version 32, address 0xfec00000, GSI 0-23",
+        "output": "apic_id <*>, version <*>, address <*>, GSI <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Direct-Access ANSI SCSI revision: 02",
+        "output": "Direct-Access ANSI SCSI revision: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1482]: No configuration change required",
+        "output": "[ib_sm_sweep.c:<*>]: No configuration change required"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1482]: No configuration change required",
+        "output": "[ib_sm_sweep.c:<*>]: No configuration change required"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases",
+        "output": "DHCPDISCOVER from <*> via eth1: network A_net: no free leases"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1482]: No configuration change required",
+        "output": "[ib_sm_sweep.c:<*>]: No configuration change required"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1482]: No configuration change required",
+        "output": "[ib_sm_sweep.c:<*>]: No configuration change required"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.",
+        "output": "DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "(C) 2000-2002 Netfilter core team",
+        "output": "(C) <*>-<*> Netfilter core team"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Using IOAPIC for interrupt routing",
+        "output": "Using IOAPIC for interrupt routing"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: we failed to resolve data source name cn526 cn527 cn528 cn529 cn530 cn531 cn532 cn533 cn534 cn535 cn536 cn537 cn538 cn539 cn540 cn541 cn542 cn543 cn544 cn545 cn546 cn547 cn548 cn549 cn550 cn551 cn552 cn553 cn554 cn555 cn556 cn557 cn558 cn559 cn560 cn561 cn562 cn563 cn564 cn565 cn566 cn567 cn568 cn569 cn570 cn571 cn572 cn573 cn574 cn575 cn576 cn577 cn578 cn579 cn580 cn581 cn582 cn583 cn584 cn585 cn586 cn587 cn588 cn589 cn590 cn591 cn592 cn593 cn594 cn595 cn596 cn597 cn598 cn599 cn600 cn601 cn602 cn603 cn604 cn605 cn606 cn607 cn608 cn609 cn610 cn611 cn612 cn613 cn614 cn615 cn616 cn617 cn618 cn619 cn620 cn621 cn622 cn623 cn624 cn625 cn626 cn627 cn628 cn629 cn630 cn631 cn632 cn633 cn634 cn635 cn636 cn637 cn638 cn639 cn640",
+        "output": "Warning: we failed to resolve data source name <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************",
+        "output": "[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.14.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.24.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reading included configuration file: /etc/xinetd.d/klogin [file=/etc/xinetd.d/klogin] [line=14]",
+        "output": "Reading included configuration file: <*> [file=<*>] [line=<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1482]: No configuration change required",
+        "output": "[ib_sm_sweep.c:<*>]: No configuration change required"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "apic_id 10, version 32, address 0xfec83000, GSI 64-87",
+        "output": "apic_id <*>, version <*>, address <*>, GSI <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1",
+        "output": "DHCPDISCOVER from <*> via eth1"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jA9J1dQ7016560: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1625423, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]",
+        "output": "<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases",
+        "output": "DHCPDISCOVER from <*> via eth1: network A_net: no free leases"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.14.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PCI Interrupt Routing Table [\\_SB_.PCI0.VPR0._PRT]",
+        "output": "PCI Interrupt Routing Table [<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "unable to qualify my own domain name (dadmin1) -- using short name",
+        "output": "unable to qualify my own domain name (<*>) -- using short name"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "unable to qualify my own domain name (badmin1) -- using short name",
+        "output": "unable to qualify my own domain name (<*>) -- using short name"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "removing chargen",
+        "output": "removing <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Version 1.0.6 Starting",
+        "output": "Version <*> Starting"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reading included configuration file: /etc/xinetd.d/cups-lpd [file=/etc/xinetd.d/cups-lpd] [line=17]",
+        "output": "Reading included configuration file: <*> [file=<*>] [line=<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.28.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "(root) CMD (run-parts /etc/cron.hourly)",
+        "output": "(<*>) CMD (run-parts <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************",
+        "output": "[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session closed for user root",
+        "output": "session closed for user <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from \"#28#\"",
+        "output": "connection from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PS/2 mouse device common for all mice",
+        "output": "PS/<*> mouse device common for all mice"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "L2 cache: 2048K",
+        "output": "L2 cache: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.26.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.28.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: we failed to resolve data source name an398 an399 an400 an401 an402 an403 an404 an405 an406 an407 an408 an409 an410 an411 an412 an413 an414 an415 an416 an417 an418 an419 an420 an421 an422 an423 an424 an425 an426 an427 an428 an429 an430 an431 an432 an433 an434 an435 an436 an437 an438 an439 an440 an441 an442 an443 an444 an445 an446 an447 an448 an449 an450 an451 an452 an453 an454 an455 an456 an457 an458 an459 an460 an461 an462 an463 an464 an465 an466 an467 an468 an469 an470 an471 an472 an473 an474 an475 an476 an477 an478 an479 an480 an481 an482 an483 an484 an485 an486 an487 an488 an489 an490 an491 an492 an493 an494 an495 an496 an497 an498 an499 an500 an501 an502 an503 an504 an505 an506 an507 an508 an509 an510 an511 an512",
+        "output": "Warning: we failed to resolve data source name <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: we failed to resolve data source name dn654 dn655 dn656 dn657 dn658 dn659 dn660 dn661 dn662 dn663 dn664 dn665 dn666 dn667 dn668 dn669 dn670 dn671 dn672 dn673 dn674 dn675 dn676 dn677 dn678 dn679 dn680 dn681 dn682 dn683 dn684 dn685 dn686 dn687 dn688 dn689 dn690 dn691 dn692 dn693 dn694 dn695 dn696 dn697 dn698 dn699 dn700 dn701 dn702 dn703 dn704 dn705 dn706 dn707 dn708 dn709 dn710 dn711 dn712 dn713 dn714 dn715 dn716 dn717 dn718 dn719 dn720 dn721 dn722 dn723 dn724 dn725 dn726 dn727 dn728 dn729 dn730 dn731 dn732 dn733 dn734 dn735 dn736 dn737 dn738 dn739 dn740 dn741 dn742 dn743 dn744 dn745 dn746 dn747 dn748 dn749 dn750 dn751 dn752 dn753 dn754 dn755 dn756 dn757 dn758 dn759 dn760 dn761 dn762 dn763 dn764 dn765 dn766 dn767 dn768",
+        "output": "Warning: we failed to resolve data source name <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)",
+        "output": "LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.",
+        "output": "DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.24.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.16.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "succeeded",
+        "output": "succeeded"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session opened for user root by (uid=0)",
+        "output": "session opened for user <*> by (uid=<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "(root) CMD (run-parts /etc/cron.hourly)",
+        "output": "(<*>) CMD (run-parts <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.24.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1",
+        "output": "DHCPOFFER on <*> to <*> via eth1"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_D4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************",
+        "output": "[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: we failed to resolve data source name an14 an15 an16 an17 an18 an19 an20 an21 an22 an23 an24 an25 an26 an27 an28 an29 an30 an31 an32 an33 an34 an35 an36 an37 an38 an39 an40 an41 an42 an43 an44 an45 an46 an47 an48 an49 an50 an51 an52 an53 an54 an55 an56 an57 an58 an59 an60 an61 an62 an63 an64 an65 an66 an67 an68 an69 an70 an71 an72 an73 an74 an75 an76 an77 an78 an79 an80 an81 an82 an83 an84 an85 an86 an87 an88 an89 an90 an91 an92 an93 an94 an95 an96 an97 an98 an99 an100 an101 an102 an103 an104 an105 an106 an107 an108 an109 an110 an111 an112 an113 an114 an115 an116 an117 an118 an119 an120 an121 an122 an123 an124 an125 an126 an127 an128",
+        "output": "Warning: we failed to resolve data source name <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.14.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reading included configuration file: /etc/xinetd.d/echo [file=/etc/xinetd.d/echo] [line=15]",
+        "output": "Reading included configuration file: <*> [file=<*>] [line=<*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0",
+        "output": "<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>"
+    }
+]

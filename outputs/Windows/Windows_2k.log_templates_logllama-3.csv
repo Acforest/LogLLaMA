@@ -1,0 +1,110 @@
+EventTemplate,Occurrences
+"Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState: <*>",467
+"Warning: Unrecognized <*>,",280
+Session: <*> initialized by client <*>,263
+"Expecting attribute name <*>,",224
+Failed to get next element [HRESULT = <*>],224
+"Session: <*>, initialized by client <*>",163
+"Session <*>, initialized by client <*>,",95
+"Session: <*>, initialized by client <*>,",47
+"Session <*> initialized by client <*>,",32
+Failed to internally open package. (HRESULT = <*>),18
+"Read out cached package applicability for package: Microsoft-Hyper-V-Integration-Services-Package~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",8
+"Unloading offline registry hive <*>, at <*>,",8
+Session <*> initialized by client <*>,5
+<*>@<*> WcpInitialize (wcp.dll version <*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*>),4
+"Session: <*>, initialized by <*>, at <*>",4
+"Creating NT transaction (seq <*>, objectname ""<*>"")",3
+CSI perf trace:,3
+"Loaded Servicing Stack <*>, at <*>, core <*>",2
+Ending TrustedInstaller initialization.,2
+Starting the TrustedInstaller main loop.,2
+TrustedInstaller service starts successfully.,2
+SQM: Initializing online with <*> <*>,2
+SQM: Cleaning up report files older than <*> days.,2
+SQM: Requesting upload of all unsent reports. <*>,2
+"SQM: Failed to start upload with file pattern <*>, flags <*>, HRESULT <*>",2
+"SQM: Failed to start standard sample upload. HRESULT = <*>, error <*>",2
+"SQM: Queued <*> file(s) for upload with pattern: <*>, flags: <*>",2
+"SQM: Warning: Failed to upload all unsent reports. HRESULT = <*>,",2
+"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",2
+NonStart: Checking to ensure startup processing was not required.,2
+"<*> Created NT transaction (seq <*>, result <*>, handle @<*>",2
+"NonStart: Success, startup processing not required as expected.",2
+Startup processing thread terminated normally,2
+"Read out cached package applicability for package: Package_for_KB3121255~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3108664~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3060716~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3177186~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3138901~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3156017~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3084135~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Microsoft-Windows-PlatformUpdate-Win7-SRV08R2-Package-TopLevel~31bf3856ad364e35~amd64~~7.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3093513~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3108670~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Microsoft-Windows-RDP-BlueIP-Package-TopLevel~31bf3856ad364e35~amd64~~7.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3118401~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3020387~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3022777~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB2512715~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB2706045~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3013531~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB2703157~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3109094~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Microsoft-Windows-RDP-WinIP-Package-TopLevel~31bf3856ad364e35~amd64~~7.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB2719033~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3109103~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3023215~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3185911~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3138910~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState:<*>",2
+"Read out cached package applicability for package: Package_for_KB2621146~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB2601626~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3123479~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Microsoft-Windows-Embedded-EmbeddedLockdown-Package-TopLevel~31bf3856ad364e35~amd64~~7.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3181988~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3156016~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3139914~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState:<*>",2
+"Read out cached package applicability for package: Package_for_KB3005788~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3161949~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3035017~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3101722~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3155178~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3140245~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3138378~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB3108371~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Read out cached package applicability for package: Package_for_KB2928120~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",2
+"Failed to create backup log cab. HRESULT = <*>, ERROR = <*>",2
+"Loading offline registry hive <*>, into registry key '<*>/<*>' from path '<*>'.",2
+"Loading offline registry hive <*>, into registry key '<*>', from path '<*>'.",2
+"IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*>, flags = <*>, progress = <*>, phase = <*>, pdwDisposition = @<*>",1
+"<*> CSI Store <*>, initialized",1
+"Read out cached package applicability for package: Package_for_KB3156019~31bf3856ad364e35~amd64~~6.<*>, ApplicableState: <*>, CurrentState: <*>",1
+Reboot mark refs incremented to: <*>,1
+Scavenge: <*>,1
+<*>@<*>@<*> CSI Transaction @<*> initialized for deployment engine {<deployment_engine_id}> with flags <*> and client id <*>,1
+Scavenge: Begin CSI Store <*>,1
+0000000a Performing <*> operations; <*> are not lock/unlock and follow:,1
+"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.",1
+0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=<*> applyflags=<*>,1
+"0000000e Created NT transaction (seq <*>, result <*>, handle @<*>",1
+"Scavenge: Completed, disposition: <*>",1
+"<*>@<*>, <*>, <*> @<*> destroyed",1
+Reboot mark refs <*>,1
+Idle processing thread terminated normally,1
+Ending the TrustedInstaller main loop.,1
+Starting TrustedInstaller finalization.,1
+Ending TrustedInstaller finalization.,1
+Starting TrustedInstaller initialization.,1
+<*>@<*>@<*> WcpInitialize (wcp.dll version <*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*>),1
+<*>@<*>@<*> WcpInitialize (wcp.dll version <*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>),1
+"<*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*>) (flags = 0x116fa70, progress = <*>, phase = <*>, pdwDisposition = @0x116fa70",1
+"Loading offline registry hive <*>, into registry key '<*>GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/</hex_key>' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\</hex_key>'.",1
+"Loading offline registry hive <*>, into registry key '<*>GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT'.",1
+"Loading offline registry hive <*>, at <*>, into registry key '{bf1a281b-ad7b-<*>-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuser.dat'.",1
+"Loading offline registry hive <*>, into registry key '<*>GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '<*>'.",1
+Offline image is: <*>,1
+"Disabling manifest caching, because <*>",1
+PopulateComponentFamiliesKey - Begin,1
+PopulateComponentFamiliesKey - End,1
+"0000000a CSI Store <*>, initialized",1
+"0000000b CSI Store <*>, initialized",1

@@ -1,0 +1,7 @@
+{
+    "description": "Template used by LogLLaMA.",
+    "prompt": "### Instruction:\nYou will be provided with a log message, and you must abstract variables with <*> to extract the corresponding template.\n\n### Input:\nBLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.5.237:50010 is added to blk_-476906696485288376 size 67108864\n\nOutput:\nBLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>\n\n### Input:\n{input}\n\n### Output:\n",
+    "prompt_input": "Below is an instruction that describes a task about log analysis, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Output:\n",
+    "prompt_no_input": "Below is an instruction that describes a task about log analysis. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+    "response_split": "### Output:"
+}

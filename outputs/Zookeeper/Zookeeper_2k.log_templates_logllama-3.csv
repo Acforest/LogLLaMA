@@ -1,0 +1,71 @@
+EventTemplate,Occurrences
+Interrupted while waiting for message on queue,314
+"Received connection request <*>, port <*>",298
+"Connection broken for <*>, my id = <*>, error =",291
+Interrupting SendWorker <*>,266
+"Send worker leaving <*>,",262
+"Cannot open channel to <*>, at <*>,",86
+"Processed session termination for sessionid: <*>,",47
+"Closed socket connection for client <*>, which had sessionid <*>",44
+"Client attempting to establish new session at <*>, port",40
+"Expiring session <*>, timeout of <*> exceeded",40
+"Connection request from <*>, port <*>; will be dropped if server is in r-o mode",38
+Notification time out: <*>,37
+caught <*>,37
+"Accepted socket connection from <*>, port <*>",33
+"Established session <*>, timeout <*>, client <*>",26
+"GOODBYE <*>, <*>",18
+"Established session <*>, with negotiated timeout <*> for client <*>",13
+Unexpected exception while sock still open,12
+"Accepted socket connection from <*>, at <*>, port <*>",9
+"Accepted socket connection from <*>, at <*>,",6
+LOOKING,4
+"Notification: <*>, <*>, <*>, <*>, <*>, <*>, LOOKING (my state)",4
+"Closed socket connection for client <*>, (no session established for client)",4
+"Notification: <*>, <*>, <*>, <*>, <*>, <*>, <*>",4
+"Client attempting to renew session <*>, at <*>, mask <*>",3
+"Established session <*>, timeout <*>, client <*>[:port]",3
+"Exception causing close of session <*>, due to <*>",3
+"Established session <*>, timeout <*> for client <*>",3
+"autopurge.purgeInterval <*>,",3
+FOLLOWING,2
+FOLLOWING - LEADER ELECTION TOOK <*>,2
+"Server environment:java.vendor=<*>,",2
+"Revalidating client <*>,",2
+Server environment: user.name = <*>,2
+Server environment: os.name=<*>,2
+"Notification: <*>, <*>, <*>, <*>, <*>, <*>, FOLLOWING (my state)",2
+"Snapshotting: <*>, to <*>",2
+Getting a snapshot from leader <*>,2
+"Notification: <*>, 0x0, 0x1, <*>, <*>, 0x0, LOOKING (my state)",2
+"minSessionTimeout <*>,",2
+"Unexpected Exception: <*>,",1
+"Established session <*>, with negotiated timeout <*>, for client <*>",1
+Server environment:user.dir=<*>,1
+"******* GOODBYE <*>, <*> ********",1
+"My election bind port: <*>, at <*>, mask <*>",1
+"Have smaller server identifier, so dropping the connection: <*>, <*>",1
+"New election. My id <*>, proposed zxid=<*>",1
+Server environment:host.name=<*>,1
+autopurge.snapRetainCount set to <*>,1
+"Server environment:zookeeper.version=<*>, built on <*>",1
+"Established session <*>, with negotiated timeout <*> for client <*>, port <*>",1
+"Established session <*>, timeout <*>, client <*>[:<*>]",1
+"tickTime set to <*>,",1
+"Got KeeperException when processing sessionid:<*>, type:<*>, cxid:<*>, zxid:<*>, txntype:<*>, reqpath:<*>, Error Path:<*>, Error:KeeperErrorCode = <*>",1
+"Established session <*>, at <*>, with negotiated timeout <*> for client <*>",1
+Starting quorum peer,1
+"Client attempting to establish new session at <*>, port <*>",1
+"Follower sid <*>, info org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@<*>",1
+"Revalidating client: <*>, at <*>",1
+"maxSessionTimeout <*>,",1
+"Established session <*>, timeout <*> for client <*>[:port]",1
+Server environment:java.class.path:<*>,1
+Have quorum of supporters; starting up and setting last processed zxid: <*>,1
+shutdown of <*> complete,1
+"First is <*>, at 0x0, mask 0x0",1
+"Connection request from <*>, port <*>, will be dropped if server is in r-o mode",1
+"Reading snapshot <*>, at <*>,",1
+Sending DIFF <*>,1
+"Received connection request <*>, port",1
+"Server environment:java.home=<*>,",1

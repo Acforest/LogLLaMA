@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "<s>[INST] <<SYS>>\nAs a log parser, you will be given some log messages delimited by backticks, and you need to substitute their variables including numbers, file paths, IP addresses and ports with placeholders <*> to get the corresponding templates. For example, the template of log message `CE sym 20, at 0x1438f9e0, mask 0x40` is `CE sym <*>, at <*>, mask <*>`. Just provide the result without any explanations. <</SYS>> If the given log message is `{input}`, its template is:[/INST]",
+    "response_split": "[/INST]"
+}

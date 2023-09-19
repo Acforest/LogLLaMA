@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "Log message:'PacketResponder 1 for block blk_38865049064139660 terminating' Log template:'PacketResponder <*> for block blk_<*> terminating'\nHere is a log message. Log message:'{input}'",
+    "response_split": "Log template:"    
+}

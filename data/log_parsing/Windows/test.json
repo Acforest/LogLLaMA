@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3315431812 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2798162~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3006137~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3005607~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2934760039 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3121255~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3209865774 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2719033~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_170026732 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2676562~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3181988~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3190684677 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2862330~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3109103~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3118401~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3341883325 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3139940~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3344023448 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3048226529 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3147071~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3156017~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3220876404 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3173453692 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3219376318 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2834140~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 112, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_171536818 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2932399904 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3311911611 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3142024~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3167883373 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3184471~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 0, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3183554269 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3127220~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2552343~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3184122~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3092601~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_35659046 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3196675020 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2719033~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3139940~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3300980986 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_17818026 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3161949~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3054476~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2631813~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]",
+        "output": "Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3190364659 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2685939~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3020393~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 64, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2839784607 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3109094~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3208835715 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3337743089 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to create backup log cab. [HRESULT = 0x80070001 - ERROR_INVALID_FUNCTION]",
+        "output": "Failed to create backup log cab. [HRESULT = <*> - ERROR_INVALID_FUNCTION]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3193214822 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546173_4280623482 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546173_4262462443 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_110243312 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_91382233 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_172246858 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2973201~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_132424581 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3142024~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3177467~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3181864173 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2970472082 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3033889~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_106683108 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2968461967 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3023215~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Microsoft-Windows-RDP-WinIP-Package-TopLevel~31bf3856ad364e35~amd64~~7.1.7601.16398, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546173_4280633483 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3163245~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2957189~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2862152~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3227386776 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3313121680 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3023215~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2850715232 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "0000000a CSI Store 17159600 (0x000000000105d5b0) initialized",
+        "output": "<*> CSI Store <*> (<*>) initialized"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_102442866 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_857056 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2726535~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3019978~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2761217~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Startup processing thread terminated normally",
+        "output": "Startup processing thread terminated normally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_40939348 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3342443357 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3283119964 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2509553~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3215266083 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2560656~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3184471~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 0, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2809215~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_92052272 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3067367624 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_18398059 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2971152121 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2959511455 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2808679~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_94182393 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3020369~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3356114139 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3035126~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "00000002@2016/9/28:16:00:46.200 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fee5c86ade @0x7fee5c52984 @0x7fee5c03665 @0xffeee97c @0xffeed799)",
+        "output": "<*>@<*>/<*>/<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>) called (stack @<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3357084195 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2532531~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3010788~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3109560~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_20238164 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2621440~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3356844181 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3075249~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_149325547 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3337223059 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Idle processing thread terminated normally",
+        "output": "Idle processing thread terminated normally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3045685~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3204535469 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2861698~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3229556901 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3156016~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Scavenge: Starts",
+        "output": "Scavenge: Starts"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3005788~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3121255~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    }
+]

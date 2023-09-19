@@ -1,0 +1,55 @@
+EventTemplate,Occurrences
+Interrupted while waiting for message on queue,314
+Received connection request <*>,298
+Connection broken for id <*> my id = <*> error =,291
+SendWorker <*> interrupting,266
+Send worker leaving thread,262
+Cannot open channel to <*> at election address <*> terminating,86
+Established session <*> with negotiated timeout <*> for client <*> terminating,50
+Accepted socket connection from <*>,48
+Processed session termination for sessionid: <*>,47
+Closed socket connection for client <*> which had sessionid <*>,44
+Client attempting to establish new session at <*>,41
+Expiring session <*> timeout of <*> exceeded,40
+Connection request from <*> will be dropped if server is in r-o mode,38
+Notification time out: <*>,37
+caught end of stream exception,37
+PacketResponder <*> for block <*> terminating,19
+Notification <*> for block <*> terminating,12
+Unexpected exception causing shutdown while sock still open,12
+LOOKING,4
+Closed socket connection for client <*> (no session established for client),4
+Client attempting to renew session <*> at <*>,3
+Server environment:<*>,3
+Revalidating client: <*>,3
+Exception causing close of session <*> due to <*>,3
+autopurge.purgeInterval set to <*>,3
+FOLLOWING,2
+FOLLOWING - LEADER ELECTION TOOK - <*>,2
+Server environment:user.name=<*>,2
+Server environment <*> os.name=Linux,2
+Getting a snapshot from leader,2
+minSessionTimeout set to -<*>,2
+Unexpected Exception: <*>,1
+Connection request from <*> client <*> will be dropped if server is in r-o mode,1
+My election bind port: <*>,1
+"Have smaller server identifier, so dropping the connection: <*>",1
+New election. My id = <*> proposed zxid=<*>,1
+Server environment:host.name=<*>,1
+autopurge.snapRetainCount set to <*>,1
+"Server environment:zookeeper.version=<*>--<*>, built on <*> GMT",1
+tickTime set to <*>,1
+Received connection request <*> terminating,1
+Got user-level KeeperException when processing sessionid:<*> type:<*> cxid:<*> zxid:<*> txntype:<*> reqpath:<*> Error Path:<*> Error:KeeperErrorCode = NodeExists for <*>,1
+Starting quorum peer,1
+Snapshotting: <*> to <*>,1
+Snapshotting <*> to <*>,1
+QuorumPeer <*> for block <*> terminating,1
+maxSessionTimeout set to -<*>,1
+Server environment: <*> for block <*> terminating,1
+Have quorum of supporters; starting up and setting last processed zxid: <*>,1
+shutdown of request processor complete,1
+First is <*>,1
+Reading snapshot <*> terminating,1
+Sending DIFF,1
+Server environment: <*>,1

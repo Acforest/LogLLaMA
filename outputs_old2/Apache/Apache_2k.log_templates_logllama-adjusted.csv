@@ -1,0 +1,7 @@
+EventTemplate,Occurrences
+jk2_init() Found child <*> in scoreboard slot <*>,836
+workerEnv.init() ok <*>,569
+mod_jk child workerEnv in error state <*>,539
+Directory index forbidden by rule: <*>,32
+jk2_init() Can,12
+mod_jk child init <*>,12

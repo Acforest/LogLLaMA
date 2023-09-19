@@ -1,0 +1,124 @@
+EventTemplate,Occurrences
+Address change detected. Old: <*> New: <*>,476
+Failed to renew lease for <*> for <*> seconds. Will retry shortly ...,326
+Progress of <*> is : <*>,274
+ERROR IN CONTACTING RM.,147
+"Retrying connect to server: <*> Already tried <*> time(s); retry policy is <*> WithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)",146
+Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>,130
+"Recalculating schedule, headroom=<memory:<*>, vCores:-27>",121
+TaskAttempt Transitioned from <*> to <*>,40
+Resolved <*> to <*>,39
+Task Transitioned from <*> to <*>,21
+Progress of TaskAttempt <*> is : <*>,15
+Processing the event <*> for container <*> taskAttempt <*> attempt <*>,13
+Opening proxy <*> for block <*> terminating,13
+getResources() for <*> terminating,12
+Got allocated containers <*>,10
+Assigned container <*> to attempt <*> terminating,10
+Launching <*>,10
+Shuffle port returned by ContainerManager for <*> : <*>,10
+TaskAttempt <*> using containerId <*> on NM <*>,10
+ATTEMPT_START <*>,10
+Auth successful for <*> (auth:SIMPLE),10
+JVM with ID <*> asked for a task,10
+JVM with ID: <*> given task: <*> terminating,10
+After Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,8
+After Scheduling: PendingReds:<*> ScheduledMaps:<*> AssignedMaps:<*> CompletedMaps:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,4
+Diagnostics report from <*> failed on socket timeout exception: NoRouteToHostException: no further information; For more details see: <*>,4
+Default file system <*> [hdfs://msra-sa-<*>],3
+Job Transitioned from <*> to <*>,3
+Processing the event <*>,3
+"Recalculating schedule, headroom=<memory:<*>, vCores:-26>",3
+KILLING <*>,3
+Registering class <*> for class <*> terminating,2
+Using callQueue class <*>,2
+Starting Socket Reader <*> for port <*>,2
+IPC Server Responder <*> starting,2
+IPC Server listener on <*> starting,2
+adding path spec: <*>,2
+"Recalculating schedule, headroom=<memory:<*>, vCores:-17>",2
+Received completed container <*>,2
+Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,2
+Before Scheduling: <*> PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,2
+Task: <*> - exited : <*> failed on socket timeout exception: <*>,2
+Task cleanup failed for attempt <*> terminating,2
+<*> failures on node <*>,2
+Added <*> to list of failed maps,2
+MRAppMaster for application <*> terminating,1
+Executing with tokens: <*>,1
+"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId <*> application_id <*> id: <*> cluster_timestamp: <*> attemptId: <*> keyId: <*>)",1
+Using mapred newApiCommitter.,1
+OutputCommitter set in config <*>,1
+OutputCommitter <*> is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter,1
+JobEventType for class <*> terminating,1
+TaskEventType <*> for class <*> terminating,1
+TaskAttemptEventType for class <*> terminating,1
+CommitterEventType <*> for class <*> terminating,1
+Speculator$EventType for class <*> terminating,1
+ContainerAllocator$EventType for class <*> terminating,1
+Emitting job history data to the timeline server is not enabled,1
+JobFinishEvent$Type for class <*> terminating,1
+loaded properties from <*>,1
+Scheduled snapshot period at <*> second(s).,1
+MRAppMaster <*> metrics system started,1
+Adding job token for <*> to jobTokenSecretManager,1
+Not uberizing job <*> because: not enabled; too many maps; too much input;,1
+Input size for job <*> = <*>. Number of splits = <*>.,1
+Number of reduces for job <*> = <*>,1
+"MRAppMaster launching normal, non-uberized, multi-container job <*>.",1
+Adding protocol <*> to the server,1
+Instantiated MRClientService at <*> terminating,1
+Logging to <*> via <*>,1
+Http request log for <*> is not defined,1
+Added global filter <*> (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter),1
+Added filter <*> to context mapreduce,1
+Added filter <*> (class=<*>) to context static,1
+Jetty bound to port <*>,1
+Jetty <*> <*>,1
+Extract jar:file:<*>!<*> to C:\Users\msrabi\AppData\Local\Temp\Jetty_0_0_0_0_62267_mapreduce____.8n7xum\webapp,1
+Started HttpServer2$SelectChannelConnectorWithSafeStartup@<*>,1
+Web app <*> started at <*>,1
+Registered webapp guice modules,1
+JOB_CREATE <*> terminating,1
+nodeBlacklistingEnabled:<*>,1
+maxTaskFailuresPerNode <*> is <*>,1
+blacklistDisablePercent <*> is <*>,1
+Connecting to <*> at <*> terminating,1
+"maxContainerCapability: <memory:<*>, vCores:32>",1
+queue: <*>,1
+Upper limit on the thread pool size is <*>,1
+yarn.client.max-cached-nodemanagers-proxies : <*>,1
+"mapResourceRequest: <memory:<*>, vCores:<*>",1
+Event Writer setup for JobId: <*> File: <*> terminating,1
+"reduceResourceRequest:<memory:<*>, vCores:<*>",1
+Before Scheduling: PendingReds:<*> ScheduledMaps:<*> AssignedMaps:<*> CompletedMaps:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,1
+"Recalculating schedule, headroom=<memory:<*>, vCores:-19>",1
+hdfs://msra-sa-<*>:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_<*> terminating,1
+job-conf file on the remote FS is <*> terminating,1
+Adding <*> tokens and <*> secret keys for NM use for launching container,1
+Size of containertokens_dob is <*>,1
+Putting shuffle token in serviceData,1
+"Recalculating schedule, headroom=<*>",1
+"Recalculating schedule, headroom=<memory:<*>, vCores:-22>",1
+"Recalculating schedule, headroom=<memory:<*>, vCores:-23>",1
+"Recalculating schedule, headroom=<memory:<*>, vCores:-24>",1
+"Container <*> for map as either <memory:<*>, vCores:1> or no pending map tasks - maps.isEmpty=<*>",1
+Container complete event for unknown container id <*>,1
+Done acknowledgement from <*> terminating,1
+TaskAttempt Transitioned from <*> to SUCCESS_CONTAINER_CLEANUP,1
+TaskAttempt Transitioned from <*> to SUCCEEDED,1
+Task succeeded with attempt <*> terminating,1
+Task Transitioned from <*> to SUCCEEDED,1
+Num completed Tasks: <*>,1
+Reduce slow start threshold reached. Scheduling <*>,1
+All maps assigned. Ramping up all remaining reduces: <*>,1
+DefaultSpeculator.addSpeculativeAttempt -- we are speculating <*>,1
+Sleeping <*> milliseconds,1
+Scheduling a redundant attempt for task <*> terminating,1
+Container killed by the ApplicationMaster.,1
+"Slow ReadProcessor read fields took <*> (threshold=<*>); ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*>, targets: [<*>]",1
+DFSOutputStream ResponseProcessor exception for block <*> terminating,1
+Error Recovery for block <*> terminating,1
+DataStreamer Exception,1
+Error writing History Event: <*>@<*>,1
+Thread <*> threw an Exception.,1

@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:10240, vCores:-17>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack",
+        "output": "Resolved <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "task_1445144423722_0020_m_000004 Task Transitioned from NEW to SCHEDULED",
+        "output": "<*> Task Transitioned from NEW to SCHEDULED"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 235 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 324 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.106493875",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 264 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack",
+        "output": "Resolved <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.36317363",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Adding #0 tokens and #1 secret keys for NM use for launching container",
+        "output": "Adding #<*> tokens and #<*> secret keys for NM use for launching container"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Launching attempt_1445144423722_0020_m_000003_0",
+        "output": "Launching <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 340 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack",
+        "output": "Resolved <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started HttpServer2$SelectChannelConnectorWithSafeStartup@0.0.0.0:62267",
+        "output": "Started HttpServer2$SelectChannelConnectorWithSafeStartup@<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 114 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Size of containertokens_dob is 1",
+        "output": "Size of containertokens_dob is <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 32 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 249 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.19211523",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack",
+        "output": "Resolved <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 177 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.1795899",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 271 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.6199081",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.44980705",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 1.0",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 153 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Task cleanup failed for attempt attempt_1445144423722_0020_m_000002_0",
+        "output": "Task cleanup failed for attempt <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 101 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 104 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.065791264",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10",
+        "output": "Input size for job <*> = <*>. Number of splits = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.36319977",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.6199081",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.06741504",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "queue: default",
+        "output": "queue: default"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.36319977",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 338 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.3787692",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.27696857",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "job_1445144423722_0020Job Transitioned from SETUP to RUNNING",
+        "output": "<*> Transitioned from SETUP to RUNNING"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.19247705",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "task_1445144423722_0020_m_000008 Task Transitioned from SCHEDULED to RUNNING",
+        "output": "<*> Task Transitioned from SCHEDULED to RUNNING"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "JVM with ID: jvm_1445144423722_0020_m_000007 given task: attempt_1445144423722_0020_m_000005_0",
+        "output": "JVM with ID: <*> given task: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 227 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 66 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack",
+        "output": "Resolved <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 294 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Assigned container container_1445144423722_0020_01_000003 to attempt_1445144423722_0020_m_000001_0",
+        "output": "Assigned container <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 323 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.37551183",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Auth successful for job_1445144423722_0020 (auth:SIMPLE)",
+        "output": "Auth successful for <*> (auth:SIMPLE)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "attempt_1445144423722_0020_m_000009_0 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED",
+        "output": "<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "After Scheduling: PendingReds:1 ScheduledMaps:7 ScheduledReds:0 AssignedMaps:3 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:3 ContRel:0 HostLocal:0 RackLocal:3",
+        "output": "After Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 126 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 31 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "MRAppMaster metrics system started",
+        "output": "MRAppMaster metrics system started"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 96 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 146 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 215 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Before Scheduling: PendingReds:1 ScheduledMaps:10 ScheduledReds:0 AssignedMaps:0 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:0 ContRel:0 HostLocal:0 RackLocal:0",
+        "output": "Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.19158794",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 221 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.103304505",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 339 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.19212553",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Resolved MININT-FNANLI5.fareast.corp.microsoft.com to /default-rack",
+        "output": "Resolved <*> to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Auth successful for job_1445144423722_0020 (auth:SIMPLE)",
+        "output": "Auth successful for <*> (auth:SIMPLE)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.10660437",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 355 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 36 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 111 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.3624012",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.9185183",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445144423722_0020_m_000000",
+        "output": "DefaultSpeculator.addSpeculativeAttempt -- we are speculating <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Auth successful for job_1445144423722_0020 (auth:SIMPLE)",
+        "output": "Auth successful for <*> (auth:SIMPLE)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 94 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Using callQueue class java.util.concurrent.LinkedBlockingQueue",
+        "output": "Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 320 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 330 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    }
+]

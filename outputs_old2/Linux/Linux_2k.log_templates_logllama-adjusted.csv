@@ -1,0 +1,128 @@
+EventTemplate,Occurrences
+authentication failure; logname=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,298
+connection from <*> () at <*> <*>,265
+connection from <*> at <*>,262
+connection from <*> () at <*> terminating,256
+session closed for user <*>,123
+session opened for user <*> by (uid=<*>).,122
+check pass; user unknown,117
+authentication failure; logname=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,108
+connection from <*> () at <*> <*> <*>,96
+ALERT exited abnormally with <*>,43
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=<*>,23
+Kerberos authentication failed,23
+connection from <*> (<*>) at <*> <*>,17
+notify question section contains no SOA,16
+Authentication failed from <*> (<*>): Software caused connection abort,15
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=<*>-<*>-<*>-<*>.hinet-ip.hinet.net user=<*>,13
+connection from <*> (<*>) at <*>,13
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=ip-<*>-<*>-<*>-<*>.ip.secureserver.net,10
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=<*> user=<*>,10
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=<*>-<*>-<*>-<*>.dsl.easynet.nl user=<*>,10
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=<*>.nw.nuvox.net user=<*>,10
+Authentication failed from <*> (<*>): Permission denied in replay cache code,8
+authentication failure; logname=uid=<*> euid=<*> tty=NODEVssh ruser=rhost=<*>-<*>-<*>-<*>.adsl.ttn.net user=<*>,8
+restart.,7
+cupsd shutdown succeeded,6
+cupsd startup succeeded,6
+removing device node <*>,4
+creating device node <*>,4
+getpeername (ftpd): Transport endpoint is not connected,4
+BIOS-e820: <*> - <*> (reserved),3
+"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)",2
+Connection reset by peer,2
+BIOS-e820: <*> - <*> (usable),2
+User unknown timed out after <*> seconds at <*> terminating,1
+Received SNMP packet(s) from <*>,1
+info <*> for block <*> terminating,1
+Auto-detected intellimouse PS/2,1
+session opened for user <*> by LOGIN(uid=<*>),1
+<*> LOGIN ON <*>,1
+Couldn,1
+syslogd <*> startup succeeded,1
+klogd <*> started.,1
+Linux version <*> (<*>) (<*>) #<*> <*>,1
+BIOS-provided physical RAM map: <*>,1
+HIGHMEM available.,1
+LOWMEM available.,1
+zapping low mappings.,1
+klogd startup succeeded,1
+On node <*> totalpages <*>,1
+"DMA zone: <*> pages, LIFO batch: <*>",1
+"Normal zone: <*> pages, LIFO batch: <*>",1
+irqbalance startup succeeded,1
+"HighMem zone: <*> pages, LIFO batch: <*>",1
+DMI <*> present.,1
+ACPI disabled because your <*> is from <*> and too old,1
+acpi=force,1
+Built <*> zonelists,1
+Kernel command line: <*> ro <*> <*>=<*> rhgb <*> quiet,1
+mapped <*> to ffff3000.,1
+Initializing <*>,1
+"CPU <*> irqstacks, hard=<*> soft=<*>",1
+portmap startup succeeded,1
+PID hash table entries: <*> (order <*> bytes),1
+Detected <*> MHz processor.,1
+Version <*> Starting,1
+Using tsc for high-res timesource,1
+rpc.statd startup succeeded,1
+Console: colour <*>,1
+"Memory: <*>k/<*>k available (<*> kernel code, <*> reserved, <*> data, <*> init, 0k highmem)",1
+Calibrating delay loop... <*> BogoMIPS,1
+Security Scaffold <*> initialized,1
+SELinux: <*> Initializing.,1
+SELinux: <*> Starting in permissive mode,1
+"There is already a security framework initialized, register_security <*> failed.",1
+Failure registering capabilities with the kernel,1
+selinux_register_security: <*> Registering secondary module capability,1
+Capability LSM initialized,1
+idmapd startup succeeded,1
+"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)",1
+"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+"CPU: L1 I cache: <*>, L1 D cache: <*>",1
+CPU: L2 cache: <*>,1
+Intel machine check architecture supported.,1
+Intel machine check reporting enabled on <*>,1
+CPU: <*> stepping <*>,1
+Enabling fast FPU save and restore... done.,1
+Enabling unmasked SIMD FPU exception support... done.,1
+Checking <*> instruction... OK.,1
+Initializing random number generator: <*> succeeded,1
+POSIX conformance testing by <*>,1
+NET: Registered protocol family <*>,1
+PCI: PCI BIOS revision <*> entry at <*> last bus=<*>,1
+PCI: Using configuration type <*>,1
+mtrr: v2.<*> (<*>),1
+ACPI: Subsystem <*> revision <*>,1
+ACPI: Interpreter disabled.,1
+Linux Plug and Play Support v0.<*> (c) Adam Belay,1
+Starting pcmcia: <*> succeeded,1
+usbcore: registered new driver <*>,1
+hub,1
+ACPI: ACPI tables contain no PCI IRQ routing entries,1
+PCI: <*> Invalid ACPI-PCI IRQ routing table,1
+PCI: Probing <*> hardware,1
+PCI: Probing PCI hardware (bus <*>),1
+Transparent bridge - <*> terminating,1
+PCI: Using IRQ router <*> at <*>,1
+apm: <*> Flags <*> (Driver version <*>),1
+audit: initializing netlink socket (disabled),1
+kernel.core_uses_pid = <*>,1
+HCI daemon ver <*> started,1
+hcid startup succeeded,1
+audit <*> initialized,1
+Setting network parameters: <*> succeeded,1
+sdpd startup succeeded,1
+sdpd v1.<*> started,1
+"Total HugeTLB memory allocated, <*>",1
+Bringing up loopback interface: <*> succeeded,1
+VFS: Disk quotas <*>,1
+"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)",1
+SELinux: <*> Registering netfilter hooks,1
+Initializing Cryptographic API,1
+PCI Hot Plug PCI Core version: <*>,1
+isapnp: Scanning for PnP cards...,1
+isapnp: No Plug & Play device found,1
+Real Time Clock Driver <*> v1.<*>,1
+Linux <*> interface v0.<*> (c) Dave Jones,1

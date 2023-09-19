@@ -1,0 +1,82 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-9167880724995702718 of size 67108864 from /10.251.214.225",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_21_4 stored as bytes in memory (estimated size 200.0 B, free 403.2 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map",
+        "output": "ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "running",
+        "output": "running"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B7] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1",
+        "output": "[PhoneIntfMgr] getDataEnabled: subId=<*> phoneId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1248 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.128,10.11.10.1 \"GET /openstack/2013-10-17/user_data HTTP/1.1\" status: 404 len: 176 time: 0.2495749",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to abstract variables with <*> to extract the corresponding template.",
+        "input": "handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)",
+        "output": "handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)"
+    }
+]

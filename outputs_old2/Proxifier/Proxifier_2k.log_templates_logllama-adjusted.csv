@@ -1,0 +1,429 @@
+EventTemplate,Occurrences
+Proxy <*> through proxy <*> HTTPS,464
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",110
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",92
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",64
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>.</s>",48
+"close, <*> bytes sent, <*> bytes received, lifetime <*>",48
+"close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",44
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <1 sec",27
+"close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",26
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <1 sec",24
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",23
+error : A connection request was canceled before the completion,21
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",20
+<*>.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,20
+Could not connect to proxy <*> - connection attempt failed with error <*>,19
+proxy.cse.cuhk.edu.hk:<*> HTTPS,18
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>.</s>",17
+api.github.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,14
+"api.github.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",14
+get.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,13
+Open through proxy <*> HTTPS,12
+"block.dropbox.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",12
+clients6.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,12
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",11
+"qbwup.imtt.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>.</s>",11
+www.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,11
+Could not connect to proxy <*> - Could not resolve <*> error <*>,11
+"get.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",10
+open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,10
+short.weixin.qq.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,9
+"client-cf.dropbox.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",9
+www.evernote.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,9
+A connection request was canceled before the completion.,8
+client-cf.dropbox.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,8
+clients5.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,8
+"clients6.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",8
+block.dropbox.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,7
+"short.weixin.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",7
+f-log-extension.grammarly.io:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,7
+clients4.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,7
+PacketResponder <*> for block <*> terminating,6
+sclick.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,6
+ssl.gstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,6
+"mtalk.google.com:<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",6
+mtalk.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,6
+qbwup.imtt.qq.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,6
+collector.githubapp.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,6
+play.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,6
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",5
+eclick.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+"www.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",5
+"clients6.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",5
+d.dropbox.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+cpro.baidustatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+csi.gstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+dict.youdao.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+suggestion.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+clients1.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+long.open.weixin.qq.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+"long.open.weixin.qq.com:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",5
+"www.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",5
+"play.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",5
+"fonts.gstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",5
+"security.ie.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",5
+open through proxy <*> HTTPS,5
+info.pinyin.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+puui.qpic.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+fs-conn-doctor.qq.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,5
+"close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",4
+"Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",4
+www.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+"ss.bdimg.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",4
+ubmcmm.baidustatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+dup.baidustatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+"safebrowsing.googleapis.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",4
+fonts.gstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+www.google.com.hk:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+"info.pinyin.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",4
+sestat.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+avatars3.githubusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+github.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+notifications.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+"user-images.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",4
+trello.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,4
+"clients4.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",4
+www.google.com:<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,4
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",3
+c.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"www.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",3
+comment.<*>.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"b1.bdstatic.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",3
+client-lb.dropbox.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+apis.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"www.evernote.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",3
+"clients4.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",3
+ss.bdimg.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>",3
+s1.bdstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"mtalk.google.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",3
+"www.googleapis.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",3
+block-edge.dropbox.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+avatars.githubusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+bolt.dropbox.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"d.dropbox.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",3
+security.ie.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+s.youtube.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"clients4.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",3
+ss.bdimg.com:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,3
+dc.csdn.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+mail.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"www.gstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",3
+safebrowsing.googleapis.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,3
+"qd-update.qq.com:<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",3
+"client-cf.dropbox.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",3
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec",2
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>.</s>",2
+"<*>.tencent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec",2
+"close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",2
+timg.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"get.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+"pos.baidu.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",2
+"dup.baidustatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+d.agkn.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"d.dropbox.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+"clients6.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",2
+static.doubleclick.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"suggestion.baidu.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",2
+news.<*>.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+app. <*> open through proxy proxy. <*> HTTPS,2
+video.<*>.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+www.<*>.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"cpro.baidustatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+"notifications.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+"client-cf.dropbox.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",2
+people-pa.clients6.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"www.google.com.hk:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",2
+lh3.googleusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+d3cv4a9a9wh0bt.cloudfront.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"s1.bdstatic.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+"www.baidu.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+"clients6.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",2
+clients2.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"client-lb.dropbox.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",2
+bdimg.share.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+config.pinyin.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+www.gstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"www.google-analytics.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",2
+www.google-analytics.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+client-channel.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"pubads.g.doubleclick.net:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+user-images.githubusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"csi.gstatic.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+tvax1.sinaimg.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+strip.alicdn.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+rm.api.weibo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"collector.githubapp.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+live.github.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"people-pa.clients6.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",2
+"ssl.gstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+"www.googleapis.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",2
+yt3.ggpht.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+secure.quantserve.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+c.trello.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"mtalk.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",2
+"csdnimg.cn:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+"engine.adzerk.net:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",2
+"googleads.g.doubleclick.net:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+"ping.pinyin.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+btrace.qq.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"pubads.g.doubleclick.net:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",2
+"local-p2p.qq.com:<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",2
+"security.ie.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",2
+"close, <*> bytes sent, <*> bytes received, lifetime <1 sec",2
+"pagead2.googlesyndication.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",2
+tpc.googlesyndication.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+avatars0.githubusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"play.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",2
+clientservices.googleapis.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"bolt.dropbox.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",2
+"tc.dl.pinyin.sogoucdn.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",2
+mini.cpc.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+xueshu.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+pic01.ishuhui.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>.</s>",1
+"tcpconn.tencent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+<*> error : A connection request was canceled before the completion.,1
+tcpconn4.tencent.com:<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,1
+tcpconn.tencent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"TcpConn <*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+"<*>.tencent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+tcpconn3.tencent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+<*>.tencent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+<*> through proxy <*>,1
+"cgi.qqweb.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+CGI <*> through proxy <*> HTTPS,1
+"showxml.qq.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",1
+"impservice.dictapp.youdao.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"formi.baidu.com:<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",1
+oimagec7.ydstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,1
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>",1
+"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <1 sec",1
+"oimageb7.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+oimagea5.ydstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"oimageb6.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+oimagec4.ydstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"oimagea7.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"oimagec3.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"sestat.baidu.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+www.<*>.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+cbjs.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"newsimg.<*>.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"comment.<*>.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"m.news.<*>.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"www.<*>.cn:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+api.share.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"timg.baidu.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"www.googletagservices.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"yt3.ggpht.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>.</s>",1
+pubads.g.doubleclick.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+ecmb.bdimg.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec",1
+"timg.baidu.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"eclick.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+a.img4399.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+w.cnzz.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"www.<*>.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"cnzz.mmstat.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+"app.<*>.cn:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"www.youtube.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"www.qulishi.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"q7.cnzz.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"w.cnzz.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"get.sogou.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"clientservices.googleapis.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"ocsp.digicert.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+mail-attachment.googleusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"static.adobelogin.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+block <*> for block <*> terminating,1
+impservice.dictapp.youdao.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"capi.grammarly.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+ogs.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"client-channel.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+xin.<*>.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+newsapp <*> com:<*> open through proxy <*> proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"bdimg.share.baidu.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"s1.img4399.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+ss0.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+hpd.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"sclick.baidu.com:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",1
+img.<*>.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+assets.changyan.sohu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+s.<*>.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"www.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"upload.<*>.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"res.wx.qq.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"update.googleapis.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",1
+"long.open.weixin.qq.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"www.google.com.hk:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+"ping.pinyin.sogou.com:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",1
+"api.github.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"notifications.google.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"live.github.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"www.google.com.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+www.gmail.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"www.gmail.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+github-windows.s3.amazonaws.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+www.zhihu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+pic4.zhimg.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"content.googleapis.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"clients1.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"clients6.google.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+"ClientChannel <*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",1
+js.t.sinajs.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+dslb.cdn.krcom.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+wx3.sinaimg.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+wx1.sinaimg.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+tva1.sinaimg.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+mu1.sinaimg.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+s.weibo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+d0.sina.com.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+api.weibo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"www.zhihu.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"d0.sina.com.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",1
+"contentrecommend-out.uve.weibo.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+show.re.taobao.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"rs.sinajs.cn:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",1
+gtms03.alicdn.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"news.sina.com.cn:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"strip.alicdn.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"dslb.cdn.krcom.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"strip.alicdn.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"rm.api.weibo.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+www.weibo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"www.weibo.com <*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"www.weibo.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"people-pa.clients6.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"notifications.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"data.grammarly.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"github.com <*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",1
+"github.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"client-channel.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"assets-cdn.github.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+mmbiz.qpic.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+tools.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"dict.youdao.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"assets-cdn.github.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"clients2.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+gm1.ggpht.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"live.github.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",1
+assets-cdn.github.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"drive-thirdparty.googleusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"csi.gstatic.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+video-hkg3-<*>.xx.fbcdn.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"github.com <*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+auth.grammarly.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"avatars1.githubusercontent.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+avatars2.githubusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+www.ieeeconfpublishing.org:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"dblp.uni-trier.de:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"avatars3.githubusercontent.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"accounts.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"avatars.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+www.googletagmanager.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"secure.quantserve.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+www.google.com:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+awqiizxequsixgr:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+www.baidu.com:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+wpad:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+www.qq.com:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+t11.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+b1.bdstatic.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"update.hicloud.com:<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",1
+"cpro.baidustatic.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"intf.zsall.mobilem.<*>.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+csdnimg.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+beacon.tingyun.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"blog.csdn.net:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"static.blog.csdn.net:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"eclick.baidu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"beacon.tingyun.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"csdnimg.cn:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"engine.adzerk.net:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"ogs.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"scorecardresearch.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"www.google.com.hk:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"play.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+"trello.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+get.sogou.com:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+"short.weixin.qq.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <1 sec",1
+"securepubads.g.doubleclick.net:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"close, <*> bytes sent, <*> bytes received, lifetime <*> sec",1
+"hangouts.google.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+xf-com-update-doctor <*> open through proxy <*> HTTPS,1
+"fs-conn-doctor.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+"fs-conn-doctor.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>.</s>",1
+cm.g.doubleclick.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"suggestion.baidu.com:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",1
+"eclick.baidu.com:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",1
+input.shouji.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+www.googleadservices.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"s.youtube.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"tc.dl.pinyin.sogoucdn.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"clients5.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"ogs.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+r2---sn-i3b7kne6.googlevideo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"static.doubleclick.net:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>.</s>",1
+"yt3.ggpht.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+r3---sn-i3belnez.googlevideo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+securepubads.g.doubleclick.net:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+i1.ytimg.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+static.zhihu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+<*>-edge-chat.facebook.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"fonts.gstatic.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"www.zhihu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"video-hkg3-<*>.xx.fbcdn.net:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>",1
+"ssl.google-analytics.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"avatars0.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"avatars0.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+go.microsoft.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+rssgov.windows.microsoft.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"go.microsoft.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"ClientChannel <*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"www.google.com.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>.</s>",1
+"info.pinyin.sogou.com:<*> close, <*> bytes (<*>) sent, <*> bytes received, lifetime <*>.</s>",1
+config.pinyin.sogou.com:<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,1
+client-<*> error : A connection request was canceled before the completion.,1
+hangouts.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"client-lb.dropbox.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"dict.youdao.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"clients2.google.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"config.pinyin.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+qdun-data.qq.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"www.googleadservices.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"ClientChannel <*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+client-cf.dropbox.com:<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1
+mtalk.google.com:<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1
+client-lb.dropbox.com:<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1
+"bolt.dropbox.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",1
+"info.pinyin.sogou.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"client-cf.dropbox.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+"ClientChannel <*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",1
+www.googleapis.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+css.sohu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+xy.brand.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+src.wei.focus.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+bx.optimix.asia:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"txt.go.sohu.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"css.sohu.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+crl.microsoft.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"cdn.e9377f.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+v.admaster.com.cn:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+at.mct01.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+ping.pinyin.sogou.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+s2.googleusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+www.youtube.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+r2---sn-i3b7kn7r.googlevideo.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"qdun-data.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+"www.gstatic.com:<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>.</s>",1
+"yt3.ggpht.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <1 sec",1
+drive-thirdparty.googleusercontent.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+drive.google.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+"clients4.google.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"www.zhihu.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+"imgsrc.baidu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>.</s>",1
+pagead2.googlesyndication.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+fclick.baidu.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+q1.cnzz.com:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1

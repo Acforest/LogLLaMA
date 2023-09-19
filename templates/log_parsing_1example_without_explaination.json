@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "### Instruction: You will be provided with a log message delimited by backticks. Remain its common structure and replace variables with <*> to extract the corresponding template. For example: The log template of log message `10.250.10.223:50010:Got exception while serving blk_8478683141242372735 to /10.251.70.5:` is `<*>:Got exception while serving <*> to <*>:` Print the input log's template delimited by backticks.\n### Input: Log message: `{input}`\n### Output: The template is",
+    "response_split": "### Output:"
+}

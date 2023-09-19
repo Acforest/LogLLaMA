@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 112.95.230.3: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=112.95.230.3  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 112.95.230.3: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 33635 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user admin from 185.190.58.151 port 44155 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 39710 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 58118 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user admin from 185.190.58.151 port 41650 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 112.95.230.3 port 39041 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.235.32.19  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 35876 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 47547 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 36747 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 40931 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user oracle [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 112.95.230.3: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user admin [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 123.235.32.19 port 45568 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user 1234 [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user oralce [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=112.95.230.3  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 54395 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 39008 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user ftpuser from 103.99.0.122",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 50726 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 187.141.143.180 port 50811 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user support [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for git from 183.62.140.253 port 48527 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 46273 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user admin from 103.99.0.122 port 54739 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 103.207.39.16: 11: Closed due to user request. [preauth]",
+        "output": "Received disconnect from <*>: <*>: Closed due to user request. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 45620 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user support from 103.99.0.122 port 60735 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 43897 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 47653 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user support from 103.207.39.212",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user admin [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 42931 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user ubnt from 103.99.0.122 port 64908 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection closed by 5.188.10.180 [preauth]",
+        "output": "Connection closed by <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 59850 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=202.100.179.208",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=112.95.230.3  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user support from 195.154.37.122 port 56539 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for uucp from 103.99.0.122 port 65454 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user jay [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 53630 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user deploy from 187.141.143.180 port 38606 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 112.95.230.3: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 187.141.143.180 port 56377 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 187.141.143.180 port 40297 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user support from 103.99.0.122 port 57317 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PAM service(sshd) ignoring max retries; 5 > 3",
+        "output": "PAM service(sshd) ignoring max retries; <*> > <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user cheng from 202.100.179.208",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 42564 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 43821 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user utsims from 112.95.230.3 port 41506 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 43476 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=202.100.179.208",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user inspur from 183.136.162.51",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 55969 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 103.207.39.165: 11: Closed due to user request. [preauth]",
+        "output": "Received disconnect from <*>: <*>: Closed due to user request. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user anonymous from 103.99.0.122",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection closed by 194.190.163.22 [preauth]",
+        "output": "Connection closed by <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 112.95.230.3: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for uucp from 103.99.0.122 port 64009 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user chen from 202.100.179.208",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 38431 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "message repeated 5 times: [ Failed password for root from 106.5.5.195 port 50719 ssh2]",
+        "output": "message repeated <*> times: [ Failed password for <*> from <*> port <*>]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user pi from 103.99.0.122",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for sshd from 103.99.0.122 port 49598 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 37478 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 50215 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 49883 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=112.95.230.3  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user cisco [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 40110 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user admin from 5.188.10.180 port 56345 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user admin [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Did not receive identification string from 177.79.82.136",
+        "output": "Did not receive identification string from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user admin from 185.190.58.151",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151",
+        "output": "PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user admin [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:session): session opened for user fztu by (uid=0)",
+        "output": "pam_unix(sshd:session): session opened for user <*> by (uid=<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user user [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user test from 183.62.140.253",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for git from 187.141.143.180 port 33532 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "fatal: Write failed: Connection reset by peer [preauth]",
+        "output": "fatal: Write failed: Connection reset by peer [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user abc [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "input_userauth_request: invalid user ubnt [preauth]",
+        "output": "input_userauth_request: invalid user <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=104.192.3.34",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection closed by 5.188.10.180 [preauth]",
+        "output": "Connection closed by <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 5.36.59.76 port 42393 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user jay from 187.141.143.180 port 60259 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user admin from 103.99.0.122",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    }
+]

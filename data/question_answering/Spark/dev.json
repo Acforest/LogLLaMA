@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "How many kb is rdd_16_4 free?",
+        "input": "Block rdd_16_4 stored as bytes in memory (estimated size 263.0 B, free 386.4 KB)",
+        "output": "386.4"
+    },
+    {
+        "instruction": "Is partition rdd_42_17 found?",
+        "input": "Partition rdd_42_17 not found, computing it",
+        "output": "not"
+    },
+    {
+        "instruction": "What stage was the task 25.0 completed in?",
+        "input": "Finished task 25.0 in stage 29.0 (TID 1345). 2128 bytes result sent to driver",
+        "output": "29.0"
+    },
+    {
+        "instruction": "How many kb is the block rdd_26_4 free?",
+        "input": "Block rdd_26_4 stored as bytes in memory (estimated size 16.0 B, free 419.6 KB)",
+        "output": "419.6"
+    },
+    {
+        "instruction": "How long did it take to read broadcast variable 39?",
+        "input": "Reading broadcast variable 39 took 716 ms",
+        "output": "716 ms"
+    },
+    {
+        "instruction": "How many ms did it take to read broadcast variable 33?",
+        "input": "Reading broadcast variable 33 took 9 ms",
+        "output": "9"
+    },
+    {
+        "instruction": "What is the ID number for task 84.0?",
+        "input": "Running task 84.0 in stage 24.0 (TID 1141)",
+        "output": "1141"
+    },
+    {
+        "instruction": "How large is the block rdd_42_29?",
+        "input": "Block rdd_42_29 stored as bytes in memory (estimated size 901.0 B, free 829.4 KB)",
+        "output": "901.0 B"
+    },
+    {
+        "instruction": "How many bytes did the task 0.0 contain?",
+        "input": "Finished task 0.0 in stage 4.0 (TID 171). 2099 bytes result sent to driver",
+        "output": "2099 bytes"
+    },
+    {
+        "instruction": "How many bytes did the task 1.0 take?",
+        "input": "Finished task 1.0 in stage 13.0 (TID 542). 2241 bytes result sent to driver",
+        "output": "2241 bytes"
+    },
+    {
+        "instruction": "Is partition rdd_2_0 found?",
+        "input": "Partition rdd_2_0 not found, computing it",
+        "output": "not"
+    },
+    {
+        "instruction": "How many kb is broadcast_32_piece0 free?",
+        "input": "Block broadcast_32_piece0 stored as bytes in memory (estimated size 5.7 KB, free 406.3 KB)",
+        "output": "406.3"
+    },
+    {
+        "instruction": "How many ms did it take to read the variable 30?",
+        "input": "Reading broadcast variable 30 took 8 ms",
+        "output": "8"
+    },
+    {
+        "instruction": "How many bytes is rdd_42_37 free?",
+        "input": "Block rdd_42_37 stored as bytes in memory (estimated size 939.0 B, free 835.5 KB)",
+        "output": "835.5 KB"
+    },
+    {
+        "instruction": "How many kb is broadcast_38_piece0 free?",
+        "input": "Block broadcast_38_piece0 stored as bytes in memory (estimated size 5.8 KB, free 844.0 KB)",
+        "output": "844.0"
+    },
+    {
+        "instruction": "How many kb is broadcast_3_piece0?",
+        "input": "Block broadcast_3_piece0 stored as bytes in memory (estimated size 152.0 B, free 318.1 KB)",
+        "output": "free"
+    },
+    {
+        "instruction": "What is the estimated size of the block rdd_21_1?",
+        "input": "Block rdd_21_1 stored as bytes in memory (estimated size 162.0 B, free 403.0 KB)",
+        "output": "162.0"
+    },
+    {
+        "instruction": "How many ms did it take to read broadcast variable 10?",
+        "input": "Reading broadcast variable 10 took 17 ms",
+        "output": "17"
+    },
+    {
+        "instruction": "What is the estimated size of the block rdd_2_4?",
+        "input": "Block rdd_2_4 stored as bytes in memory (estimated size 890.0 B, free 323.8 KB)",
+        "output": "890.0"
+    },
+    {
+        "instruction": "How many ms did it take to read the broadcast variable 36?",
+        "input": "Reading broadcast variable 36 took 11 ms",
+        "output": "11"
+    }
+]

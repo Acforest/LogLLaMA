@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "config.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "sclick.baidu.com:80 close, 1971 bytes (1.92 KB) sent, 401 bytes received, lifetime 00:08",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "video.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1166 bytes (1.13 KB) sent, 336 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "security.ie.sogou.com:80 close, 691 bytes sent, 184 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061",
+        "output": "<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "plus.google.com:443 close, 2130 bytes (2.08 KB) sent, 1035 bytes (1.01 KB) received, lifetime 05:41",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2177 bytes (2.12 KB) sent, 279 bytes received, lifetime 00:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "get.sogou.com:80 close, 651 bytes sent, 346 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "oimageb8.ydstatic.com:80 error : A connection request was canceled before the completion.",
+        "output": "<*> error : A connection request was canceled before the completion."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients6.google.com:443 close, 3504 bytes (3.42 KB) sent, 7037 bytes (6.87 KB) received, lifetime 06:52",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1066 bytes (1.04 KB) sent, 3042 bytes (2.97 KB) received, lifetime 00:10",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "play.google.com:443 close, 6339 bytes (6.19 KB) sent, 3969 bytes (3.87 KB) received, lifetime 04:22",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients4.google.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:13",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 7685 bytes (7.50 KB) sent, 51839 bytes (50.6 KB) received, lifetime 09:54",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.zhihu.com:443 close, 568 bytes sent, 152 bytes received, lifetime 00:18",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients4.google.com:443 close, 20249 bytes (19.7 KB) sent, 20243 bytes (19.7 KB) received, lifetime 10:34",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "api.github.com:443 close, 328 bytes sent, 3642 bytes (3.55 KB) received, lifetime 00:16",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "formi.baidu.com:843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403",
+        "output": "<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "tvax1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.gstatic.com:443 close, 461 bytes sent, 4784 bytes (4.67 KB) received, lifetime 00:12",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "wx1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2017 bytes (1.96 KB) sent, 52284 bytes (51.0 KB) received, lifetime 00:02",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "suggestion.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:10",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1107 bytes (1.08 KB) sent, 406 bytes received, lifetime 00:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1054 bytes (1.02 KB) sent, 366 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "t11.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "xin.4399.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pv.mini.sohu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1133 bytes (1.10 KB) sent, 3274 bytes (3.19 KB) received, lifetime 00:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 KB) sent, 367 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1180 bytes (1.15 KB) sent, 421 bytes received, lifetime 02:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 675 bytes sent, 7178 bytes (7.00 KB) received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 939 bytes sent, 4231 bytes (4.13 KB) received, lifetime 02:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "rm.api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 18242 bytes (17.8 KB) sent, 10525 bytes (10.2 KB) received, lifetime 02:58",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.evernote.com:443 close, 4733 bytes (4.62 KB) sent, 8179 bytes (7.98 KB) received, lifetime 04:12",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 513 bytes sent, 22162 bytes (21.6 KB) received, lifetime 00:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.gmail.com:443 close, 459 bytes sent, 4187 bytes (4.08 KB) received, lifetime 00:17",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "s1.bdstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "r3---sn-i3beln7k.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "dj1.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:33",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:35",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cpro.baidustatic.com:443 close, 334 bytes sent, 3713 bytes (3.62 KB) received, lifetime 00:22",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 409 bytes sent, 52645 bytes (51.4 KB) received, lifetime 00:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1198 bytes (1.16 KB) sent, 344 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 849 bytes sent, 9333 bytes (9.11 KB) received, lifetime 02:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1680 bytes (1.64 KB) sent, 935 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:03",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "fonts.gstatic.com:443 close, 463 bytes sent, 4786 bytes (4.67 KB) received, lifetime 00:33",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "qa.sockets.stackexchange.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061",
+        "output": "<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ping.pinyin.sogou.com:80 close, 1109 bytes (1.08 KB) sent, 332 bytes received, lifetime 00:32",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "qa.sockets.stackexchange.com:443 close, 1603 bytes (1.56 KB) sent, 527 bytes received, lifetime 22:32",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 3757 bytes (3.66 KB) sent, 1307 bytes (1.27 KB) received, lifetime 00:15",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "f-log-extension.grammarly.io:443 close, 1363 bytes (1.33 KB) sent, 3549 bytes (3.46 KB) received, lifetime 00:33",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1119 bytes (1.09 KB) sent, 417 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ss.bdimg.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001",
+        "output": "<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "tcpconn6.tencent.com:80 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:13",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "oimagea3.ydstatic.com:80 error : A connection request was canceled before the completion.",
+        "output": "<*> error : A connection request was canceled before the completion."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "apis.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2464 bytes (2.40 KB) sent, 1010 bytes received, lifetime 02:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403",
+        "output": "<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1555 bytes (1.51 KB) sent, 457464 bytes (446 KB) received, lifetime 00:46",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "i9.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:27",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients6.google.com:443 close, 5304 bytes (5.17 KB) sent, 4396 bytes (4.29 KB) received, lifetime 09:38",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "get.sogou.com:80 close, 651 bytes sent, 328 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "oimageb5.ydstatic.com:80 error : A connection request was canceled before the completion.",
+        "output": "<*> error : A connection request was canceled before the completion."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "bdimg.share.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients5.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "203.205.129.102:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403",
+        "output": "<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2800 bytes (2.73 KB) sent, 17757 bytes (17.3 KB) received, lifetime 01:07",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ocsp.digicert.com:80 close, 942 bytes sent, 3184 bytes (3.10 KB) received, lifetime 00:07",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "d3cv4a9a9wh0bt.cloudfront.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "client-cf.dropbox.com:443 close, 22083 bytes (21.5 KB) sent, 71944 bytes (70.2 KB) received, lifetime 01:28",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:33",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1008 bytes sent, 21970 bytes (21.4 KB) received, lifetime 00:03",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 999 bytes sent, 4582 bytes (4.47 KB) received, lifetime 00:02",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1769 bytes (1.72 KB) sent, 61234 bytes (59.7 KB) received, lifetime 00:02",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.youtube.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1248 bytes (1.21 KB) sent, 331 bytes received, lifetime 00:02",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mtalk.google.com:443 close, 985 bytes sent, 463 bytes received, lifetime 15:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:32",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1318 bytes (1.28 KB) sent, 5380 bytes (5.25 KB) received, lifetime 00:02",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "203.205.146.15:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:19",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "sestat.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "static.doubleclick.net:443 close, 2553 bytes (2.49 KB) sent, 641 bytes received, lifetime 06:39",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "oimageb3.ydstatic.com:80 error : A connection request was canceled before the completion.",
+        "output": "<*> error : A connection request was canceled before the completion."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2756 bytes (2.69 KB) sent, 39055 bytes (38.1 KB) received, lifetime 00:05",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "yt3.ggpht.com:443 close, 7886 bytes (7.70 KB) sent, 69275 bytes (67.6 KB) received, lifetime 07:05",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 697 bytes sent, 889 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 592 bytes sent, 4760 bytes (4.64 KB) received, lifetime 00:16",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:27",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:11",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 431 bytes sent, 9780 bytes (9.55 KB) received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2126 bytes (2.07 KB) sent, 816 bytes received, lifetime 00:08",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "s1.bdstatic.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001",
+        "output": "<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "203.205.151.204:80 close, 357 bytes sent, 484 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 428 bytes sent, 5365 bytes (5.23 KB) received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 3553 bytes (3.46 KB) sent, 71424 bytes (69.7 KB) received, lifetime 01:34",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 2636 bytes (2.57 KB) sent, 2279 bytes (2.22 KB) received, lifetime 01:05",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "tc.dl.pinyin.sogoucdn.com:80 close, 799 bytes sent, 346 bytes received, lifetime 01:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 783 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061",
+        "output": "<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "sestat.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clientservices.googleapis.com:443 close, 1051 bytes (1.02 KB) sent, 592 bytes received, lifetime 04:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 941 bytes sent, 398 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "d.dropbox.com:443 close, 1021 bytes sent, 4906 bytes (4.79 KB) received, lifetime 01:01",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "183.60.49.182:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "api.github.com:443 close, 328 bytes sent, 3642 bytes (3.55 KB) received, lifetime 00:15",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.google.com:443 close, 1227 bytes (1.19 KB) sent, 2561 bytes (2.50 KB) received, lifetime 04:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "oimagec4.ydstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 1237 bytes (1.20 KB) sent, 1164 bytes (1.13 KB) received, lifetime 04:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "wpad:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001",
+        "output": "<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients1.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    }
+]

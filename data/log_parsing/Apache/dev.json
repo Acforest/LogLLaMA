@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32464 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6338 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32386 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6368 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 321 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1440 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 317 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32601 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5938 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32457 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 8",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32588 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6577 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 3690 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1912 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child init 1 -2",
+        "output": "mod_jk child init <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4995 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4975 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5000 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32577 in scoreboard slot 11",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 3678 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1852 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1965 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2883 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1000 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 8584 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32633 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32441 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32476 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5434 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5483 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32681 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5984 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5271 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5516 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1441 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1835 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4976 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32755 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32439 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32560 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5856 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6297 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32581 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2836 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4907 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1937 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5527 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32695 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 315 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5484 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6755 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32553 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 351 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1448 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32668 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2002 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32683 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5032 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6400 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2879 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2837 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[client 218.39.132.175] Directory index forbidden by rule: /var/www/html/",
+        "output": "[client <*>] Directory index forbidden by rule: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6010 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1358 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32446 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32424 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32678 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2867 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32421 in scoreboard slot 11",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1886 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 9",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32675 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 9",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[client 61.37.222.240] Directory index forbidden by rule: /var/www/html/",
+        "output": "[client <*>] Directory index forbidden by rule: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4634 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32353 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1816 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6766 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32717 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6750 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32475 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6737 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5991 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1970 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[client 168.20.198.21] Directory index forbidden by rule: /var/www/html/",
+        "output": "[client <*>] Directory index forbidden by rule: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[client 63.13.186.196] Directory index forbidden by rule: /var/www/html/",
+        "output": "[client <*>] Directory index forbidden by rule: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1323 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1885 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    }
+]

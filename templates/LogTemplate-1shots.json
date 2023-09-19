@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a log parser, and you need to extract the log templat from the given log. \n\n### Input:\n{input}\n\n### Response:\n",
+    "response_split": "### Response:"    
+}

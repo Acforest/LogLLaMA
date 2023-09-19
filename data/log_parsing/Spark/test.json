@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_2 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started reading broadcast variable 2",
+        "output": "Started reading broadcast variable <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 1077, boot = 865, init = 206, finish = 6",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 9.0 in stage 29.0 (TID 1329). 2128 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 42, boot = 34, init = 7, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_4 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 5.0 in stage 29.0 (TID 1325). 2171 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = 15, init = 25, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 1.0 in stage 9.0 (TID 374)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 21.0 in stage 28.0 (TID 1301)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 21.0 in stage 28.0 (TID 1301). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1233",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 1.0 in stage 24.0 (TID 984)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 38, boot = 23, init = 15, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = 17, init = 24, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 42, boot = 23, init = 19, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 1078, boot = 851, init = 219, finish = 8",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 912",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_9 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 0.0 in stage 2.0 (TID 87)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_18 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1305",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_0 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_0 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 21.0 in stage 29.0 (TID 1341)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 38, boot = 18, init = 20, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_24 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started reading broadcast variable 34",
+        "output": "Started reading broadcast variable <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1273",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_19_piece0 stored as bytes in memory (estimated size 5.4 KB, free 469.4 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1255",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1307",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = 17, init = 21, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:196884+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_42_31 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = 15, init = 23, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 2.0 in stage 17.0 (TID 716). 2156 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 4.0 in stage 24.0 (TID 1026)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started reading broadcast variable 8",
+        "output": "Started reading broadcast variable <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_9 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 7.0 in stage 26.0 (TID 1207)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_13 stored as values in memory (estimated size 10.1 KB, free 386.5 KB)",
+        "output": "Block <*> stored as values in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 101",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 38, boot = 21, init = 17, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_5 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 984",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 35.0 in stage 27.0 (TID 1275). 2430 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 479",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_2_2 stored as bytes in memory (estimated size 850.0 B, free 320.3 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_1 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_42_31 stored as bytes in memory (estimated size 827.0 B, free 831.1 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_18_piece0 stored as bytes in memory (estimated size 5.8 KB, free 454.4 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 19.0 in stage 27.0 (TID 1259)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = -134, init = 175, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_19 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 29.0 in stage 27.0 (TID 1269). 2349 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 4.0 in stage 12.0 (TID 519). 2155 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 6.0 in stage 26.0 (TID 1206). 2697 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 11.0 in stage 26.0 (TID 1211)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = 21, init = 19, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 3.0 in stage 18.0 (TID 758). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 4.0 in stage 18.0 (TID 759). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_2 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:51044+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 60, boot = -8772, init = 8827, finish = 5",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = -127, init = 167, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 12.0 in stage 26.0 (TID 1212). 2703 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_30_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_42_32 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_30_1 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 4.0 in stage 5.0 (TID 239)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 54, boot = 17, init = 32, finish = 5",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1267",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1242",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_8 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = -75, init = 113, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 31.0 in stage 28.0 (TID 1311)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 51, boot = 12, init = 34, finish = 5",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1239",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 160.0 in stage 24.0 (TID 1155). 2364 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 58, boot = 13, init = 40, finish = 5",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_15 stored as values in memory (estimated size 9.2 KB, free 416.6 KB)",
+        "output": "Block <*> stored as values in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 42, boot = -101, init = 143, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 718",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 4.0 in stage 26.0 (TID 1204)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 17.0 in stage 28.0 (TID 1297). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_15 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1202",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 1.0 in stage 4.0 (TID 185). 2099 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 12.0 in stage 28.0 (TID 1292)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 0.0 in stage 8.0 (TID 321). 2141 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 0.0 in stage 0.0 (TID 0)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 4.0 in stage 19.0 (TID 799). 2667 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_21_0 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_6_1 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 3.0 in stage 5.0 (TID 238)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started reading broadcast variable 4",
+        "output": "Started reading broadcast variable <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_18 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 2.0 in stage 3.0 (TID 150)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 2.0 in stage 20.0 (TID 833)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 16.0 in stage 29.0 (TID 1336). 2171 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1135",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1284",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = 15, init = 24, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 959",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 799",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_3_piece0 stored as bytes in memory (estimated size 152.0 B, free 318.1 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_16 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:65628+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_2 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_42_15 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 4.0 in stage 19.0 (TID 799)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = -71, init = 110, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 4.0 in stage 8.0 (TID 359). 2141 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 3.0 in stage 4.0 (TID 198). 2099 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Saved output of task 'attempt_201706092018_0025_m_000003_1198' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000003",
+        "output": "Saved output of task '<*>' to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_21_0 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = 17, init = 22, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:0+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "attempt_201706092018_0024_m_000041_1126: Committed",
+        "output": "<*>: Committed"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = 15, init = 26, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = -147, init = 186, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1310",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "attempt_201706092018_0025_m_000000_1166: Committed",
+        "output": "<*>: Committed"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_1 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:233344+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = 19, init = 21, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 38, boot = -170, init = 208, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "File Output Committer Algorithm version is 1",
+        "output": "File Output Committer Algorithm version is <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 23.0 in stage 28.0 (TID 1303). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1244",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_21_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 1.0 in stage 19.0 (TID 776)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = -75, init = 114, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 722",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_12_piece0 stored as bytes in memory (estimated size 5.6 KB, free 359.4 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 13.0 in stage 26.0 (TID 1213)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = -4122, init = 4162, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_19 stored as values in memory (estimated size 9.2 KB, free 478.6 KB)",
+        "output": "Block <*> stored as values in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 970",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:284388+7303",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 42, boot = 26, init = 16, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 299",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 1.0 in stage 13.0 (TID 542)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1342",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_37 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 33.0 in stage 28.0 (TID 1313)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Saved output of task 'attempt_201706092018_0025_m_000000_1166' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000000",
+        "output": "Saved output of task '<*>' to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 18.0 in stage 28.0 (TID 1298). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 17.0 in stage 26.0 (TID 1217). 2701 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = 10, init = 29, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 12.0 in stage 27.0 (TID 1252). 2486 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1277",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 4.0 in stage 16.0 (TID 679). 2163 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1236",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_42_24 stored as bytes in memory (estimated size 858.0 B, free 824.2 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1275",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 0.0 in stage 10.0 (TID 402). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 20.0 in stage 27.0 (TID 1260)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = -85, init = 123, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 15.0 in stage 27.0 (TID 1255)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1340",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started reading broadcast variable 26",
+        "output": "Started reading broadcast variable <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1235",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_16_3 stored as bytes in memory (estimated size 232.0 B, free 386.8 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_0 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 32.0 in stage 28.0 (TID 1312). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 30.0 in stage 29.0 (TID 1350)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 38, boot = 17, init = 21, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 0.0 in stage 14.0 (TID 562)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_11_1 stored as bytes in memory (estimated size 160.0 B, free 432.7 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = -86, init = 125, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1353",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Started reading broadcast variable 33",
+        "output": "Started reading broadcast variable <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_42_5 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 42, boot = 20, init = 21, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_20 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 2.0 in stage 10.0 (TID 430). 2087 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_30_3 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1352",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 7.0 in stage 29.0 (TID 1327)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = -58, init = 98, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 38, boot = 16, init = 22, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 17.0 in stage 29.0 (TID 1337)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "File Output Committer Algorithm version is 1",
+        "output": "File Output Committer Algorithm version is <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 43, boot = 14, init = 28, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1298",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 40, boot = 18, init = 22, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 32.0 in stage 28.0 (TID 1312)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 198",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 39, boot = -690, init = 729, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 4",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 8.0 in stage 29.0 (TID 1328)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 81.0 in stage 24.0 (TID 1136)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 11.0 in stage 29.0 (TID 1331). 2128 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_38 stored as values in memory (estimated size 9.6 KB, free 853.7 KB)",
+        "output": "Block <*> stored as values in memory (estimated size <*>, free <*>)"
+    }
+]

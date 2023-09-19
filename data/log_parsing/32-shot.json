@@ -1,0 +1,2562 @@
+[
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001294_0/part-01294. blk_4214952053910973364",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-7460532841070848624 src: /10.250.15.67:55076 dest: /10.250.15.67:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-6811828069408410657 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_6791628131402590260 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-8974021306351083168 src: /10.251.91.15:40699 dest: /10.251.91.15:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_5602895463700536678 of size 67108864 from /10.251.30.179",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-1197396592032418307 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-719470845056640928 is added to invalidSet of 10.251.90.64:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-9188933731705791676 of size 67108864 from /10.251.39.192",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.74.79:50010 is added to blk_-4794867979917102672 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_1394107495884949139 src: /10.250.10.100:33314 dest: /10.250.10.100:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001529_0/part-01529. blk_-826920518336899809",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.250.10.144:50010:Got exception while serving blk_5126469776250053435 to /10.250.11.100:",
+        "output": "<*>:Got exception while serving <*> to <*>:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_1473949624670719319 src: /10.251.29.239:35617 dest: /10.251.29.239:50010 of size 67108864",
+        "output": "Received block <*> src: <*> dest: <*> of size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-7832937837605180330 file /mnt/hadoop/dfs/data/current/subdir49/blk_-7832937837605180330",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_7190156588310412626 file /mnt/hadoop/dfs/data/current/subdir30/blk_7190156588310412626",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 0 for block blk_4575129504644372394 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_5813923864071791162 of size 67108864 from /10.251.125.193",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.31.5:50010 is added to blk_-1821104627978106102 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_-4424971182856566289 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_9142114171015520823 file /mnt/hadoop/dfs/data/current/subdir48/blk_9142114171015520823",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.delete: blk_-8026264173633579073 is added to invalidSet of 10.251.214.18:50010",
+        "output": "BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_3777389444004341563 of size 67108864 from /10.251.214.175",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PacketResponder 2 for block blk_8049943837789435742 terminating",
+        "output": "PacketResponder <*> for block <*> terminating"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.199.19:50010 is added to blk_6748710057489679257 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-01630. blk_-8645365827804358878",
+        "output": "BLOCK* NameSystem.allocateBlock: <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_5736622945587812309 file /mnt/hadoop/dfs/data/current/subdir19/blk_5736622945587812309",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-3157541550945505354 src: /10.251.125.193:45917 dest: /10.251.125.193:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Receiving block blk_-3486808304671603275 src: /10.251.30.85:37518 dest: /10.251.30.85:50010",
+        "output": "Receiving block <*> src: <*> dest: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received block blk_-8049908920306758342 of size 67108864 from /10.251.73.220",
+        "output": "Received block <*> of size <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.67.225:50010 is added to blk_-3955287039966096707 size 67108864",
+        "output": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Deleting block blk_-1939956833921604216 file /mnt/hadoop/dfs/data/current/subdir34/blk_-1939956833921604216",
+        "output": "Deleting block <*> file <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.10660437",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Before Scheduling: PendingReds:0 ScheduledMaps:2 ScheduledReds:1 AssignedMaps:9 AssignedReds:0 CompletedMaps:1 CompletedReds:0 ContAlloc:11 ContRel:1 HostLocal:7 RackLocal:3",
+        "output": "Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connecting to ResourceManager at msra-sa-41/10.190.173.170:8030",
+        "output": "Connecting to ResourceManager at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Recalculating schedule, headroom=<memory:0, vCores:-27>",
+        "output": "Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is : 0.18529637",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Launching attempt_1445144423722_0020_m_000007_0",
+        "output": "Launching <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "maxContainerCapability: <memory:8192, vCores:32>",
+        "output": "maxContainerCapability: <memory:<*>, vCores:<*>>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 336 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ERROR IN CONTACTING RM.",
+        "output": "ERROR IN CONTACTING RM."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 235 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1",
+        "output": "Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.20757815",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 136 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 52 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.19266446",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.31981927",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006",
+        "output": "Progress of TaskAttempt <*> is : <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",
+        "output": "Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Auth successful for job_1445144423722_0020 (auth:SIMPLE)",
+        "output": "Auth successful for <*> (auth:SIMPLE)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000",
+        "output": "Address change detected. Old: <*> New: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce",
+        "output": "Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 270 seconds.  Will retry shortly ...",
+        "output": "Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ..."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1212",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 0.0 in stage 22.0 (TID 886). 2667 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 38.0 in stage 27.0 (TID 1278)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_4 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_16_0 stored as bytes in memory (estimated size 191.0 B, free 386.6 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1283",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 122",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_17 stored as values in memory (estimated size 10.1 KB, free 448.6 KB)",
+        "output": "Block <*> stored as values in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_34 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Reading broadcast variable 26 took 10 ms",
+        "output": "Reading broadcast variable <*> took <*> ms"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 3.0 in stage 16.0 (TID 678). 2151 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:94796+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1127",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 43, boot = 15, init = 27, finish = 1",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1292",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 464",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 23.0 in stage 27.0 (TID 1263)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 1205",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 4.0 in stage 8.0 (TID 359)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Partition rdd_26_3 not found, computing it",
+        "output": "Partition <*> not found, computing it"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block broadcast_4_piece0 stored as bytes in memory (estimated size 95.0 B, free 317.6 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 44.0 in stage 24.0 (TID 1129)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_42_29 stored as bytes in memory (estimated size 901.0 B, free 829.4 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Running task 16.0 in stage 28.0 (TID 1296)",
+        "output": "Running task <*> in stage <*> (TID <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Finished task 3.0 in stage 24.0 (TID 1012). 2364 bytes result sent to driver",
+        "output": "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Block rdd_2_1 stored as bytes in memory (estimated size 935.0 B, free 322.1 KB)",
+        "output": "Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_42_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Found block rdd_2_3 locally",
+        "output": "Found block <*> locally"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Got assigned task 643",
+        "output": "Got assigned task <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:109380+7292",
+        "output": "Input split: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Times: total = 41, boot = -82, init = 123, finish = 0",
+        "output": "Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Processed session termination for sessionid: 0x34f4a63146b003c",
+        "output": "Processed session termination for sessionid: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received connection request /10.10.34.11:60575",
+        "output": "Received connection request <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Closed socket connection for client /10.10.34.11:52893 which had sessionid 0x14ed93111f2009b",
+        "output": "Closed socket connection for client <*>:<*> which had sessionid <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Established session 0x14f05578bd80013 with negotiated timeout 10000 for client /10.10.34.11:38530",
+        "output": "Established session <*> with negotiated timeout <*> for client <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Notification time out: 60000",
+        "output": "Notification time out: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 2, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Closed socket connection for client /10.10.34.17:51214 which had sessionid 0x14ede63a5a70053",
+        "output": "Closed socket connection for client <*>:<*> which had sessionid <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)",
+        "output": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupting SendWorker",
+        "output": "Interrupting SendWorker"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 3, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cannot open channel to 2 at election address /10.10.34.12:3888",
+        "output": "Cannot open channel to <*> at election address <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Interrupted while waiting for message on queue",
+        "output": "Interrupted while waiting for message on queue"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection broken for id 188978561024, my id = 1, error =",
+        "output": "Connection broken for id <*>, my id = <*>, error ="
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Established session 0x24f4a631df9000e with negotiated timeout 10000 for client /10.10.34.16:53681",
+        "output": "Established session <*> with negotiated timeout <*> for client <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Send worker leaving thread",
+        "output": "Send worker leaving thread"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CE sym 27, at 0x1b70b860, mask 0x80",
+        "output": "CE sym <*>, at <*>, mask <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 001061fc dear 02f6676c",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.13817",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "1 ddr errors(s) detected and corrected on rank 0, symbol 10, bit 0",
+        "output": "<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.59976",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data store interrupt caused by icbi.........0",
+        "output": "data store interrupt caused by icbi.........<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+        "output": "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",
+        "output": "idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "instruction address: 0x00004ed8",
+        "output": "instruction address: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.47256",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47696: Link has been severed",
+        "output": "ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.8089",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "62500 floating point alignment exceptions",
+        "output": "<*> floating point alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.3400",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41587, Connection reset by peer",
+        "output": "ciod: Error reading message prefix on CioStream socket to <*>, Connection reset by peer"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.7187",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.56320",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00106bd8 dear 0245ceec",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 003a92a0 dear 013611f8",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "program interrupt: fp cr field .............0",
+        "output": "program interrupt: fp cr field .............<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10616 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10664 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+        "output": "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "machine state register: 0x00002000",
+        "output": "machine state register: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "guaranteed instruction cache block touch.0",
+        "output": "guaranteed instruction cache block touch.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+        "output": "Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.36787",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.15966",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "generating core.12927",
+        "output": "generating core.<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "111990296 double-hummer alignment exceptions",
+        "output": "<*> double-hummer alignment exceptions"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 00149ee0 dear 0099e5e8",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "iar 0010662c dear 0245ccfc",
+        "output": "iar <*> dear <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ambient=29",
+        "output": "ambient=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "warning",
+        "output": "warning"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "running",
+        "output": "running"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "running",
+        "output": "running"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "warning",
+        "output": "warning"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ambient=27",
+        "output": "ambient=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "boot  (command 2110)",
+        "output": "boot (command <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "link errors remain current",
+        "output": "link errors remain current"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "warning",
+        "output": "warning"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ambient=26",
+        "output": "ambient=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "wait  (command 2424)",
+        "output": "wait (command <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "wait  (command 2511)",
+        "output": "wait (command <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "warning",
+        "output": "warning"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "running",
+        "output": "running"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ambient=33",
+        "output": "ambient=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ambient=34",
+        "output": "ambient=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "not-responding",
+        "output": "not-responding"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "normal",
+        "output": "normal"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "running",
+        "output": "running"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "boot  (command 2602)",
+        "output": "boot (command <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+        "output": "Fan speeds ( <*> <*> <*> **** <*> <*> )"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linkerror event interval expired",
+        "output": "Linkerror event interval expired"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ClusterFileSystem: There is no server for ServerFileSystem domain storage1331",
+        "output": "ClusterFileSystem: There is no server for ServerFileSystem domain <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "boot  (command 3624)",
+        "output": "boot (command <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "NIFF: node node-240 has detected an available network connection on network 5.5.224.0 via interface alt0",
+        "output": "NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "critical",
+        "output": "critical"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C1] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "L2 cache: 2048K",
+        "output": "L2 cache: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.28.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.24.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "registered new driver hub",
+        "output": "registered new driver hub"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C6] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.30.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "removing rsync",
+        "output": "removing <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A3] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_B8] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.20.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A4] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************",
+        "output": "[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.28.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.18.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: we failed to resolve data source name cn526 cn527 cn528 cn529 cn530 cn531 cn532 cn533 cn534 cn535 cn536 cn537 cn538 cn539 cn540 cn541 cn542 cn543 cn544 cn545 cn546 cn547 cn548 cn549 cn550 cn551 cn552 cn553 cn554 cn555 cn556 cn557 cn558 cn559 cn560 cn561 cn562 cn563 cn564 cn565 cn566 cn567 cn568 cn569 cn570 cn571 cn572 cn573 cn574 cn575 cn576 cn577 cn578 cn579 cn580 cn581 cn582 cn583 cn584 cn585 cn586 cn587 cn588 cn589 cn590 cn591 cn592 cn593 cn594 cn595 cn596 cn597 cn598 cn599 cn600 cn601 cn602 cn603 cn604 cn605 cn606 cn607 cn608 cn609 cn610 cn611 cn612 cn613 cn614 cn615 cn616 cn617 cn618 cn619 cn620 cn621 cn622 cn623 cn624 cn625 cn626 cn627 cn628 cn629 cn630 cn631 cn632 cn633 cn634 cn635 cn636 cn637 cn638 cn639 cn640",
+        "output": "Warning: we failed to resolve data source name <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "synchronized to 10.100.22.250, stratum 3",
+        "output": "synchronized to <*>, stratum <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_C5] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1",
+        "output": "DHCPOFFER on <*> to <*> via eth1"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection lost: 'Connection closed.'",
+        "output": "connection lost: 'Connection closed.'"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)",
+        "output": "LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "data_thread() got not answer from any [Thunderbird_A2] datasource",
+        "output": "data_thread() got not answer from any [<*>] datasource"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************",
+        "output": "[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "L2 cache: 2048K",
+        "output": "L2 cache: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[ib_sm_sweep.c:1455]: No topology change",
+        "output": "[ib_sm_sweep.c:<*>]: No topology change"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2809900~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 0, CurrentState:0",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3176343857 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "NonStart: Success, startup processing not required as expected.",
+        "output": "NonStart: Success, startup processing not required as expected."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3149090~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_144115249 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3080149~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3108381~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2509553~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_106683108 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB2864202~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Read out cached package applicability for package: Package_for_KB3185911~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",
+        "output": "Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_167476586 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_20518180 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_3185714393 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Warning: Unrecognized packageExtended attribute.",
+        "output": "Warning: Unrecognized packageExtended attribute."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546354_2919539169 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546174_97232568 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Session: 30546173_4268042763 initialized by client WindowsUpdateAgent.",
+        "output": "Session: <*> initialized by client WindowsUpdateAgent."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM",
+        "output": "Unloading offline registry hive: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]",
+        "output": "Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 212.65.68.82 () at Sat Jul 16 08:14:04 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session closed for user news",
+        "output": "session closed for user <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "removing device node '/udev/vcs2'",
+        "output": "removing device node '<*>'"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session opened for user news by (uid=0)",
+        "output": "session opened for user <*> by (uid=<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session closed for user test",
+        "output": "session closed for user <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "check pass; user unknown",
+        "output": "check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session closed for user news",
+        "output": "session closed for user <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "check pass; user unknown",
+        "output": "check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)",
+        "output": "ANONYMOUS FTP LOGIN FROM <*>, (anonymous)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "session opened for user cyrus by (uid=0)",
+        "output": "session opened for user <*> by (uid=<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Linux agpgart interface v0.100 (c) Dave Jones",
+        "output": "Linux agpgart interface <*> (c) Dave Jones"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005",
+        "output": "connection from <*> (<*>) at <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root",
+        "output": "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111",
+        "output": "cancelNotificationLocked:<*>|<*>|<*>|<*>|<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "release:lock=219829192, flg=0x0, tag=\"AudioMix\", name=audioserver\", ws=null, uid=1041, pid=0",
+        "output": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRecentTasks: num=20,flags=62,totalTasks=46",
+        "output": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelPeek: false",
+        "output": "cancelPeek: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessOut =38",
+        "output": "HBM brightnessOut =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "sending alarm Alarm{c1705d3 type 3 when 509202333 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick",
+        "output": "sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =time_tick"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+        "output": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:true, getTopPadding=333.0, Translation=-338.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelPeek: false",
+        "output": "cancelPeek: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Animating brightness: target=38, rate=200",
+        "output": "Animating brightness: target=<*>, rate=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+        "output": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-250.0",
+        "output": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+        "output": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "logNotificationVisibilityChanges runInThread over",
+        "output": "logNotificationVisibilityChanges runInThread over"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+        "output": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553",
+        "output": "overlapAmount:<*>, previousNotificationEnd:<*>, newYTranslation:<*>, location:<*>, i:<*>, getTopPadding:<*>, getLocationOnScreen():<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "updateDimmedActivatedHideSensitive overlap:false",
+        "output": "updateDimmedActivatedHideSensitive overlap:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setLightsOn(true)",
+        "output": "setLightsOn(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "HBM brightnessIn =38",
+        "output": "HBM brightnessIn =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =135",
+        "output": "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onTouchEvent::0, x=271.0, y=14.0",
+        "output": "onTouchEvent::<*>, x=<*>, y=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "getRecentTasks: num=10,flags=62,totalTasks=46",
+        "output": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33055760",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "new date =20171223, type=40041,6720.0,old=6480.0",
+        "output": "new date =<*>, type=<*>,<*>,old=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33450764",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514038801000 1 0 4",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514044487000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "stepSyncOrNot appSynTimes is 0, statsyncTimes is 0",
+        "output": "stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=0",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514039520000##7189##549659##8661##16256##28234547",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34054759",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7053 5035 151075 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3685",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514043614000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3786",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateCaloriesWithCache totalCalories=130673",
+        "output": "calculateCaloriesWithCache totalCalories=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onExtend:1514045346000 0 0 0",
+        "output": "onExtend:<*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "REPORT : 7113 5078 152360 240",
+        "output": "REPORT : <*> <*> <*> <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3761",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514038560000##7071##548561##8661##16256##27288973",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3755",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34086757",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "onStandStepChanged 3595",
+        "output": "onStandStepChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "theDayChanged 1514044800216",
+        "output": "theDayChanged <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33041763",
+        "output": "setTodayTotalDetailSteps=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "processHandleBroadcastAction action:android.intent.action.TIME_TICK",
+        "output": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": " getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29353602",
+        "output": "getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "calculateAltitudeWithCache totalAltitude=240",
+        "output": "calculateAltitudeWithCache totalAltitude=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6437 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4960 in scoreboard slot 9",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32454 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6595 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 6",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 8",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 8",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 2841 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1000 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 8584 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5494 in scoreboard slot 8",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Can't find child 2086 in scoreboard",
+        "output": "jk2_init() Can't find child <*> in scoreboard"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 5915 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "mod_jk child workerEnv in error state 7",
+        "output": "mod_jk child workerEnv in error state <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6600 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 3754 in scoreboard slot 12",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1899 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 6577 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 32629 in scoreboard slot 10",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "workerEnv.init() ok /etc/httpd/conf/workers2.properties",
+        "output": "workerEnv.init() ok <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 4612 in scoreboard slot 6",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "jk2_init() Found child 1931 in scoreboard slot 7",
+        "output": "jk2_init() Found child <*> in scoreboard slot <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "d3cv4a9a9wh0bt.cloudfront.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "odr.mookie1.com:443 close, 361 bytes sent, 4839 bytes (4.72 KB) received, lifetime 00:11",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:04",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "d.dropbox.com:443 close, 1337 bytes (1.30 KB) sent, 4946 bytes (4.83 KB) received, lifetime 01:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:13",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 31257 bytes (30.5 KB) sent, 1846301 bytes (1.76 MB) received, lifetime 01:33",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "timg.baidu.com:80 close, 1299 bytes (1.26 KB) sent, 4993 bytes (4.87 KB) received, lifetime 00:30",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients1.google.com:443 close, 939 bytes sent, 5532 bytes (5.40 KB) received, lifetime 04:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "clients6.google.com:443 close, 16089 bytes (15.7 KB) sent, 12420 bytes (12.1 KB) received, lifetime 20:10",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:29",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.google-analytics.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "github.com:443 close, 9626 bytes (9.40 KB) sent, 287127 bytes (280 KB) received, lifetime 00:34",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "tcpconn6.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.4399.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "log.getdropbox.com:80 close, 739 bytes sent, 404 bytes received, lifetime <1 sec",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "c.trello.com:443 close, 568 bytes sent, 156 bytes received, lifetime 00:12",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS",
+        "output": "<*> open through proxy <*> HTTPS"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 877 bytes sent, 507 bytes received, lifetime 00:48",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "www.gstatic.com:443 close, 1239 bytes (1.20 KB) sent, 20185 bytes (19.7 KB) received, lifetime 04:00",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17",
+        "output": "<*> close, <*> sent, <*> received, lifetime <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 36961 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 44125 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user cisco from 103.99.0.122",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection closed by 191.210.223.172 [preauth]",
+        "output": "Connection closed by <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection closed by 194.190.163.22 [preauth]",
+        "output": "Connection closed by <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Received disconnect from 183.62.140.253: 11: Bye Bye [preauth]",
+        "output": "Received disconnect from <*>: <*>: Bye Bye [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!",
+        "output": "reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 112.95.230.3 port 50655 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for invalid user  0101 from 5.188.10.180 port 36279 ssh2",
+        "output": "Failed password for invalid user <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PAM service(sshd) ignoring max retries; 6 > 3",
+        "output": "PAM service(sshd) ignoring max retries; <*> > <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]",
+        "output": "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.235.32.19  user=root",
+        "output": "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "pam_unix(sshd:auth): check pass; user unknown",
+        "output": "pam_unix(sshd:auth): check pass; user unknown"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 48088 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Failed password for root from 183.62.140.253 port 42564 ssh2",
+        "output": "Failed password for <*> from <*> port <*> ssh2"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Connection closed by 5.188.10.180 [preauth]",
+        "output": "Connection closed by <*> [preauth]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Invalid user user from 103.99.0.122",
+        "output": "Invalid user <*> from <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2751970",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1916 time: 0.2779312",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 19.71 seconds to spawn the instance on the hypervisor.",
+        "output": "[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.141,10.11.10.1 \"GET /latest/meta-data/block-device-mapping/ HTTP/1.1\" status: 200 len: 124 time: 0.2311139",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deleting instance files /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del",
+        "output": "[instance: <*>] Deleting instance files <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 20.83 seconds to build instance.",
+        "output": "[instance: <*>] Took <*> seconds to build instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2593911",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking",
+        "output": "image <*> at (<*>): checking"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deleting instance files /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del",
+        "output": "[instance: <*>] Deleting instance files <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2599471",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Terminating instance",
+        "output": "[instance: <*>] Terminating instance"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.131,10.11.10.1 \"GET /openstack/2013-10-17/meta_data.json HTTP/1.1\" status: 200 len: 967 time: 0.2374320",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Creating event network-vif-plugged:899a49ed-0154-4308-949e-f59ac7acc66d for instance 17288ea8-cbf4-4f0e-94fe-853fd2735f29",
+        "output": "Creating event network-vif-plugged:<*> for instance <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1916 time: 0.2785730",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Removable base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] VM Started (Lifecycle Event)",
+        "output": "[instance: <*>] VM Started (Lifecycle Event)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 0.47 seconds to deallocate network for instance.",
+        "output": "[instance: <*>] Took <*> seconds to deallocate network for instance."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2426131",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.21.128,10.11.10.1 \"GET /openstack/2013-10-17 HTTP/1.1\" status: 200 len: 157 time: 0.2219090",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total memory: 64172 MB, used: 512.00 MB",
+        "output": "[instance: <*>] Total memory: <*> MB, used: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] memory limit: 96258.00 MB, free: 95746.00 MB",
+        "output": "[instance: <*>] memory limit: <*> MB, free: <*> MB"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Unknown base file: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 20.47 seconds to spawn the instance on the hypervisor.",
+        "output": "[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+        "output": "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Total usable vcpus: 16, total allocated vcpus: 1",
+        "output": "Total usable vcpus: <*>, total allocated vcpus: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Unknown base file: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Removing base or swap file: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/127e769a-4fe6-4548-93b1-513ac51e0452 HTTP/1.1\" status: 200 len: 1708 time: 0.1873600",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+        "output": "Active base files: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2575760",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1575 time: 0.2966871",
+        "output": "<*> \"GET <*>\" status: <*> len: <*> time: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CCFile::captureLogRun() Exiting CCFile::captureLogRun",
+        "output": "CCFile::captureLogRun() Exiting CCFile::captureLogRun"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 5",
+        "output": "<*>::<*> - retries = <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Error returned from iconservicesagent: (null)",
+        "output": "Error returned from iconservicesagent: (<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Unable to start NetBIOS name service:",
+        "output": "Unable to start NetBIOS name service:"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Cocoa scripting error for '0x02120002': four character codes must be four characters long.",
+        "output": "Cocoa scripting error for '<*>': four character codes must be four characters long."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Bluetooth -- LE is supported - Disable LE meta event",
+        "output": "Bluetooth -- LE is supported - Disable LE meta event"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Thermal pressure state: 1 Memory pressure state: 0",
+        "output": "Thermal pressure state: <*> Memory pressure state: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "com.apple.Addres(38179) deny network-outbound /private/var/run/mDNSResponder",
+        "output": "<*>(<*>) deny network-outbound <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 712997.981881: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,",
+        "output": "ARPT: <*>: IOPMPowerSource Information: onWake, SleepType: Normal Sleep, 'ExternalConnected': Yes, 'TimeRemaining': <*>,"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "DB Error: 1 \"no such table: tb_c2cMsg_2909288299\"",
+        "output": "DB Error: <*> \"no such table: <*>\""
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[14:39:45.538] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification",
+        "output": "[<*>:<*>:<*>] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "PM response took 1936 ms (54, powerd)",
+        "output": "PM response took <*> ms (<*>, powerd)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Wake reason: RTC (Alarm)",
+        "output": "Wake reason: RTC (Alarm)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 621799.252673: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0",
+        "output": "ARPT: <*>: AQM agg results <*> len hi/lo: <*> <*> BAbitmap(<*>-<*>) <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[11:39:18.356] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7fce15069400) rejecting report of layer being serviced - IQ has not yet begun to update",
+        "output": "[<*>:<*>:<*>] <<<< IQ-CA >>>> piqca_setUsePreQueue: (<*>) rejecting report of layer being serviced - IQ has not yet begun to update"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "CCFile::captureLogRun() Exiting CCFile::captureLogRun",
+        "output": "CCFile::captureLogRun() Exiting CCFile::captureLogRun"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "KeychainGetICDPStatus: status: off",
+        "output": "KeychainGetICDPStatus: status: off"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 770798.478026: framerdy 0x0 bmccmd 3 framecnt 1024",
+        "output": "ARPT: <*>: framerdy <*> bmccmd <*> framecnt <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "[21:03:03.265] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92",
+        "output": "[<*>:<*>:<*>] FigAgglomeratorSetObjectForKey signalled err=<*> (kFigStringConformerError_ParamErr) (<*> key) at <*> line <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0",
+        "output": "Setting BTCoex Config: <*>:<*>, <*>:<*>, <*>:<*>, <*>:<*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID",
+        "output": "-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 740226.968934: AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]",
+        "output": "ARPT: <*>: <*>::platformWoWEnable: WWEN[disable]"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "Location icon should now be in state 'Active'",
+        "output": "Location icon should now be in state 'Active'"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 700254.389213: wl0: setup_keepalive: Seq: 2502126767, Ack: 2906384231, Win size: 4096",
+        "output": "ARPT: <*>: wl0: setup_keepalive: Seq: <*>, Ack: <*>, Win size: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 661708.530713: wl0: MDNS: IPV6 Addr: fe80:0:0:0:c6b3:1ff:fecd:467f",
+        "output": "ARPT: <*>: wl0: MDNS: IPV6 Addr: <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "com.apple.EscrowSecurityAlert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 4429 seconds.  Ignoring.",
+        "output": "com.apple.<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring."
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "full wake promotion (reason 1) 374 ms",
+        "output": "full wake promotion (reason <*>) <*> ms"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 \"query missing class name\" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",
+        "output": "securityd_xpc_dictionary_handler cloudd[<*>] copy_matching Error Domain=NSOSStatusErrorDomain Code=<*> \"query missing class name\" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)",
+        "output": "<*>::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(<*>)"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "ARPT: 669592.164786: AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0",
+        "output": "ARPT: <*>: AQM agg params <*> maxlen hi/lo <*> <*> minlen <*> adjlen <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "en0: channel changed to 1",
+        "output": "en0: channel changed to <*>"
+    },
+    {
+        "instruction": "As a log parser, you will be given a log message, and you need to replace variables with <*> to extract the corresponding template.",
+        "input": "AppleCamIn::wakeEventHandlerThread",
+        "output": "AppleCamIn::wakeEventHandlerThread"
+    }
+]

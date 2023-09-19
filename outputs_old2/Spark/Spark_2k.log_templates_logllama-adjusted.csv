@@ -1,0 +1,49 @@
+EventTemplate,Occurrences
+Got assigned task <*>,305
+"Times: total = <*>, boot = <*>, init = <*>, finish = <*>",276
+Finished task <*> in stage <*>. <*> bytes result sent to driver,270
+Found block <*> locally,257
+Running task <*> in stage <*> (TID <*>).,236
+Times: total = <*> boot = <*> init = <*> finish = <*>,97
+"Partition <*> not found, computing it",75
+"Block <*> stored as bytes in memory (estimated size <*> B, free <*> KB)",72
+Running task <*> in stage <*>,69
+Started reading broadcast variable <*>,37
+Reading broadcast variable <*> took <*> ms,37
+Input split: <*> for block <*> terminating,36
+"Block <*> stored as bytes in memory (estimated size <*>, free <*> KB)",35
+File Output Committer Algorithm version is <*>,30
+Saved output of task <*> to hdfs://<*>/_temporary/0/task <*>,30
+Committed,30
+Finished task <*> in stage <*> (TID <*>),24
+"Block <*> stored as values in memory (estimated size <*>, free <*>).",20
+"Block <*> stored as values in memory (estimated size <*>, free <*> KB)",12
+Input split: <*>,9
+Finished task <*> in stage <*> (TID <*>) <*> bytes result sent to driver,6
+"Block <*> stored as bytes in memory (estimated size <*>, free <*>).",5
+Changing view acls to: <*>,2
+Changing modify acls to: <*>,2
+"SecurityManager: <*> authentication disabled; <*> ui acls disabled; <*> users with view permissions: Set(yarn, curi); <*> users with modify permissions: Set(yarn, curi)",2
+Successfully started service <*> on port <*>.,2
+"Block <*> stored as values in memory (estimated size <*> B, free <*> KB)",2
+"Times: total = <*>, boot = -<*>, init = <*>, finish = <*>",2
+Registered signal handlers for <*>,1
+Slf4jLogger started,1
+Starting remoting,1
+Remoting started; listening on addresses :<*>,1
+Created local directory at <*> terminating,1
+MemoryStore started with capacity <*>,1
+Connecting to driver: <*>,1
+Successfully registered with driver,1
+Starting executor ID <*> on host <*>,1
+Server created on <*>,1
+BlockManager <*> trying to register,1
+BlockManager <*> registered,1
+mapreduce.task.id,1
+mapreduce.task.attempt.id,1
+"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",1
+mapreduce.job.id,1
+"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",1
+"Block broadcast_4 stored as values in memory (estimated size <*> B, free <*> KB)",1
+"Block broadcast_1 stored as values in memory (estimated size <*> B, free <*> KB)",1
+"Block broadcast_2 stored as values in memory (estimated size <*> B, free <*> KB)",1

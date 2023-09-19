@@ -1,0 +1,5 @@
+{
+    "description": "Template used by log parser.",
+    "prompt": "As a log parser, you will be given some log messages delimited by backticks, and you need to substitute their variables including numbers, file paths, IP addresses and ports with placeholders <*> to get the corresponding templates. If the given log message is `{input}`, its template is:",
+    "response_split": "its template is:"
+}

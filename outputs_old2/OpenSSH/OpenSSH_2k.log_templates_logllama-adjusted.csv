@@ -1,0 +1,61 @@
+EventTemplate,Occurrences
+Received disconnect from <*> terminating,421
+Failed password for <*> from <*> port <*> ssh2,378
+pam_unix(sshd:auth): authentication failure; logname=uid=<*> euid=<*> tty=ssh ruser=rhost=<*> user=<*>,318
+pam_unix(sshd:auth): check pass; user <*>,135
+Failed password for invalid user <*> from <*> port <*> ssh2,129
+pam_unix(sshd:auth): authentication failure; logname=uid=<*> euid=<*> tty=ssh ruser=rhost=<*>,110
+Invalid user <*> from <*>,97
+reverse mapping checking getaddrinfo for <*> failed - POSSIBLE BREAK-IN ATTEMPT!,85
+pam_unix(sshd:auth): authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,56
+input_userauth_request: invalid user <*> [preauth],52
+error: Received disconnect from <*> <*>: No more user authentication methods available. [preauth],45
+input_userauth_request: invalid user <*>,37
+Connection closed by <*> [preauth],20
+Connection closed by <*> terminating,14
+Did not receive identification string from <*>,10
+PAM service <*> ignoring max retries; <*> > <*>,7
+Invalid user support from <*>,6
+input_userauth_request: invalid user support [preauth],6
+PAM <*> more authentication failures; logname=uid=<*> euid=<*> tty=ssh ruser=rhost=<*>,6
+pam_unix(sshd:auth): authentication failure; logname= <*> euid= <*> tty= <*> ruser= <*> rhost= <*> user= <*>,6
+Failed none for invalid user <*> from <*> port <*> ssh2,4
+pam_unix(sshd:auth): authentication failure; logname=<*> uid=<*> euid=<*> tty=ssh ruser=<*> rhost=<*> user=<*>,4
+input_userauth_request: invalid user <*> inspur [preauth],3
+Failed password for ftp from <*> port <*> ssh2,3
+input_userauth_request: invalid user <*> preauth,3
+Disconnecting: <*> for <*> [preauth],2
+PAM <*> more authentication failures; logname=uid=<*> euid=<*> tty=ssh ruser=rhost=<*> user=<*>,2
+error: Received disconnect from <*> <*>: com.jcraft.jsch.JSchException: Auth fail [preauth],2
+Failed password for invalid user default from <*> port <*> ssh2,2
+PAM <*> more authentication failure; logname=uid=<*> euid=<*> tty=ssh ruser=rhost=<*>,2
+Failed password for sshd from <*> port <*> ssh2,2
+Invalid user deploy from <*>,2
+input_userauth_request: invalid user deploy [preauth],2
+Failed password for invalid user deploy from <*> port <*> ssh2,2
+Failed password for mysql from <*> port <*> ssh2,2
+Invalid user default from <*>,1
+input_userauth_request: invalid user default [preauth],1
+Invalid user operator from <*>,1
+input_userauth_request: invalid user operator [<*>],1
+Invalid user monitor from <*>,1
+input_userauth_request: invalid user <*> monitor [preauth],1
+Invalid user Management from <*>,1
+input_userauth_request: invalid user Management [preauth],1
+Failed password for invalid user Management from <*> port <*> ssh2,1
+Invalid user api from <*>,1
+input_userauth_request: invalid user api [preauth],1
+input_userauth_request: invalid user <*> butter [preauth],1
+input_userauth_request: invalid user nagios <*> preauth,1
+Invalid user oralce from <*>,1
+input_userauth_request: invalid user oralce [preauth],1
+input_userauth_request: invalid user <*> nagios1 [preauth],1
+Accepted password for <*> from <*> port <*> ssh2,1
+pam_unix(sshd:session): session opened for user <*> by (uid=<*>),1
+pam_unix(sshd:session): session closed for user <*>,1
+Disconnecting: Too many authentication failures for <*> terminating,1
+Invalid user cheng from <*>,1
+Invalid user boot from <*>,1
+input_userauth_request: invalid user boot [preauth],1
+Failed password for invalid user boot from <*> port <*> ssh2,1
+fatal: Write failed: Connection reset by peer <*> preauth,1
